@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reaction_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://libnucnet.sourceforge.net/xsd_pub/2019-01-15/libnucnet__reac/ http://libnucnet.sourceforge.net/xsd_pub/2019-01-15/libnucnet__reac.xsd">
+  <!--po210 -> pb206 + he4-->
+  <reaction>
+    <source>Nuclear Wallet Cards (2011)</source>
+    <reactant>po210</reactant>
+    <product>pb206</product>
+    <product>he4</product>
+    <single_rate>5.79764e-08</single_rate>
+  </reaction>
+</reaction_data>

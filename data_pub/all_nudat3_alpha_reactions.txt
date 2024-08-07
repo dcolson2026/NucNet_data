@@ -1,0 +1,4869 @@
+single_rate
+NuDat3 json
+1
+te106
+2
+he4
+sn102
+10045.611312462976
+
+single_rate
+NuDat3 json
+1
+te107
+2
+he4
+sn103
+134.77861844221158
+
+single_rate
+NuDat3 json
+1
+te104
+2
+he4
+sn100
+38508176.69777473
+
+single_rate
+NuDat3 json
+1
+te105
+2
+he4
+sn101
+1100233.619936421
+
+single_rate
+NuDat3 json
+1
+te108
+2
+he4
+sn104
+0.16173434213065388
+
+single_rate
+NuDat3 json
+1
+i108
+2
+he4
+sb104
+26.124297146104
+
+single_rate
+NuDat3 json
+1
+i110
+2
+he4
+sb106
+0.17587316521670254
+
+single_rate
+NuDat3 json
+1
+xe111
+2
+he4
+te107
+0.09741527943004638
+
+single_rate
+NuDat3 json
+1
+xe110
+2
+he4
+te106
+4.770045113530807
+
+single_rate
+NuDat3 json
+1
+xe109
+2
+he4
+te105
+53.319013889226554
+
+single_rate
+NuDat3 json
+1
+xe108
+2
+he4
+te104
+11950.81345793009
+
+single_rate
+NuDat3 json
+1
+nd144
+2
+he4
+ce140
+9.601971027597869e-24
+
+single_rate
+NuDat3 json
+1
+sm146
+2
+he4
+nd142
+3.2300748125926656e-16
+
+single_rate
+NuDat3 json
+1
+sm147
+2
+he4
+nd143
+2.056608528046281e-19
+
+single_rate
+NuDat3 json
+1
+sm148
+2
+he4
+nd144
+3.2101974291305572e-24
+
+single_rate
+NuDat3 json
+1
+eu151
+2
+he4
+pm147
+4.774893201223941e-27
+
+single_rate
+NuDat3 json
+1
+gd148
+2
+he4
+sm144
+2.527561418369405e-10
+
+single_rate
+NuDat3 json
+1
+gd150
+2
+he4
+sm146
+1.2292650954572492e-14
+
+single_rate
+NuDat3 json
+1
+gd152
+2
+he4
+sm148
+2.0337508079287153e-22
+
+single_rate
+NuDat3 json
+1
+tb149
+2
+he4
+eu145
+7.804448432680073e-06
+
+single_rate
+NuDat3 json
+1
+dy150
+2
+he4
+gd146
+0.0005961516894634583
+
+single_rate
+NuDat3 json
+1
+dy154
+2
+he4
+gd150
+7.987094082047318e-15
+
+single_rate
+NuDat3 json
+1
+ho151
+2
+he4
+tb147
+0.004332169878499658
+
+single_rate
+NuDat3 json
+1
+ho152
+2
+he4
+tb148
+0.0005658344331101595
+
+single_rate
+NuDat3 json
+1
+er153
+2
+he4
+dy149
+0.00990210257942779
+
+single_rate
+NuDat3 json
+1
+er152
+2
+he4
+dy148
+0.061160045343524594
+
+single_rate
+NuDat3 json
+1
+tm154
+2
+he4
+ho150
+0.046209812037329684
+
+single_rate
+NuDat3 json
+1
+tm153
+2
+he4
+ho149
+0.4261918475064529
+
+single_rate
+NuDat3 json
+1
+yb156
+2
+he4
+er152
+0.0027725887222397817
+
+single_rate
+NuDat3 json
+1
+yb155
+2
+he4
+er151
+0.34463742497114597
+
+single_rate
+NuDat3 json
+1
+yb154
+2
+he4
+er150
+1.569325890460903
+
+single_rate
+NuDat3 json
+1
+lu156
+2
+he4
+tm152
+1.4031319444533308
+
+single_rate
+NuDat3 json
+1
+lu155
+2
+he4
+tm151
+9.10402267004107
+
+single_rate
+NuDat3 json
+1
+hf159
+2
+he4
+yb155
+0.01599570416676797
+
+single_rate
+NuDat3 json
+1
+hf157
+2
+he4
+yb153
+5.665724780229118
+
+single_rate
+NuDat3 json
+1
+hf158
+2
+he4
+yb154
+0.1058842072372606
+
+single_rate
+NuDat3 json
+1
+hf156
+2
+he4
+yb152
+30.136833937388925
+
+single_rate
+NuDat3 json
+1
+hf174
+2
+he4
+yb170
+3.1377869608043036e-25
+
+single_rate
+NuDat3 json
+1
+ta159
+2
+he4
+lu155
+0.2266058090292129
+
+single_rate
+NuDat3 json
+1
+ta157
+2
+he4
+lu153
+65.64511533538305
+
+single_rate
+NuDat3 json
+1
+ta158
+2
+he4
+lu154
+14.145860827753985
+
+single_rate
+NuDat3 json
+1
+w180
+2
+he4
+hf176
+1.3814156431213918e-26
+
+single_rate
+NuDat3 json
+1
+w163
+2
+he4
+hf159
+0.035940964917923084
+
+single_rate
+NuDat3 json
+1
+w162
+2
+he4
+hf158
+0.3220683869268433
+
+single_rate
+NuDat3 json
+1
+w161
+2
+he4
+hf157
+1.2371575594346211
+
+single_rate
+NuDat3 json
+1
+w160
+2
+he4
+hf156
+6.626791726232444
+
+single_rate
+NuDat3 json
+1
+w159
+2
+he4
+hf155
+81.54672712469944
+
+single_rate
+NuDat3 json
+1
+w158
+2
+he4
+hf154
+495.1051289713895
+
+single_rate
+NuDat3 json
+1
+re163
+2
+he4
+ta159
+0.56873614815175
+
+single_rate
+NuDat3 json
+1
+re162
+2
+he4
+ta158
+6.0893303712742854
+
+single_rate
+NuDat3 json
+1
+re160
+2
+he4
+ta156
+124.58527755162415
+
+single_rate
+NuDat3 json
+1
+re166
+2
+he4
+ta162
+0.0739356992597275
+
+single_rate
+NuDat3 json
+1
+re165
+2
+he4
+ta161
+0.06065037829899521
+
+single_rate
+NuDat3 json
+1
+os166
+2
+he4
+w162
+2.713736603135635
+
+single_rate
+NuDat3 json
+1
+os167
+2
+he4
+w163
+0.42134095600187377
+
+single_rate
+NuDat3 json
+1
+os168
+2
+he4
+w164
+0.14853153869141683
+
+single_rate
+NuDat3 json
+1
+os169
+2
+he4
+w165
+0.02792975404020956
+
+single_rate
+NuDat3 json
+1
+os161
+2
+he4
+w157
+1083.0424696249145
+
+single_rate
+NuDat3 json
+1
+os162
+2
+he4
+w158
+330.07008598092625
+
+single_rate
+NuDat3 json
+1
+os163
+2
+he4
+w159
+119.50813457930091
+
+single_rate
+NuDat3 json
+1
+os164
+2
+he4
+w160
+31.68672825416893
+
+single_rate
+NuDat3 json
+1
+os165
+2
+he4
+w161
+8.78637271132325
+
+single_rate
+NuDat3 json
+1
+os186
+2
+he4
+w182
+1.0982254362815063e-23
+
+single_rate
+NuDat3 json
+1
+os184
+2
+he4
+w180
+1.96111685050269e-21
+
+single_rate
+NuDat3 json
+1
+ir167
+2
+he4
+re163
+10.166158648212532
+
+single_rate
+NuDat3 json
+1
+ir168
+2
+he4
+re164
+3.122284597116871
+
+single_rate
+NuDat3 json
+1
+ir169
+2
+he4
+re165
+1.0407025657132323
+
+single_rate
+NuDat3 json
+1
+ir171
+2
+he4
+re167
+0.032491274088747434
+
+single_rate
+NuDat3 json
+1
+ir166
+2
+he4
+re162
+55.09631435220078
+
+single_rate
+NuDat3 json
+1
+pt190
+2
+he4
+os186
+4.485579612059385e-20
+
+single_rate
+NuDat3 json
+1
+pt166
+2
+he4
+os162
+2475.5256448569476
+
+single_rate
+NuDat3 json
+1
+pt165
+2
+he4
+os161
+2665.950694461328
+
+single_rate
+NuDat3 json
+1
+pt167
+2
+he4
+os163
+770.1635339554946
+
+single_rate
+NuDat3 json
+1
+pt169
+2
+he4
+os165
+99.16268677538557
+
+single_rate
+NuDat3 json
+1
+pt168
+2
+he4
+os164
+343.1421685940323
+
+single_rate
+NuDat3 json
+1
+pt171
+2
+he4
+os167
+13.561575271825015
+
+single_rate
+NuDat3 json
+1
+pt170
+2
+he4
+os166
+49.86670363740613
+
+single_rate
+NuDat3 json
+1
+pt173
+2
+he4
+os169
+1.5568011541988076
+
+single_rate
+NuDat3 json
+1
+pt172
+2
+he4
+os168
+6.903005802291035
+
+single_rate
+NuDat3 json
+1
+pt175
+2
+he4
+os171
+0.1825572821227839
+
+single_rate
+NuDat3 json
+1
+pt174
+2
+he4
+os170
+0.5989174947234551
+
+single_rate
+NuDat3 json
+1
+pt176
+2
+he4
+os172
+0.043870074718983874
+
+single_rate
+NuDat3 json
+1
+au170
+2
+he4
+ir166
+262.917896074462
+
+single_rate
+NuDat3 json
+1
+au173
+2
+he4
+ir169
+24.77408173864443
+
+single_rate
+NuDat3 json
+1
+au172
+2
+he4
+ir168
+31.50669002545206
+
+single_rate
+NuDat3 json
+1
+au175
+2
+he4
+ir171
+3.103644092059456
+
+single_rate
+NuDat3 json
+1
+au174
+2
+he4
+ir170
+4.488003327366552
+
+single_rate
+NuDat3 json
+1
+au177
+2
+he4
+ir173
+0.25742742606765506
+
+single_rate
+NuDat3 json
+1
+au176
+2
+he4
+ir172
+0.3828812997378745
+
+single_rate
+NuDat3 json
+1
+au178
+2
+he4
+ir174
+0.032618690849879776
+
+single_rate
+NuDat3 json
+1
+au179
+2
+he4
+ir175
+0.021179497183776107
+
+single_rate
+NuDat3 json
+1
+hg170
+2
+he4
+pt166
+8664.339756999318
+
+single_rate
+NuDat3 json
+1
+hg174
+2
+he4
+pt170
+364.81430555786596
+
+single_rate
+NuDat3 json
+1
+hg173
+2
+he4
+pt169
+866.4339756999316
+
+single_rate
+NuDat3 json
+1
+hg172
+2
+he4
+pt168
+3000.637145281149
+
+single_rate
+NuDat3 json
+1
+hg171
+2
+he4
+pt167
+11748.257297626194
+
+single_rate
+NuDat3 json
+1
+hg178
+2
+he4
+pt174
+2.319176656760719
+
+single_rate
+NuDat3 json
+1
+hg177
+2
+he4
+pt173
+5.924334876580729
+
+single_rate
+NuDat3 json
+1
+hg176
+2
+he4
+pt172
+32.57791748631743
+
+single_rate
+NuDat3 json
+1
+hg175
+2
+he4
+pt171
+67.95560593724954
+
+single_rate
+NuDat3 json
+1
+hg179
+2
+he4
+pt175
+0.4951051289713895
+
+single_rate
+NuDat3 json
+1
+hg183
+2
+he4
+pt179
+0.018380082540690686
+
+single_rate
+NuDat3 json
+1
+hg180
+2
+he4
+pt176
+0.1289576149878968
+
+single_rate
+NuDat3 json
+1
+hg181
+2
+he4
+pt177
+0.046209812037329684
+
+single_rate
+NuDat3 json
+1
+hg182
+2
+he4
+pt178
+0.008791756518131659
+
+single_rate
+NuDat3 json
+1
+tl177
+2
+he4
+au173
+28.110968989375557
+
+single_rate
+NuDat3 json
+1
+tl178
+2
+he4
+au174
+1.6919340627841186
+
+single_rate
+NuDat3 json
+1
+tl179
+2
+he4
+au175
+0.9762636345914723
+
+single_rate
+NuDat3 json
+1
+pb178
+2
+he4
+hg174
+3465.7359027997263
+
+single_rate
+NuDat3 json
+1
+pb179
+2
+he4
+hg175
+256.7211779851649
+
+single_rate
+NuDat3 json
+1
+pb180
+2
+he4
+hg176
+169.06028794145013
+
+single_rate
+NuDat3 json
+1
+pb181
+2
+he4
+hg177
+19.254088348887368
+
+single_rate
+NuDat3 json
+1
+pb183
+2
+he4
+hg179
+1.2956022066541033
+
+single_rate
+NuDat3 json
+1
+pb184
+2
+he4
+hg180
+1.131668866220319
+
+single_rate
+NuDat3 json
+1
+pb185
+2
+he4
+hg181
+0.03740794307783832
+
+single_rate
+NuDat3 json
+1
+pb186
+2
+he4
+hg182
+0.05752258759833571
+
+single_rate
+NuDat3 json
+1
+pb182
+2
+he4
+hg178
+12.602676010180824
+
+single_rate
+NuDat3 json
+1
+bi186
+2
+he4
+tl182
+46.83426895675306
+
+single_rate
+NuDat3 json
+1
+bi184
+2
+he4
+tl180
+53.319013889226554
+
+single_rate
+NuDat3 json
+1
+bi189
+2
+he4
+tl185
+1.0118936942480952
+
+single_rate
+NuDat3 json
+1
+bi190
+2
+he4
+tl186
+0.0990210257942779
+
+single_rate
+NuDat3 json
+1
+bi187
+2
+he4
+tl183
+18.733707582701225
+
+single_rate
+NuDat3 json
+1
+bi188
+2
+he4
+tl184
+11.552453009332423
+
+single_rate
+NuDat3 json
+1
+bi191
+2
+he4
+tl187
+0.028508472748836458
+
+single_rate
+NuDat3 json
+1
+bi192
+2
+he4
+tl188
+0.002403978660901544
+
+single_rate
+NuDat3 json
+1
+bi211
+2
+he4
+tl207
+0.005383443102348908
+
+single_rate
+NuDat3 json
+1
+bi212
+2
+he4
+tl208
+6.85694969786473e-05
+
+single_rate
+NuDat3 json
+1
+bi209
+2
+he4
+tl205
+1.0927616281408023e-27
+
+single_rate
+NuDat3 json
+1
+po208
+2
+he4
+pb204
+7.57889238967602e-09
+
+single_rate
+NuDat3 json
+1
+po209
+2
+he4
+pb205
+1.763271791203912e-10
+
+single_rate
+NuDat3 json
+1
+po210
+2
+he4
+pb206
+5.7975522207550365e-08
+
+single_rate
+NuDat3 json
+1
+po211
+2
+he4
+pb207
+1.3433084894572582
+
+single_rate
+NuDat3 json
+1
+po212
+2
+he4
+pb208
+2349651.459525238
+
+single_rate
+NuDat3 json
+1
+po213
+2
+he4
+pb209
+187033.77780894368
+
+single_rate
+NuDat3 json
+1
+po214
+2
+he4
+pb210
+4239.950945436417
+
+single_rate
+NuDat3 json
+1
+po215
+2
+he4
+pb211
+389.18898726638406
+
+single_rate
+NuDat3 json
+1
+po216
+2
+he4
+pb212
+4.813522087221842
+
+single_rate
+NuDat3 json
+1
+po217
+2
+he4
+pb213
+0.44171143859212203
+
+single_rate
+NuDat3 json
+1
+po218
+2
+he4
+pb214
+0.003729386977613939
+
+single_rate
+NuDat3 json
+1
+po219
+2
+he4
+pb215
+0.00031537190209406996
+
+single_rate
+NuDat3 json
+1
+po186
+2
+he4
+pb182
+24755.256448569475
+
+single_rate
+NuDat3 json
+1
+po187
+2
+he4
+pb183
+495.1051289713895
+
+single_rate
+NuDat3 json
+1
+po188
+2
+he4
+pb184
+2567.211779851649
+
+single_rate
+NuDat3 json
+1
+po189
+2
+he4
+pb185
+198.04205158855578
+
+single_rate
+NuDat3 json
+1
+po190
+2
+he4
+pb186
+282.9172165550797
+
+single_rate
+NuDat3 json
+1
+po191
+2
+he4
+pb187
+31.50669002545206
+
+single_rate
+NuDat3 json
+1
+po192
+2
+he4
+pb188
+21.526309955277796
+
+single_rate
+NuDat3 json
+1
+po193
+2
+he4
+pb189
+1.703064325700111
+
+single_rate
+NuDat3 json
+1
+po194
+2
+he4
+pb190
+1.644456321226401
+
+single_rate
+NuDat3 json
+1
+po195
+2
+he4
+pb191
+0.14042205813067857
+
+single_rate
+NuDat3 json
+1
+po196
+2
+he4
+pb192
+0.11572972464055926
+
+single_rate
+NuDat3 json
+1
+po197
+2
+he4
+pb193
+0.005647865915673629
+
+single_rate
+NuDat3 json
+1
+po198
+2
+he4
+pb194
+0.003741419440522432
+
+single_rate
+NuDat3 json
+1
+po200
+2
+he4
+pb196
+0.0001135154078308316
+
+single_rate
+NuDat3 json
+1
+at193
+2
+he4
+bi189
+24.755256448569472
+
+single_rate
+NuDat3 json
+1
+at194
+2
+he4
+bi190
+2.423591540419389
+
+single_rate
+NuDat3 json
+1
+at191
+2
+he4
+bi187
+407.73363562349726
+
+single_rate
+NuDat3 json
+1
+at192
+2
+he4
+bi188
+7.876672506363015
+
+single_rate
+NuDat3 json
+1
+at202
+2
+he4
+bi198
+0.0004520525090608339
+
+single_rate
+NuDat3 json
+1
+at203
+2
+he4
+bi199
+0.0004839541125531149
+
+single_rate
+NuDat3 json
+1
+at200
+2
+he4
+bi196
+0.008543441992948162
+
+single_rate
+NuDat3 json
+1
+at201
+2
+he4
+bi197
+0.005789817625853661
+
+single_rate
+NuDat3 json
+1
+at198
+2
+he4
+bi194
+0.13955983501206953
+
+single_rate
+NuDat3 json
+1
+at199
+2
+he4
+bi195
+0.09149144994478474
+
+single_rate
+NuDat3 json
+1
+at196
+2
+he4
+bi192
+1.7926220186895137
+
+single_rate
+NuDat3 json
+1
+at197
+2
+he4
+bi193
+1.7167897951497613
+
+single_rate
+NuDat3 json
+1
+at195
+2
+he4
+bi191
+2.243194759093674
+
+single_rate
+NuDat3 json
+1
+at213
+2
+he4
+bi209
+5589896.617418914
+
+single_rate
+NuDat3 json
+1
+at214
+2
+he4
+bi210
+1242199.248315314
+
+single_rate
+NuDat3 json
+1
+at211
+2
+he4
+bi207
+1.1147946386038169e-05
+
+single_rate
+NuDat3 json
+1
+at212
+2
+he4
+bi208
+2.2074750973246666
+
+single_rate
+NuDat3 json
+1
+at207
+2
+he4
+bi203
+1.0637617872313463e-05
+
+single_rate
+NuDat3 json
+1
+at205
+2
+he4
+bi201
+4.294592196777852e-05
+
+single_rate
+NuDat3 json
+1
+at215
+2
+he4
+bi211
+18733.707582701223
+
+single_rate
+NuDat3 json
+1
+at218
+2
+he4
+bi214
+0.5412504741950511
+
+single_rate
+NuDat3 json
+1
+at219
+2
+he4
+bi215
+0.011585460017930514
+
+single_rate
+NuDat3 json
+1
+at216
+2
+he4
+bi212
+2310.4906018664847
+
+single_rate
+NuDat3 json
+1
+at217
+2
+he4
+bi213
+21.26069509991736
+
+single_rate
+NuDat3 json
+1
+rn214
+2
+he4
+po210
+2676243.940385889
+
+single_rate
+NuDat3 json
+1
+rn213
+2
+he4
+po209
+35.766108388026076
+
+single_rate
+NuDat3 json
+1
+rn215
+2
+he4
+po211
+301368.3393738893
+
+single_rate
+NuDat3 json
+1
+rn210
+2
+he4
+po206
+7.637985460715651e-05
+
+single_rate
+NuDat3 json
+1
+rn209
+2
+he4
+po205
+6.842916416677741e-05
+
+single_rate
+NuDat3 json
+1
+rn212
+2
+he4
+po208
+0.0004833662347001013
+
+single_rate
+NuDat3 json
+1
+rn211
+2
+he4
+po207
+3.5888572840783257e-06
+
+single_rate
+NuDat3 json
+1
+rn206
+2
+he4
+po202
+0.001138715558948506
+
+single_rate
+NuDat3 json
+1
+rn208
+2
+he4
+po204
+0.00029499674076549013
+
+single_rate
+NuDat3 json
+1
+rn207
+2
+he4
+po203
+0.00026227190615781714
+
+single_rate
+NuDat3 json
+1
+rn221
+2
+he4
+po217
+8.990235804927954e-05
+
+single_rate
+NuDat3 json
+1
+rn220
+2
+he4
+po216
+0.012466675909351532
+
+single_rate
+NuDat3 json
+1
+rn222
+2
+he4
+po218
+2.099338161863896e-06
+
+single_rate
+NuDat3 json
+1
+rn217
+2
+he4
+po213
+1174.8257297626192
+
+single_rate
+NuDat3 json
+1
+rn216
+2
+he4
+po212
+23901.62691586018
+
+single_rate
+NuDat3 json
+1
+rn219
+2
+he4
+po215
+0.175037166808067
+
+single_rate
+NuDat3 json
+1
+rn218
+2
+he4
+po214
+20.53769423881319
+
+single_rate
+NuDat3 json
+1
+rn195
+2
+he4
+po191
+115.52453009332422
+
+single_rate
+NuDat3 json
+1
+rn194
+2
+he4
+po190
+888.6502314871091
+
+single_rate
+NuDat3 json
+1
+rn193
+2
+he4
+po189
+602.7366787477786
+
+single_rate
+NuDat3 json
+1
+rn203
+2
+he4
+po199
+0.010397207708399182
+
+single_rate
+NuDat3 json
+1
+rn202
+2
+he4
+po198
+0.055451774444795626
+
+single_rate
+NuDat3 json
+1
+rn205
+2
+he4
+po201
+0.001019334089058743
+
+single_rate
+NuDat3 json
+1
+rn204
+2
+he4
+po200
+0.006744134729772439
+
+single_rate
+NuDat3 json
+1
+rn199
+2
+he4
+po195
+1.1552453009332422
+
+single_rate
+NuDat3 json
+1
+rn198
+2
+he4
+po194
+9.59742250006078
+
+single_rate
+NuDat3 json
+1
+rn200
+2
+he4
+po196
+0.578744247846168
+
+single_rate
+NuDat3 json
+1
+rn197
+2
+he4
+po193
+12.602676010180824
+
+single_rate
+NuDat3 json
+1
+rn196
+2
+he4
+po192
+157.5334501272603
+
+single_rate
+NuDat3 json
+1
+fr219
+2
+he4
+at215
+31.50669002545206
+
+single_rate
+NuDat3 json
+1
+fr218
+2
+he4
+at214
+630.1338005090412
+
+single_rate
+NuDat3 json
+1
+fr217
+2
+he4
+at213
+31506.69002545206
+
+single_rate
+NuDat3 json
+1
+fr221
+2
+he4
+at217
+0.002406139426511551
+
+single_rate
+NuDat3 json
+1
+fr220
+2
+he4
+at216
+0.025208801657955675
+
+single_rate
+NuDat3 json
+1
+fr216
+2
+he4
+at212
+990210.2579427791
+
+single_rate
+NuDat3 json
+1
+fr215
+2
+he4
+at211
+7788170.568089273
+
+single_rate
+NuDat3 json
+1
+fr214
+2
+he4
+at210
+126.02676010180824
+
+single_rate
+NuDat3 json
+1
+fr213
+2
+he4
+at209
+0.020173686598386465
+
+single_rate
+NuDat3 json
+1
+fr208
+2
+he4
+at204
+0.010527320660381421
+
+single_rate
+NuDat3 json
+1
+fr207
+2
+he4
+at203
+0.044492555508915406
+
+single_rate
+NuDat3 json
+1
+fr212
+2
+he4
+at208
+0.0002447071327099971
+
+single_rate
+NuDat3 json
+1
+fr211
+2
+he4
+at207
+0.00324214003810297
+
+single_rate
+NuDat3 json
+1
+fr210
+2
+he4
+at206
+0.002579321269379251
+
+single_rate
+NuDat3 json
+1
+fr209
+2
+he4
+at205
+0.01221586120194755
+
+single_rate
+NuDat3 json
+1
+fr205
+2
+he4
+at201
+0.17506409560296052
+
+single_rate
+NuDat3 json
+1
+fr204
+2
+he4
+at200
+0.35427522561952757
+
+single_rate
+NuDat3 json
+1
+fr203
+2
+he4
+at199
+1.2602676010180822
+
+single_rate
+NuDat3 json
+1
+fr202
+2
+he4
+at198
+1.9042504960438058
+
+single_rate
+NuDat3 json
+1
+fr206
+2
+he4
+at202
+0.03829638172593698
+
+single_rate
+NuDat3 json
+1
+fr197
+2
+he4
+at193
+1155.2453009332423
+
+single_rate
+NuDat3 json
+1
+fr201
+2
+he4
+at197
+11.00233619936421
+
+single_rate
+NuDat3 json
+1
+fr200
+2
+he4
+at196
+13.862943611198904
+
+single_rate
+NuDat3 json
+1
+fr199
+2
+he4
+at195
+154.03270679109895
+
+single_rate
+NuDat3 json
+1
+fr198
+2
+he4
+at194
+46.20981203732969
+
+single_rate
+NuDat3 json
+1
+ra224
+2
+he4
+rn220
+2.2092740374071005e-06
+
+single_rate
+NuDat3 json
+1
+ra226
+2
+he4
+rn222
+1.3727817953518829e-11
+
+single_rate
+NuDat3 json
+1
+ra219
+2
+he4
+rn215
+77.01635339554947
+
+single_rate
+NuDat3 json
+1
+ra218
+2
+he4
+rn214
+26752.110403703024
+
+single_rate
+NuDat3 json
+1
+ra221
+2
+he4
+rn217
+0.04332169878499658
+
+single_rate
+NuDat3 json
+1
+ra220
+2
+he4
+rn216
+38.508176697774736
+
+single_rate
+NuDat3 json
+1
+ra223
+2
+he4
+rn219
+7.015650633164618e-07
+
+single_rate
+NuDat3 json
+1
+ra222
+2
+he4
+rn218
+0.020629380373807894
+
+single_rate
+NuDat3 json
+1
+ra214
+2
+he4
+rn210
+0.2841391682738348
+
+single_rate
+NuDat3 json
+1
+ra213
+2
+he4
+rn209
+0.003639234281328162
+
+single_rate
+NuDat3 json
+1
+ra216
+2
+he4
+rn212
+4029925.468371775
+
+single_rate
+NuDat3 json
+1
+ra215
+2
+he4
+rn211
+412.58760747615787
+
+single_rate
+NuDat3 json
+1
+ra217
+2
+he4
+rn213
+435941.6229936763
+
+single_rate
+NuDat3 json
+1
+ra208
+2
+he4
+rn204
+0.5432775198983355
+
+single_rate
+NuDat3 json
+1
+ra210
+2
+he4
+rn206
+0.17773004629742187
+
+single_rate
+NuDat3 json
+1
+ra209
+2
+he4
+rn205
+0.14440566261665527
+
+single_rate
+NuDat3 json
+1
+ra212
+2
+he4
+rn208
+0.05331901388922656
+
+single_rate
+NuDat3 json
+1
+ra211
+2
+he4
+rn207
+0.05331901388922656
+
+single_rate
+NuDat3 json
+1
+ra203
+2
+he4
+rn199
+22.359586469675655
+
+single_rate
+NuDat3 json
+1
+ra202
+2
+he4
+rn198
+182.40715277893298
+
+single_rate
+NuDat3 json
+1
+ra205
+2
+he4
+rn201
+3.22394037469742
+
+single_rate
+NuDat3 json
+1
+ra204
+2
+he4
+rn200
+11.950813457930089
+
+single_rate
+NuDat3 json
+1
+ra207
+2
+he4
+rn203
+0.425790410915395
+
+single_rate
+NuDat3 json
+1
+ra206
+2
+he4
+rn202
+2.8881132523331057
+
+single_rate
+NuDat3 json
+1
+ra201
+2
+he4
+rn197
+86.64339756999316
+
+single_rate
+NuDat3 json
+1
+ac208
+2
+he4
+fr204
+7.453195489891885
+
+single_rate
+NuDat3 json
+1
+ac207
+2
+he4
+fr203
+25.672117798516492
+
+single_rate
+NuDat3 json
+1
+ac206
+2
+he4
+fr202
+25.672117798516492
+
+single_rate
+NuDat3 json
+1
+ac205
+2
+he4
+fr201
+90.01911435843445
+
+single_rate
+NuDat3 json
+1
+ac212
+2
+he4
+fr208
+0.7744661235306651
+
+single_rate
+NuDat3 json
+1
+ac211
+2
+he4
+fr207
+3.300700859809263
+
+single_rate
+NuDat3 json
+1
+ac210
+2
+he4
+fr206
+2.0149627341858873
+
+single_rate
+NuDat3 json
+1
+ac209
+2
+he4
+fr205
+7.617001984175223
+
+single_rate
+NuDat3 json
+1
+ac218
+2
+he4
+fr214
+679556.0593724954
+
+single_rate
+NuDat3 json
+1
+ac217
+2
+he4
+fr213
+10045611.312462974
+
+single_rate
+NuDat3 json
+1
+ac216
+2
+he4
+fr212
+1925.4088348887371
+
+single_rate
+NuDat3 json
+1
+ac215
+2
+he4
+fr211
+4.0736667535143605
+
+single_rate
+NuDat3 json
+1
+ac214
+2
+he4
+fr210
+0.07523182813394529
+
+single_rate
+NuDat3 json
+1
+ac213
+2
+he4
+fr209
+0.9392238218969449
+
+single_rate
+NuDat3 json
+1
+ac223
+2
+he4
+fr219
+0.005394777584546744
+
+single_rate
+NuDat3 json
+1
+ac222
+2
+he4
+fr218
+0.14004402219476444
+
+single_rate
+NuDat3 json
+1
+ac221
+2
+he4
+fr217
+13.329753472306638
+
+single_rate
+NuDat3 json
+1
+ac220
+2
+he4
+fr216
+26.25557502121005
+
+single_rate
+NuDat3 json
+1
+ac219
+2
+he4
+fr215
+72962.86111157319
+
+single_rate
+NuDat3 json
+1
+ac225
+2
+he4
+fr221
+8.088050017175524e-07
+
+single_rate
+NuDat3 json
+1
+th230
+2
+he4
+ra226
+2.9130648177228285e-13
+
+single_rate
+NuDat3 json
+1
+th232
+2
+he4
+ra228
+1.5612633809532984e-18
+
+single_rate
+NuDat3 json
+1
+th228
+2
+he4
+ra224
+1.1490117558919298e-08
+
+single_rate
+NuDat3 json
+1
+th227
+2
+he4
+ra223
+4.2915954187724157e-07
+
+single_rate
+NuDat3 json
+1
+th229
+2
+he4
+ra225
+2.777680521736342e-12
+
+single_rate
+NuDat3 json
+1
+th224
+2
+he4
+ra220
+0.666487673615332
+
+single_rate
+NuDat3 json
+1
+th223
+2
+he4
+ra219
+1.1552453009332422
+
+single_rate
+NuDat3 json
+1
+th226
+2
+he4
+ra222
+0.0003764240146410042
+
+single_rate
+NuDat3 json
+1
+th225
+2
+he4
+ra221
+0.0011923403335320159
+
+single_rate
+NuDat3 json
+1
+th220
+2
+he4
+ra216
+67955.60593724955
+
+single_rate
+NuDat3 json
+1
+th222
+2
+he4
+ra218
+351.85136069032757
+
+single_rate
+NuDat3 json
+1
+th221
+2
+he4
+ra217
+400.6631101502574
+
+single_rate
+NuDat3 json
+1
+th217
+2
+he4
+ra213
+2728.9259077163206
+
+single_rate
+NuDat3 json
+1
+th216
+2
+he4
+ra212
+26.659506944613277
+
+single_rate
+NuDat3 json
+1
+th219
+2
+he4
+ra215
+679556.0593724954
+
+single_rate
+NuDat3 json
+1
+th218
+2
+he4
+ra214
+5728489.095536738
+
+single_rate
+NuDat3 json
+1
+th213
+2
+he4
+ra209
+4.747583428492776
+
+single_rate
+NuDat3 json
+1
+th212
+2
+he4
+ra208
+21.865841658042438
+
+single_rate
+NuDat3 json
+1
+th215
+2
+he4
+ra211
+0.49510512897138953
+
+single_rate
+NuDat3 json
+1
+th214
+2
+he4
+ra210
+6.931471805599452
+
+single_rate
+NuDat3 json
+1
+th211
+2
+he4
+ra207
+18.733707582701225
+
+single_rate
+NuDat3 json
+1
+th210
+2
+he4
+ra206
+44.14950194649333
+
+single_rate
+NuDat3 json
+1
+th209
+2
+he4
+ra205
+277.25887222397813
+
+single_rate
+NuDat3 json
+1
+th208
+2
+he4
+ra204
+223.5958646967565
+
+single_rate
+NuDat3 json
+1
+pa211
+2
+he4
+ac207
+182.40715277893298
+
+single_rate
+NuDat3 json
+1
+pa215
+2
+he4
+ac211
+49.510512897138945
+
+single_rate
+NuDat3 json
+1
+pa214
+2
+he4
+ac210
+40.77336356234972
+
+single_rate
+NuDat3 json
+1
+pa213
+2
+he4
+ac209
+130.7824868981029
+
+single_rate
+NuDat3 json
+1
+pa212
+2
+he4
+ac208
+138.62943611198907
+
+single_rate
+NuDat3 json
+1
+pa219
+2
+he4
+ac215
+12602676.010180824
+
+single_rate
+NuDat3 json
+1
+pa218
+2
+he4
+ac214
+6359.148445504085
+
+single_rate
+NuDat3 json
+1
+pa217
+2
+he4
+ac213
+187.33707582701223
+
+single_rate
+NuDat3 json
+1
+pa216
+2
+he4
+ac212
+5.8741286488130955
+
+single_rate
+NuDat3 json
+1
+pa220
+2
+he4
+ac216
+778817.0568089273
+
+single_rate
+NuDat3 json
+1
+pa222
+2
+he4
+ac218
+178.18693587659263
+
+single_rate
+NuDat3 json
+1
+pa221
+2
+he4
+ac217
+117482.5729762619
+
+single_rate
+NuDat3 json
+1
+pa226
+2
+he4
+ac222
+0.004749341792725552
+
+single_rate
+NuDat3 json
+1
+pa225
+2
+he4
+ac221
+0.40773363562349724
+
+single_rate
+NuDat3 json
+1
+pa224
+2
+he4
+ac220
+0.8154672712469945
+
+single_rate
+NuDat3 json
+1
+pa223
+2
+he4
+ac219
+130.7824868981029
+
+single_rate
+NuDat3 json
+1
+pa227
+2
+he4
+ac223
+0.0002563860328441921
+
+single_rate
+NuDat3 json
+1
+pa231
+2
+he4
+ac227
+6.708973617285234e-13
+
+single_rate
+NuDat3 json
+1
+u215
+2
+he4
+th211
+990.210257942779
+
+single_rate
+NuDat3 json
+1
+u222
+2
+he4
+th218
+147478.12352339263
+
+single_rate
+NuDat3 json
+1
+u224
+2
+he4
+th220
+1750.3716680806701
+
+single_rate
+NuDat3 json
+1
+u223
+2
+he4
+th219
+11179.793234837829
+
+single_rate
+NuDat3 json
+1
+u226
+2
+he4
+th222
+2.5960568560297577
+
+single_rate
+NuDat3 json
+1
+u225
+2
+he4
+th221
+11.363068533769598
+
+single_rate
+NuDat3 json
+1
+u217
+2
+he4
+th213
+43.32169878499658
+
+single_rate
+NuDat3 json
+1
+u216
+2
+he4
+th212
+154.03270679109895
+
+single_rate
+NuDat3 json
+1
+u219
+2
+he4
+th215
+11552.453009332423
+
+single_rate
+NuDat3 json
+1
+u218
+2
+he4
+th214
+1100.233619936421
+
+single_rate
+NuDat3 json
+1
+u221
+2
+he4
+th217
+1050223.0008484018
+
+single_rate
+NuDat3 json
+1
+u233
+2
+he4
+th229
+1.3797755325826613e-13
+
+single_rate
+NuDat3 json
+1
+u232
+2
+he4
+th228
+3.1878822533570577e-10
+
+single_rate
+NuDat3 json
+1
+u235
+2
+he4
+th231
+3.120072583791704e-17
+
+single_rate
+NuDat3 json
+1
+u234
+2
+he4
+th230
+8.946846731417568e-14
+
+single_rate
+NuDat3 json
+1
+u236
+2
+he4
+th232
+9.374523570478074e-16
+
+single_rate
+NuDat3 json
+1
+u228
+2
+he4
+th224
+0.0012060253141610768
+
+single_rate
+NuDat3 json
+1
+u227
+2
+he4
+th223
+0.010502230008484022
+
+single_rate
+NuDat3 json
+1
+u230
+2
+he4
+th226
+3.9656632783175494e-07
+
+single_rate
+NuDat3 json
+1
+u229
+2
+he4
+th225
+3.9973885845440904e-05
+
+single_rate
+NuDat3 json
+1
+u238
+2
+he4
+th234
+4.921213612901142e-18
+
+single_rate
+NuDat3 json
+1
+np222
+2
+he4
+pa218
+1824071.5277893296
+
+single_rate
+NuDat3 json
+1
+np220
+2
+he4
+pa216
+27725.887222397818
+
+single_rate
+NuDat3 json
+1
+np219
+2
+he4
+pa215
+4620.981203732969
+
+single_rate
+NuDat3 json
+1
+np226
+2
+he4
+pa222
+18.733707582701225
+
+single_rate
+NuDat3 json
+1
+np225
+2
+he4
+pa221
+187.33707582701223
+
+single_rate
+NuDat3 json
+1
+np224
+2
+he4
+pa220
+18240.715277893298
+
+single_rate
+NuDat3 json
+1
+np223
+2
+he4
+pa219
+322394.037469742
+
+single_rate
+NuDat3 json
+1
+np229
+2
+he4
+pa225
+0.0019639170115865116
+
+single_rate
+NuDat3 json
+1
+np228
+2
+he4
+pa224
+0.004515616811465442
+
+single_rate
+NuDat3 json
+1
+np227
+2
+he4
+pa223
+1.3591121187449908
+
+single_rate
+NuDat3 json
+1
+np237
+2
+he4
+pa233
+1.0244640263820023e-14
+
+single_rate
+NuDat3 json
+1
+pu244
+2
+he4
+u240
+2.698338546112866e-16
+
+single_rate
+NuDat3 json
+1
+pu242
+2
+he4
+u238
+5.857202326834701e-14
+
+single_rate
+NuDat3 json
+1
+pu239
+2
+he4
+u235
+9.110501773458096e-13
+
+single_rate
+NuDat3 json
+1
+pu238
+2
+he4
+u234
+2.504504985818715e-10
+
+single_rate
+NuDat3 json
+1
+pu240
+2
+he4
+u236
+3.347125769655013e-12
+
+single_rate
+NuDat3 json
+1
+pu236
+2
+he4
+u232
+7.685272472228877e-09
+
+single_rate
+NuDat3 json
+1
+pu232
+2
+he4
+u228
+3.839183779536454e-05
+
+single_rate
+NuDat3 json
+1
+pu231
+2
+he4
+u227
+0.00013433084894572583
+
+single_rate
+NuDat3 json
+1
+pu228
+2
+he4
+u224
+0.6301338005090411
+
+single_rate
+NuDat3 json
+1
+pu230
+2
+he4
+u226
+0.006478011033270516
+
+single_rate
+NuDat3 json
+1
+pu229
+2
+he4
+u225
+0.004175585425059912
+
+single_rate
+NuDat3 json
+1
+am229
+2
+he4
+np225
+0.7701635339554948
+
+single_rate
+NuDat3 json
+1
+am241
+2
+he4
+np237
+5.07732517929499e-11
+
+single_rate
+NuDat3 json
+1
+am243
+2
+he4
+np239
+2.990402821733169e-12
+
+single_rate
+NuDat3 json
+1
+am223
+2
+he4
+np219
+133.29753472306638
+
+single_rate
+NuDat3 json
+1
+cm236
+2
+he4
+pu232
+0.0003058002267176229
+
+single_rate
+NuDat3 json
+1
+cm234
+2
+he4
+pu230
+0.003742994775023705
+
+single_rate
+NuDat3 json
+1
+cm233
+2
+he4
+pu229
+0.0060273667874777845
+
+single_rate
+NuDat3 json
+1
+cm246
+2
+he4
+pu242
+4.616095229472015e-12
+
+single_rate
+NuDat3 json
+1
+cm248
+2
+he4
+pu244
+5.774278618177628e-14
+
+single_rate
+NuDat3 json
+1
+cm247
+2
+he4
+pu243
+1.4079813285660339e-15
+
+single_rate
+NuDat3 json
+1
+cm240
+2
+he4
+pu236
+2.625797410518494e-07
+
+single_rate
+NuDat3 json
+1
+cm243
+2
+he4
+pu239
+7.505418660152775e-10
+
+single_rate
+NuDat3 json
+1
+cm242
+2
+he4
+pu238
+4.92542780699681e-08
+
+single_rate
+NuDat3 json
+1
+cm245
+2
+he4
+pu241
+2.6639792268805488e-12
+
+single_rate
+NuDat3 json
+1
+cm244
+2
+he4
+pu240
+1.2127047662119108e-09
+
+single_rate
+NuDat3 json
+1
+bk247
+2
+he4
+am243
+1.5916310670746468e-11
+
+single_rate
+NuDat3 json
+1
+bk234
+2
+he4
+am230
+0.029185144444629274
+
+single_rate
+NuDat3 json
+1
+bk236
+2
+he4
+am232
+0.00535613730432685
+
+single_rate
+NuDat3 json
+1
+cf246
+2
+he4
+cm242
+5.393010820200708e-06
+
+single_rate
+NuDat3 json
+1
+cf244
+2
+he4
+cm240
+0.00044661545139171733
+
+single_rate
+NuDat3 json
+1
+cf245
+2
+he4
+cm241
+9.062257582876321e-05
+
+single_rate
+NuDat3 json
+1
+cf242
+2
+he4
+cm238
+0.0020191966577916267
+
+single_rate
+NuDat3 json
+1
+cf243
+2
+he4
+cm239
+0.0001525795680477867
+
+single_rate
+NuDat3 json
+1
+cf240
+2
+he4
+cm236
+0.016571601282804514
+
+single_rate
+NuDat3 json
+1
+cf241
+2
+he4
+cm237
+0.00045843067497350885
+
+single_rate
+NuDat3 json
+1
+cf239
+2
+he4
+cm235
+0.01609091669157016
+
+single_rate
+NuDat3 json
+1
+cf248
+2
+he4
+cm244
+2.405488503289012e-08
+
+single_rate
+NuDat3 json
+1
+cf237
+2
+he4
+cm233
+0.6065037829899521
+
+single_rate
+NuDat3 json
+1
+cf251
+2
+he4
+cm247
+2.4459363837004597e-11
+
+single_rate
+NuDat3 json
+1
+cf252
+2
+he4
+cm248
+8.040487217590132e-09
+
+single_rate
+NuDat3 json
+1
+cf249
+2
+he4
+cm245
+6.263047825956694e-11
+
+single_rate
+NuDat3 json
+1
+cf250
+2
+he4
+cm246
+1.6779507686476599e-09
+
+single_rate
+NuDat3 json
+1
+es242
+2
+he4
+bk238
+0.02219628611905443
+
+single_rate
+NuDat3 json
+1
+es243
+2
+he4
+bk239
+0.019219080915525755
+
+single_rate
+NuDat3 json
+1
+es245
+2
+he4
+bk241
+0.005569932700928131
+
+single_rate
+NuDat3 json
+1
+es240
+2
+he4
+bk236
+0.07241836214805397
+
+single_rate
+NuDat3 json
+1
+es253
+2
+he4
+bk249
+3.9199339450974314e-07
+
+single_rate
+NuDat3 json
+1
+es254
+2
+he4
+bk250
+2.9098791483628596e-08
+
+single_rate
+NuDat3 json
+1
+es252
+2
+he4
+bk248
+1.3266013808328164e-08
+
+single_rate
+NuDat3 json
+1
+fm241
+2
+he4
+cf237
+132.93233599779774
+
+single_rate
+NuDat3 json
+1
+fm245
+2
+he4
+cf241
+0.11359912125843546
+
+single_rate
+NuDat3 json
+1
+fm243
+2
+he4
+cf239
+2.730579802205845
+
+single_rate
+NuDat3 json
+1
+fm249
+2
+he4
+cf245
+0.001126364168409911
+
+single_rate
+NuDat3 json
+1
+fm248
+2
+he4
+cf244
+0.020071131402301025
+
+single_rate
+NuDat3 json
+1
+fm247
+2
+he4
+cf243
+0.014310135340592419
+
+single_rate
+NuDat3 json
+1
+fm246
+2
+he4
+cf242
+0.42404298104843713
+
+single_rate
+NuDat3 json
+1
+fm252
+2
+he4
+cf248
+7.586148741077756e-06
+
+single_rate
+NuDat3 json
+1
+fm250
+2
+he4
+cf246
+0.000373865793182279
+
+single_rate
+NuDat3 json
+1
+fm255
+2
+he4
+cf251
+9.593467039804369e-06
+
+single_rate
+NuDat3 json
+1
+fm254
+2
+he4
+cf250
+5.9391018298101316e-05
+
+single_rate
+NuDat3 json
+1
+fm253
+2
+he4
+cf249
+3.2090147248145614e-07
+
+single_rate
+NuDat3 json
+1
+fm257
+2
+he4
+cf253
+7.965860183812067e-08
+
+single_rate
+NuDat3 json
+1
+md251
+2
+he4
+es247
+0.00027054925080403805
+
+single_rate
+NuDat3 json
+1
+md258
+2
+he4
+es254
+1.5571694122741468e-07
+
+single_rate
+NuDat3 json
+1
+md257
+2
+he4
+es253
+5.232089225241132e-06
+
+single_rate
+NuDat3 json
+1
+md260
+2
+he4
+es256
+6.307025795626104e-08
+
+single_rate
+NuDat3 json
+1
+md245
+2
+he4
+es241
+2.100446001696804
+
+single_rate
+NuDat3 json
+1
+md244
+2
+he4
+es240
+1.7773004629742186
+
+single_rate
+NuDat3 json
+1
+md247
+2
+he4
+es243
+0.5726550956726082
+
+single_rate
+NuDat3 json
+1
+md246
+2
+he4
+es242
+0.7701635339554948
+
+single_rate
+NuDat3 json
+1
+md249
+2
+he4
+es245
+0.020307046305467143
+
+single_rate
+NuDat3 json
+1
+md248
+2
+he4
+es244
+0.01980420515885558
+
+single_rate
+NuDat3 json
+1
+no259
+2
+he4
+fm255
+0.00014938516822412615
+
+single_rate
+NuDat3 json
+1
+no257
+2
+he4
+fm253
+0.024047963407181773
+
+single_rate
+NuDat3 json
+1
+no256
+2
+he4
+fm252
+0.23531518788497524
+
+single_rate
+NuDat3 json
+1
+no255
+2
+he4
+fm251
+0.000984584063295377
+
+single_rate
+NuDat3 json
+1
+no254
+2
+he4
+fm250
+0.012184227783280288
+
+single_rate
+NuDat3 json
+1
+no253
+2
+he4
+fm249
+0.003946490158467597
+
+single_rate
+NuDat3 json
+1
+no252
+2
+he4
+fm248
+0.18474494241046702
+
+single_rate
+NuDat3 json
+1
+no251
+2
+he4
+fm247
+0.7797905781299385
+
+single_rate
+NuDat3 json
+1
+no249
+2
+he4
+fm245
+18.337226998940352
+
+single_rate
+NuDat3 json
+1
+lr258
+2
+he4
+md254
+0.17490294141590332
+
+single_rate
+NuDat3 json
+1
+lr257
+2
+he4
+md253
+0.11748257297626191
+
+single_rate
+NuDat3 json
+1
+lr260
+2
+he4
+md256
+0.0023104906018664843
+
+single_rate
+NuDat3 json
+1
+lr259
+2
+he4
+md255
+0.08692199370365873
+
+single_rate
+NuDat3 json
+1
+lr254
+2
+he4
+md250
+0.041763573820292506
+
+single_rate
+NuDat3 json
+1
+lr253
+2
+he4
+md249
+1.0557164750066859
+
+single_rate
+NuDat3 json
+1
+lr256
+2
+he4
+md252
+0.02111738722136034
+
+single_rate
+NuDat3 json
+1
+lr255
+2
+he4
+md251
+0.022220827621166093
+
+single_rate
+NuDat3 json
+1
+lr251
+2
+he4
+md247
+28.40767133442399
+
+single_rate
+NuDat3 json
+1
+rf260
+2
+he4
+no256
+11.179793234837827
+
+single_rate
+NuDat3 json
+1
+rf259
+2
+he4
+no255
+0.2356700413903814
+
+single_rate
+NuDat3 json
+1
+rf257
+2
+he4
+no253
+0.13755120716445135
+
+single_rate
+NuDat3 json
+1
+rf261
+2
+he4
+no257
+0.00990210257942779
+
+single_rate
+NuDat3 json
+1
+rf255
+2
+he4
+no251
+0.2033785140565109
+
+single_rate
+NuDat3 json
+1
+rf253
+2
+he4
+no249
+8.748459560465328
+
+single_rate
+NuDat3 json
+1
+db268
+2
+he4
+lr264
+4.011268406018202e-06
+
+single_rate
+NuDat3 json
+1
+db258
+2
+he4
+lr254
+0.21327605555690624
+
+single_rate
+NuDat3 json
+1
+db257
+2
+he4
+lr253
+0.28328623901145594
+
+single_rate
+NuDat3 json
+1
+db260
+2
+he4
+lr256
+0.4131340811284442
+
+single_rate
+NuDat3 json
+1
+db259
+2
+he4
+lr255
+1.3591121187449908
+
+single_rate
+NuDat3 json
+1
+db262
+2
+he4
+lr258
+0.009268828577255082
+
+single_rate
+NuDat3 json
+1
+db261
+2
+he4
+lr257
+0.04564627774419153
+
+single_rate
+NuDat3 json
+1
+db263
+2
+he4
+lr259
+0.010782289475376928
+
+single_rate
+NuDat3 json
+1
+db256
+2
+he4
+lr252
+0.2553700138905062
+
+single_rate
+NuDat3 json
+1
+sg264
+2
+he4
+rf260
+2.310490601866485
+
+single_rate
+NuDat3 json
+1
+sg263
+2
+he4
+rf259
+0.6700422745412804
+
+single_rate
+NuDat3 json
+1
+sg261
+2
+he4
+rf257
+3.7157234105426573
+
+single_rate
+NuDat3 json
+1
+sg260
+2
+he4
+rf256
+101.89120045498159
+
+single_rate
+NuDat3 json
+1
+sg259
+2
+he4
+rf255
+1.6808819128578671
+
+single_rate
+NuDat3 json
+1
+sg258
+2
+he4
+rf254
+51.344235597032984
+
+single_rate
+NuDat3 json
+1
+sg265
+2
+he4
+rf261
+0.02166084939249829
+
+single_rate
+NuDat3 json
+1
+sg267
+2
+he4
+rf263
+0.0014027978654189371
+
+single_rate
+NuDat3 json
+1
+sg271
+2
+he4
+rf267
+0.0036101415654163816
+
+single_rate
+NuDat3 json
+1
+sg269
+2
+he4
+rf265
+0.005423686858841512
+
+single_rate
+NuDat3 json
+1
+bh278
+2
+he4
+db274
+0.0003040119212982216
+
+single_rate
+NuDat3 json
+1
+bh262
+2
+he4
+db258
+7.876672506363015
+
+single_rate
+NuDat3 json
+1
+bh261
+2
+he4
+db257
+59.24334876580728
+
+single_rate
+NuDat3 json
+1
+bh264
+2
+he4
+db260
+0.5951263671474277
+
+single_rate
+NuDat3 json
+1
+bh260
+2
+he4
+db256
+19.804205158855577
+
+single_rate
+NuDat3 json
+1
+bh267
+2
+he4
+db263
+0.04332169878499658
+
+single_rate
+NuDat3 json
+1
+bh272
+2
+he4
+db268
+0.0737390617616963
+
+single_rate
+NuDat3 json
+1
+bh274
+2
+he4
+db270
+0.01575334501272603
+
+single_rate
+NuDat3 json
+1
+bh271
+2
+he4
+db267
+0.46209812037329684
+
+single_rate
+NuDat3 json
+1
+bh270
+2
+he4
+db266
+0.011552453009332421
+
+single_rate
+NuDat3 json
+1
+bh266
+2
+he4
+db262
+0.06931471805599453
+
+single_rate
+NuDat3 json
+1
+bh265
+2
+he4
+db261
+0.737390617616963
+
+single_rate
+NuDat3 json
+1
+hs267
+2
+he4
+sg263
+13.07824868981029
+
+single_rate
+NuDat3 json
+1
+hs266
+2
+he4
+sg262
+177.37099569884117
+
+single_rate
+NuDat3 json
+1
+hs265
+2
+he4
+sg261
+364.81430555786596
+
+single_rate
+NuDat3 json
+1
+hs270
+2
+he4
+sg266
+0.04560178819473324
+
+single_rate
+NuDat3 json
+1
+hs269
+2
+he4
+sg265
+0.05331901388922656
+
+single_rate
+NuDat3 json
+1
+hs268
+2
+he4
+sg264
+1.732867951399863
+
+single_rate
+NuDat3 json
+1
+hs275
+2
+he4
+sg271
+3.465735902799726
+
+single_rate
+NuDat3 json
+1
+hs273
+2
+he4
+sg269
+1.3591121187449908
+
+single_rate
+NuDat3 json
+1
+hs264
+2
+he4
+sg260
+880.1868959491368
+
+single_rate
+NuDat3 json
+1
+hs263
+2
+he4
+sg259
+936.6853791350612
+
+single_rate
+NuDat3 json
+1
+mt276
+2
+he4
+bh272
+1.1179793234837827
+
+single_rate
+NuDat3 json
+1
+mt278
+2
+he4
+bh274
+0.15403270679109896
+
+single_rate
+NuDat3 json
+1
+mt270
+2
+he4
+bh266
+1.4440566261665528
+
+single_rate
+NuDat3 json
+1
+mt275
+2
+he4
+bh271
+34.657359027997266
+
+single_rate
+NuDat3 json
+1
+mt274
+2
+he4
+bh270
+1.575334501272603
+
+single_rate
+NuDat3 json
+1
+mt266
+2
+he4
+bh262
+247.5525644856947
+
+single_rate
+NuDat3 json
+1
+mt268
+2
+he4
+bh264
+33.00700859809263
+
+single_rate
+NuDat3 json
+1
+ds267
+2
+he4
+hs263
+231049.0601866484
+
+single_rate
+NuDat3 json
+1
+ds269
+2
+he4
+hs265
+3850.8176697774743
+
+single_rate
+NuDat3 json
+1
+ds282
+2
+he4
+hs278
+0.010502230008484022
+
+single_rate
+NuDat3 json
+1
+ds270
+2
+he4
+hs266
+3648.143055578659
+
+single_rate
+NuDat3 json
+1
+ds277
+2
+he4
+hs273
+198.04205158855578
+
+single_rate
+NuDat3 json
+1
+ds273
+2
+he4
+hs269
+3648.143055578659
+
+single_rate
+NuDat3 json
+1
+ds271
+2
+he4
+hs267
+433.2169878499658
+
+single_rate
+NuDat3 json
+1
+ds279
+2
+he4
+hs275
+0.4011268406018202
+
+single_rate
+NuDat3 json
+1
+rg282
+2
+he4
+mt278
+0.006931471805599453
+
+single_rate
+NuDat3 json
+1
+rg281
+2
+he4
+mt277
+0.007561605606108495
+
+single_rate
+NuDat3 json
+1
+rg278
+2
+he4
+mt274
+165.03504299046313
+
+single_rate
+NuDat3 json
+1
+rg274
+2
+he4
+mt270
+57.76226504666211
+
+single_rate
+NuDat3 json
+1
+rg272
+2
+he4
+mt268
+182.40715277893298
+
+single_rate
+NuDat3 json
+1
+rg279
+2
+he4
+mt275
+7.701635339554948
+
+single_rate
+NuDat3 json
+1
+rg280
+2
+he4
+mt276
+0.17910779859430112
+
+single_rate
+NuDat3 json
+1
+cn277
+2
+he4
+ds273
+1136.3068533769595
+
+single_rate
+NuDat3 json
+1
+cn281
+2
+he4
+ds277
+3.850817669777474
+
+single_rate
+NuDat3 json
+1
+cn286
+2
+he4
+ds282
+0.001050223000848402
+
+single_rate
+NuDat3 json
+1
+cn283
+2
+he4
+ds279
+0.12808154423390294
+
+single_rate
+NuDat3 json
+1
+cn285
+2
+he4
+ds281
+0.021004460016968044
+
+single_rate
+NuDat3 json
+1
+nh278
+2
+he4
+rg274
+0.49510512897138953
+
+single_rate
+NuDat3 json
+1
+nh282
+2
+he4
+rg278
+9.495166856985552
+
+single_rate
+NuDat3 json
+1
+nh284
+2
+he4
+rg280
+0.8453014397072504
+
+single_rate
+NuDat3 json
+1
+nh285
+2
+he4
+rg281
+0.3300700859809263
+
+single_rate
+NuDat3 json
+1
+nh283
+2
+he4
+rg279
+9.902102579427789
+
+single_rate
+NuDat3 json
+1
+nh286
+2
+he4
+rg282
+0.07296286111157319
+
+single_rate
+NuDat3 json
+1
+nh290
+2
+he4
+rg286
+0.34657359027997264
+
+single_rate
+NuDat3 json
+1
+fl284
+2
+he4
+cn280
+69.31471805599453
+
+single_rate
+NuDat3 json
+1
+fl285
+2
+he4
+cn281
+6.931471805599452
+
+single_rate
+NuDat3 json
+1
+fl286
+2
+he4
+cn282
+3.437093457322043
+
+single_rate
+NuDat3 json
+1
+fl287
+2
+he4
+cn283
+1.732867951399863
+
+single_rate
+NuDat3 json
+1
+fl288
+2
+he4
+cn284
+1.0830424696249146
+
+single_rate
+NuDat3 json
+1
+fl289
+2
+he4
+cn285
+0.28881132523331055
+
+single_rate
+NuDat3 json
+1
+fl290
+2
+he4
+cn286
+0.018240715277893296
+
+single_rate
+NuDat3 json
+1
+mc290
+2
+he4
+nh286
+1.0663802777845313
+
+single_rate
+NuDat3 json
+1
+mc288
+2
+he4
+nh284
+3.483151661105252
+
+single_rate
+NuDat3 json
+1
+mc289
+2
+he4
+nh285
+2.50233639191316
+
+single_rate
+NuDat3 json
+1
+mc287
+2
+he4
+nh283
+18.733707582701225
+
+single_rate
+NuDat3 json
+1
+lv290
+2
+he4
+fl286
+83.51170850119823
+
+single_rate
+NuDat3 json
+1
+lv291
+2
+he4
+fl287
+36.481430555786595
+
+single_rate
+NuDat3 json
+1
+lv292
+2
+he4
+fl288
+54.152123481245724
+
+single_rate
+NuDat3 json
+1
+lv293
+2
+he4
+fl289
+7.296286111157318
+
+single_rate
+NuDat3 json
+1
+ts293
+2
+he4
+mc289
+33.00700859809263
+
+single_rate
+NuDat3 json
+1
+ts294
+2
+he4
+mc290
+13.591121187449907
+
+single_rate
+NuDat3 json
+1
+og294
+2
+he4
+lv290
+1195.0813457930092
+

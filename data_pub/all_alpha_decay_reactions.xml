@@ -1,0 +1,2835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reaction_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://libnucnet.sourceforge.net/xsd_pub/2019-01-15/libnucnet__reac/ http://libnucnet.sourceforge.net/xsd_pub/2019-01-15/libnucnet__reac.xsd">
+  <!--hg181 -> he4 + pt177-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg181</reactant>
+    <product>he4</product>
+    <product>pt177</product>
+    <single_rate>0.0525806</single_rate>
+  </reaction>
+  <!--pb187 -> he4 + hg183-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pb187</reactant>
+    <product>he4</product>
+    <product>hg183</product>
+    <single_rate>0.00437346</single_rate>
+  </reaction>
+  <!--hg176 -> he4 + pt172-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg176</reactant>
+    <product>he4</product>
+    <product>pt172</product>
+    <single_rate>30.9617</single_rate>
+  </reaction>
+  <!--pa223 -> he4 + ac219-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pa223</reactant>
+    <product>he4</product>
+    <product>ac219</product>
+    <single_rate>135.153</single_rate>
+  </reaction>
+  <!--yb156 -> he4 + er152-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>yb156</reactant>
+    <product>he4</product>
+    <product>er152</product>
+    <single_rate>0.00269666</single_rate>
+  </reaction>
+  <!--w166 -> he4 + hf162-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>w166</reactant>
+    <product>he4</product>
+    <product>hf162</product>
+    <single_rate>1.26132e-05</single_rate>
+  </reaction>
+  <!--au170 -> he4 + ir166-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>au170</reactant>
+    <product>he4</product>
+    <product>ir166</product>
+    <single_rate>263.527</single_rate>
+  </reaction>
+  <!--es248 -> he4 + bk244-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>es248</reactant>
+    <product>he4</product>
+    <product>bk244</product>
+    <single_rate>1.20455e-06</single_rate>
+  </reaction>
+  <!--hg172 -> he4 + pt168-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg172</reactant>
+    <product>he4</product>
+    <product>pt168</product>
+    <single_rate>3025.7</single_rate>
+  </reaction>
+  <!--po195 -> he4 + pb191-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po195</reactant>
+    <product>he4</product>
+    <product>pb191</product>
+    <single_rate>0.141522</single_rate>
+  </reaction>
+  <!--tm156 -> he4 + ho152-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>tm156</reactant>
+    <product>he4</product>
+    <product>ho152</product>
+    <single_rate>5.25806e-06</single_rate>
+  </reaction>
+  <!--no259 -> he4 + fm255-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>no259</reactant>
+    <product>he4</product>
+    <product>fm255</product>
+    <single_rate>0.000151644</single_rate>
+  </reaction>
+  <!--bi187 -> he4 + tl183-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>bi187</reactant>
+    <product>he4</product>
+    <product>tl183</product>
+    <single_rate>18.6563</single_rate>
+  </reaction>
+  <!--th220 -> he4 + ra216-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th220</reactant>
+    <product>he4</product>
+    <product>ra216</product>
+    <single_rate>70929.3</single_rate>
+  </reaction>
+  <!--th225 -> he4 + ra221-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th225</reactant>
+    <product>he4</product>
+    <product>ra221</product>
+    <single_rate>0.00117713</single_rate>
+  </reaction>
+  <!--w158 -> he4 + hf154-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>w158</reactant>
+    <product>he4</product>
+    <product>hf154</product>
+    <single_rate>550.586</single_rate>
+  </reaction>
+  <!--ra223 -> he4 + rn219-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra223</reactant>
+    <product>he4</product>
+    <product>rn219</product>
+    <single_rate>7.09293e-07</single_rate>
+  </reaction>
+  <!--sg259 -> he4 + rf255-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>sg259</reactant>
+    <product>he4</product>
+    <product>rf255</product>
+    <single_rate>1.66274</single_rate>
+  </reaction>
+  <!--ir174 -> he4 + re170-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ir174</reactant>
+    <product>he4</product>
+    <product>re170</product>
+    <single_rate>0.000468625</single_rate>
+  </reaction>
+  <!--rf261 -> he4 + no257-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rf261</reactant>
+    <product>he4</product>
+    <product>no257</product>
+    <single_rate>0.0872621</single_rate>
+  </reaction>
+  <!--th221 -> he4 + ra217-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th221</reactant>
+    <product>he4</product>
+    <product>ra217</product>
+    <single_rate>389.785</single_rate>
+  </reaction>
+  <!--cm237 -> he4 + pu233-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cm237</reactant>
+    <product>he4</product>
+    <product>pu233</product>
+    <single_rate>1.04912e-05</single_rate>
+  </reaction>
+  <!--re169 -> he4 + ta165-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>re169</reactant>
+    <product>he4</product>
+    <product>ta165</product>
+    <single_rate>4.57958e-06</single_rate>
+  </reaction>
+  <!--fr221 -> he4 + at217-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr221</reactant>
+    <product>he4</product>
+    <product>at217</product>
+    <single_rate>0.0024034</single_rate>
+  </reaction>
+  <!--fr208 -> he4 + at204-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr208</reactant>
+    <product>he4</product>
+    <product>at204</product>
+    <single_rate>0.0104912</single_rate>
+  </reaction>
+  <!--th224 -> he4 + ra220-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th224</reactant>
+    <product>he4</product>
+    <product>ra220</product>
+    <single_rate>0.66195</single_rate>
+  </reaction>
+  <!--fr218 -> he4 + at214-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr218</reactant>
+    <product>he4</product>
+    <product>at214</product>
+    <single_rate>693.147</single_rate>
+  </reaction>
+  <!--at215 -> he4 + bi211-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at215</reactant>
+    <product>he4</product>
+    <product>bi211</product>
+    <single_rate>6931.47</single_rate>
+  </reaction>
+  <!--pb180 -> he4 + hg176-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pb180</reactant>
+    <product>he4</product>
+    <product>hg176</product>
+    <single_rate>170.147</single_rate>
+  </reaction>
+  <!--hg173 -> he4 + pt169-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg173</reactant>
+    <product>he4</product>
+    <product>pt169</product>
+    <single_rate>872.621</single_rate>
+  </reaction>
+  <!--rn222 -> he4 + po218-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn222</reactant>
+    <product>he4</product>
+    <product>po218</product>
+    <single_rate>2.09327e-06</single_rate>
+  </reaction>
+  <!--u224 -> he4 + th220-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>u224</reactant>
+    <product>he4</product>
+    <product>th220</product>
+    <single_rate>1741.11</single_rate>
+  </reaction>
+  <!--hg185 -> he4 + pt181-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg185</reactant>
+    <product>he4</product>
+    <product>pt181</product>
+    <single_rate>0.000852757</single_rate>
+  </reaction>
+  <!--pb189 -> he4 + hg185-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pb189</reactant>
+    <product>he4</product>
+    <product>hg185</product>
+    <single_rate>7.09293e-05</single_rate>
+  </reaction>
+  <!--ra209 -> he4 + rn205-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra209</reactant>
+    <product>he4</product>
+    <product>rn205</product>
+    <single_rate>0.148192</single_rate>
+  </reaction>
+  <!--rf263 -> he4 + no259-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rf263</reactant>
+    <product>he4</product>
+    <product>no259</product>
+    <single_rate>0.000316829</single_rate>
+  </reaction>
+  <!--pb179 -> he4 + hg175-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pb179</reactant>
+    <product>he4</product>
+    <product>hg175</product>
+    <single_rate>178.166</single_rate>
+  </reaction>
+  <!--ra204 -> he4 + rn200-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra204</reactant>
+    <product>he4</product>
+    <product>rn200</product>
+    <single_rate>11.5034</single_rate>
+  </reaction>
+  <!--np231 -> he4 + pa227-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>np231</reactant>
+    <product>he4</product>
+    <product>pa227</product>
+    <single_rate>5.02141e-06</single_rate>
+  </reaction>
+  <!--rn205 -> he4 + po201-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn205</reactant>
+    <product>he4</product>
+    <product>po201</product>
+    <single_rate>0.0010019</single_rate>
+  </reaction>
+  <!--tl183 -> he4 + au179-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>tl183</reactant>
+    <product>he4</product>
+    <product>au179</product>
+    <single_rate>0.00199906</single_rate>
+  </reaction>
+  <!--at218 -> he4 + bi214-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at218</reactant>
+    <product>he4</product>
+    <product>bi214</product>
+    <single_rate>0.457958</single_rate>
+  </reaction>
+  <!--tm153 -> he4 + ho149-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>tm153</reactant>
+    <product>he4</product>
+    <product>ho149</product>
+    <single_rate>0.427391</single_rate>
+  </reaction>
+  <!--th208 -> he4 + ra204-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th208</reactant>
+    <product>he4</product>
+    <product>ra204</product>
+    <single_rate>288.952</single_rate>
+  </reaction>
+  <!--ta163 -> he4 + lu159-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ta163</reactant>
+    <product>he4</product>
+    <product>lu159</product>
+    <single_rate>0.000132076</single_rate>
+  </reaction>
+  <!--ir167 -> he4 + re163-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ir167</reactant>
+    <product>he4</product>
+    <product>re163</product>
+    <single_rate>10.2524</single_rate>
+  </reaction>
+  <!--ra222 -> he4 + rn218-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra222</reactant>
+    <product>he4</product>
+    <product>rn218</product>
+    <single_rate>0.0204562</single_rate>
+  </reaction>
+  <!--os174 -> he4 + w170-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os174</reactant>
+    <product>he4</product>
+    <product>w170</product>
+    <single_rate>3.89785e-06</single_rate>
+  </reaction>
+  <!--po198 -> he4 + pb194-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po198</reactant>
+    <product>he4</product>
+    <product>pb194</product>
+    <single_rate>0.00372242</single_rate>
+  </reaction>
+  <!--pu234 -> he4 + u230-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pu234</reactant>
+    <product>he4</product>
+    <product>u230</product>
+    <single_rate>1.32076e-06</single_rate>
+  </reaction>
+  <!--po215 -> he4 + pb211-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po215</reactant>
+    <product>he4</product>
+    <product>pb211</product>
+    <single_rate>389.785</single_rate>
+  </reaction>
+  <!--u221 -> he4 + th217-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>u221</reactant>
+    <product>he4</product>
+    <product>th217</product>
+    <single_rate>1.04912e+06</single_rate>
+  </reaction>
+  <!--fr206 -> he4 + at202-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr206</reactant>
+    <product>he4</product>
+    <product>at202</product>
+    <single_rate>0.0380913</single_rate>
+  </reaction>
+  <!--cf246 -> he4 + cm242-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cf246</reactant>
+    <product>he4</product>
+    <product>cm242</product>
+    <single_rate>5.38054e-06</single_rate>
+  </reaction>
+  <!--ra219 -> he4 + rn215-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra219</reactant>
+    <product>he4</product>
+    <product>rn215</product>
+    <single_rate>69.3147</single_rate>
+  </reaction>
+  <!--at204 -> he4 + bi200-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at204</reactant>
+    <product>he4</product>
+    <product>bi200</product>
+    <single_rate>4.79541e-05</single_rate>
+  </reaction>
+  <!--pu233 -> he4 + u229-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pu233</reactant>
+    <product>he4</product>
+    <product>u229</product>
+    <single_rate>6.93147e-07</single_rate>
+  </reaction>
+  <!--th217 -> he4 + ra213-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th217</reactant>
+    <product>he4</product>
+    <product>ra213</product>
+    <single_rate>2823.74</single_rate>
+  </reaction>
+  <!--ds273 -> he4 + hs269-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ds273</reactant>
+    <product>he4</product>
+    <product>hs269</product>
+    <single_rate>2889.52</single_rate>
+  </reaction>
+  <!--fl289 -> he4 + cn285-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fl289</reactant>
+    <product>he4</product>
+    <product>cn285</product>
+    <single_rate>0.288952</single_rate>
+  </reaction>
+  <!--hs264 -> he4 + sg260-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hs264</reactant>
+    <product>he4</product>
+    <product>sg260</product>
+    <single_rate>646.883</single_rate>
+  </reaction>
+  <!--pa215 -> he4 + ac211-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pa215</reactant>
+    <product>he4</product>
+    <product>ac211</product>
+    <single_rate>49.0711</single_rate>
+  </reaction>
+  <!--am229 -> he4 + np225-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>am229</reactant>
+    <product>he4</product>
+    <product>np225</product>
+    <single_rate>0.347397</single_rate>
+  </reaction>
+  <!--pt166 -> he4 + os162-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt166</reactant>
+    <product>he4</product>
+    <product>os162</product>
+    <single_rate>2295.23</single_rate>
+  </reaction>
+  <!--ac217 -> he4 + fr213-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac217</reactant>
+    <product>he4</product>
+    <product>fr213</product>
+    <single_rate>1.0019e+07</single_rate>
+  </reaction>
+  <!--ta158 -> he4 + lu154-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ta158</reactant>
+    <product>he4</product>
+    <product>lu154</product>
+    <single_rate>13.5153</single_rate>
+  </reaction>
+  <!--rn196 -> he4 + po192-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn196</reactant>
+    <product>he4</product>
+    <product>po192</product>
+    <single_rate>148.192</single_rate>
+  </reaction>
+  <!--po219 -> he4 + pb215-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po219</reactant>
+    <product>he4</product>
+    <product>pb215</product>
+    <single_rate>0.000316829</single_rate>
+  </reaction>
+  <!--md247 -> he4 + es243-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>md247</reactant>
+    <product>he4</product>
+    <product>es243</product>
+    <single_rate>0.576535</single_rate>
+  </reaction>
+  <!--at217 -> he4 + bi213-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at217</reactant>
+    <product>he4</product>
+    <product>bi213</product>
+    <single_rate>21.4203</single_rate>
+  </reaction>
+  <!--ac222 -> he4 + fr218-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac222</reactant>
+    <product>he4</product>
+    <product>fr218</product>
+    <single_rate>0.138301</single_rate>
+  </reaction>
+  <!--ds270 -> he4 + hs266-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ds270</reactant>
+    <product>he4</product>
+    <product>hs266</product>
+    <single_rate>3394.89</single_rate>
+  </reaction>
+  <!--ac211 -> he4 + fr207-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac211</reactant>
+    <product>he4</product>
+    <product>fr207</product>
+    <single_rate>3.24209</single_rate>
+  </reaction>
+  <!--cf242 -> he4 + cm238-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cf242</reactant>
+    <product>he4</product>
+    <product>cm238</product>
+    <single_rate>0.00263527</single_rate>
+  </reaction>
+  <!--po187 -> he4 + pb183-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po187</reactant>
+    <product>he4</product>
+    <product>pb183</product>
+    <single_rate>490.711</single_rate>
+  </reaction>
+  <!--ir168 -> he4 + re164-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ir168</reactant>
+    <product>he4</product>
+    <product>re164</product>
+    <single_rate>3.0257</single_rate>
+  </reaction>
+  <!--cn281 -> he4 + ds277-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cn281</reactant>
+    <product>he4</product>
+    <product>ds277</product>
+    <single_rate>3.80913</single_rate>
+  </reaction>
+  <!--ac220 -> he4 + fr216-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac220</reactant>
+    <product>he4</product>
+    <product>fr216</product>
+    <single_rate>26.3527</single_rate>
+  </reaction>
+  <!--w163 -> he4 + hf159-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>w163</reactant>
+    <product>he4</product>
+    <product>hf159</product>
+    <single_rate>0.0372242</single_rate>
+  </reaction>
+  <!--u222 -> he4 + th218-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>u222</reactant>
+    <product>he4</product>
+    <product>th218</product>
+    <single_rate>148192</single_rate>
+  </reaction>
+  <!--at213 -> he4 + bi209-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at213</reactant>
+    <product>he4</product>
+    <product>bi209</product>
+    <single_rate>5.50586e+06</single_rate>
+  </reaction>
+  <!--fr205 -> he4 + at201-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr205</reactant>
+    <product>he4</product>
+    <product>at201</product>
+    <single_rate>0.182316</single_rate>
+  </reaction>
+  <!--hg180 -> he4 + pt176-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg180</reactant>
+    <product>he4</product>
+    <product>pt176</product>
+    <single_rate>0.12907</single_rate>
+  </reaction>
+  <!--pt173 -> he4 + os169-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt173</reactant>
+    <product>he4</product>
+    <product>os169</product>
+    <single_rate>1.55176</single_rate>
+  </reaction>
+  <!--at219 -> he4 + bi215-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at219</reactant>
+    <product>he4</product>
+    <product>bi215</product>
+    <single_rate>0.0115034</single_rate>
+  </reaction>
+  <!--u218 -> he4 + th214-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>u218</reactant>
+    <product>he4</product>
+    <product>th214</product>
+    <single_rate>1261.32</single_rate>
+  </reaction>
+  <!--bi211 -> he4 + tl207-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>bi211</reactant>
+    <product>he4</product>
+    <product>tl207</product>
+    <single_rate>0.00538054</single_rate>
+  </reaction>
+  <!--u226 -> he4 + th222-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>u226</reactant>
+    <product>he4</product>
+    <product>th222</product>
+    <single_rate>2.57529</single_rate>
+  </reaction>
+  <!--np225 -> he4 + pa221-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>np225</reactant>
+    <product>he4</product>
+    <product>pa221</product>
+    <single_rate>115.034</single_rate>
+  </reaction>
+  <!--os165 -> he4 + w161-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os165</reactant>
+    <product>he4</product>
+    <product>w161</product>
+    <single_rate>8.72621</single_rate>
+  </reaction>
+  <!--cn285 -> he4 + ds281-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cn285</reactant>
+    <product>he4</product>
+    <product>ds281</product>
+    <single_rate>0.0214203</single_rate>
+  </reaction>
+  <!--pt180 -> he4 + os176-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt180</reactant>
+    <product>he4</product>
+    <product>os176</product>
+    <single_rate>3.72242e-05</single_rate>
+  </reaction>
+  <!--bi192 -> he4 + tl188-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>bi192</reactant>
+    <product>he4</product>
+    <product>tl188</product>
+    <single_rate>0.00251667</single_rate>
+  </reaction>
+  <!--hs268 -> he4 + sg264-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hs268</reactant>
+    <product>he4</product>
+    <product>sg264</product>
+    <single_rate>0.490711</single_rate>
+  </reaction>
+  <!--lv292 -> he4 + fl288-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>lv292</reactant>
+    <product>he4</product>
+    <product>fl288</product>
+    <single_rate>28.8952</single_rate>
+  </reaction>
+  <!--rn207 -> he4 + po203-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn207</reactant>
+    <product>he4</product>
+    <product>po203</product>
+    <single_rate>0.000263527</single_rate>
+  </reaction>
+  <!--os166 -> he4 + w162-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os166</reactant>
+    <product>he4</product>
+    <product>w162</product>
+    <single_rate>2.34869</single_rate>
+  </reaction>
+  <!--pb178 -> he4 + hg174-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pb178</reactant>
+    <product>he4</product>
+    <product>hg174</product>
+    <single_rate>3025.7</single_rate>
+  </reaction>
+  <!--rn216 -> he4 + po212-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn216</reactant>
+    <product>he4</product>
+    <product>po212</product>
+    <single_rate>15517.6</single_rate>
+  </reaction>
+  <!--rf260 -> he4 + no256-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rf260</reactant>
+    <product>he4</product>
+    <product>no256</product>
+    <single_rate>0.66195</single_rate>
+  </reaction>
+  <!--ac216 -> he4 + fr212-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac216</reactant>
+    <product>he4</product>
+    <product>fr212</product>
+    <single_rate>1587.91</single_rate>
+  </reaction>
+  <!--po218 -> he4 + pb214-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po218</reactant>
+    <product>he4</product>
+    <product>pb214</product>
+    <single_rate>0.00372242</single_rate>
+  </reaction>
+  <!--rn200 -> he4 + po196-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn200</reactant>
+    <product>he4</product>
+    <product>po196</product>
+    <single_rate>0.589964</single_rate>
+  </reaction>
+  <!--no256 -> he4 + fm252-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>no256</reactant>
+    <product>he4</product>
+    <product>fm252</product>
+    <single_rate>0.24034</single_rate>
+  </reaction>
+  <!--pt181 -> he4 + os177-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt181</reactant>
+    <product>he4</product>
+    <product>os177</product>
+    <single_rate>9.79096e-06</single_rate>
+  </reaction>
+  <!--po197 -> he4 + pb193-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po197</reactant>
+    <product>he4</product>
+    <product>pb193</product>
+    <single_rate>0.00576535</single_rate>
+  </reaction>
+  <!--re163 -> he4 + ta159-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>re163</reactant>
+    <product>he4</product>
+    <product>ta159</product>
+    <single_rate>0.576535</single_rate>
+  </reaction>
+  <!--bi189 -> he4 + tl185-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>bi189</reactant>
+    <product>he4</product>
+    <product>tl185</product>
+    <single_rate>1.04912</single_rate>
+  </reaction>
+  <!--hg174 -> he4 + pt170-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg174</reactant>
+    <product>he4</product>
+    <product>pt170</product>
+    <single_rate>347.397</single_rate>
+  </reaction>
+  <!--os167 -> he4 + w163-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os167</reactant>
+    <product>he4</product>
+    <product>w163</product>
+    <single_rate>0.427391</single_rate>
+  </reaction>
+  <!--at212 -> he4 + bi208-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at212</reactant>
+    <product>he4</product>
+    <product>bi208</product>
+    <single_rate>2.19192</single_rate>
+  </reaction>
+  <!--po211 -> he4 + pb207-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po211</reactant>
+    <product>he4</product>
+    <product>pb207</product>
+    <single_rate>1.35153</single_rate>
+  </reaction>
+  <!--ra203 -> he4 + rn199-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra203</reactant>
+    <product>he4</product>
+    <product>rn199</product>
+    <single_rate>19.0909</single_rate>
+  </reaction>
+  <!--pt178 -> he4 + os174-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt178</reactant>
+    <product>he4</product>
+    <product>os174</product>
+    <single_rate>0.00257529</single_rate>
+  </reaction>
+  <!--no253 -> he4 + fm249-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>no253</reactant>
+    <product>he4</product>
+    <product>fm249</product>
+    <single_rate>0.00408155</single_rate>
+  </reaction>
+  <!--hf162 -> he4 + yb158-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hf162</reactant>
+    <product>he4</product>
+    <product>yb158</product>
+    <single_rate>1.41522e-06</single_rate>
+  </reaction>
+  <!--au175 -> he4 + ir171-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>au175</reactant>
+    <product>he4</product>
+    <product>ir171</product>
+    <single_rate>3.0257</single_rate>
+  </reaction>
+  <!--ac223 -> he4 + fr219-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac223</reactant>
+    <product>he4</product>
+    <product>fr219</product>
+    <single_rate>0.00550586</single_rate>
+  </reaction>
+  <!--hf157 -> he4 + yb153-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hf157</reactant>
+    <product>he4</product>
+    <product>yb153</product>
+    <single_rate>5.63411</single_rate>
+  </reaction>
+  <!--fr207 -> he4 + at203-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr207</reactant>
+    <product>he4</product>
+    <product>at203</product>
+    <single_rate>0.0447533</single_rate>
+  </reaction>
+  <!--w162 -> he4 + hf158-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>w162</reactant>
+    <product>he4</product>
+    <product>hf158</product>
+    <single_rate>0.263527</single_rate>
+  </reaction>
+  <!--rn209 -> he4 + po205-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn209</reactant>
+    <product>he4</product>
+    <product>po205</product>
+    <single_rate>6.93147e-05</single_rate>
+  </reaction>
+  <!--th215 -> he4 + ra211-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th215</reactant>
+    <product>he4</product>
+    <product>ra211</product>
+    <single_rate>0.576535</single_rate>
+  </reaction>
+  <!--ds277 -> he4 + hs273-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ds277</reactant>
+    <product>he4</product>
+    <product>hs273</product>
+    <single_rate>115.034</single_rate>
+  </reaction>
+  <!--bi213 -> he4 + tl209-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>bi213</reactant>
+    <product>he4</product>
+    <product>tl209</product>
+    <single_rate>5.25806e-06</single_rate>
+  </reaction>
+  <!--au176 -> he4 + ir172-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>au176</reactant>
+    <product>he4</product>
+    <product>ir172</product>
+    <single_rate>0.502141</single_rate>
+  </reaction>
+  <!--rn197 -> he4 + po193-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn197</reactant>
+    <product>he4</product>
+    <product>po193</product>
+    <single_rate>12.907</single_rate>
+  </reaction>
+  <!--pu231 -> he4 + u227-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pu231</reactant>
+    <product>he4</product>
+    <product>u227</product>
+    <single_rate>0.000182316</single_rate>
+  </reaction>
+  <!--no251 -> he4 + fm247-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>no251</reactant>
+    <product>he4</product>
+    <product>fm247</product>
+    <single_rate>0.725814</single_rate>
+  </reaction>
+  <!--au183 -> he4 + ir179-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>au183</reactant>
+    <product>he4</product>
+    <product>ir179</product>
+    <single_rate>8.92947e-05</single_rate>
+  </reaction>
+  <!--ra215 -> he4 + rn211-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra215</reactant>
+    <product>he4</product>
+    <product>rn211</product>
+    <single_rate>417.662</single_rate>
+  </reaction>
+  <!--at205 -> he4 + bi201-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at205</reactant>
+    <product>he4</product>
+    <product>bi201</product>
+    <single_rate>3.47397e-05</single_rate>
+  </reaction>
+  <!--po196 -> he4 + pb192-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po196</reactant>
+    <product>he4</product>
+    <product>pb192</product>
+    <single_rate>0.123261</single_rate>
+  </reaction>
+  <!--md251 -> he4 + es247-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>md251</reactant>
+    <product>he4</product>
+    <product>es247</product>
+    <single_rate>0.000275947</single_rate>
+  </reaction>
+  <!--pt182 -> he4 + os178-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt182</reactant>
+    <product>he4</product>
+    <product>os178</product>
+    <single_rate>1.66274e-06</single_rate>
+  </reaction>
+  <!--ra224 -> he4 + rn220-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra224</reactant>
+    <product>he4</product>
+    <product>rn220</product>
+    <single_rate>2.19192e-06</single_rate>
+  </reaction>
+  <!--pt167 -> he4 + os163-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt167</reactant>
+    <product>he4</product>
+    <product>os163</product>
+    <single_rate>872.621</single_rate>
+  </reaction>
+  <!--os173 -> he4 + w169-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os173</reactant>
+    <product>he4</product>
+    <product>w169</product>
+    <single_rate>0.00012907</single_rate>
+  </reaction>
+  <!--po199 -> he4 + pb195-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po199</reactant>
+    <product>he4</product>
+    <product>pb195</product>
+    <single_rate>0.000158791</single_rate>
+  </reaction>
+  <!--at202 -> he4 + bi198-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at202</reactant>
+    <product>he4</product>
+    <product>bi198</product>
+    <single_rate>0.000479541</single_rate>
+  </reaction>
+  <!--rn214 -> he4 + po210-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn214</reactant>
+    <product>he4</product>
+    <product>po210</product>
+    <single_rate>2.57529e+06</single_rate>
+  </reaction>
+  <!--ho152 -> he4 + tb148-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ho152</reactant>
+    <product>he4</product>
+    <product>tb148</product>
+    <single_rate>0.000525806</single_rate>
+  </reaction>
+  <!--bi186 -> he4 + tl182-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>bi186</reactant>
+    <product>he4</product>
+    <product>tl182</product>
+    <single_rate>46.8625</single_rate>
+  </reaction>
+  <!--hs269 -> he4 + sg265-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hs269</reactant>
+    <product>he4</product>
+    <product>sg265</product>
+    <single_rate>0.0437346</single_rate>
+  </reaction>
+  <!--at199 -> he4 + bi195-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at199</reactant>
+    <product>he4</product>
+    <product>bi195</product>
+    <single_rate>0.0892947</single_rate>
+  </reaction>
+  <!--tb149 -> he4 + eu145-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>tb149</reactant>
+    <product>he4</product>
+    <product>eu145</product>
+    <single_rate>7.77724e-06</single_rate>
+  </reaction>
+  <!--rn203 -> he4 + po199-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn203</reactant>
+    <product>he4</product>
+    <product>po199</product>
+    <single_rate>0.0104912</single_rate>
+  </reaction>
+  <!--ra214 -> he4 + rn210-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra214</reactant>
+    <product>he4</product>
+    <product>rn210</product>
+    <single_rate>0.282374</single_rate>
+  </reaction>
+  <!--th218 -> he4 + ra214-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th218</reactant>
+    <product>he4</product>
+    <product>ra214</product>
+    <single_rate>5.89964e+06</single_rate>
+  </reaction>
+  <!--no254 -> he4 + fm250-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>no254</reactant>
+    <product>he4</product>
+    <product>fm250</product>
+    <single_rate>0.0123261</single_rate>
+  </reaction>
+  <!--ra221 -> he4 + rn217-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra221</reactant>
+    <product>he4</product>
+    <product>rn217</product>
+    <single_rate>0.0245938</single_rate>
+  </reaction>
+  <!--bi194 -> he4 + tl190-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>bi194</reactant>
+    <product>he4</product>
+    <product>tl190</product>
+    <single_rate>3.39489e-05</single_rate>
+  </reaction>
+  <!--md253 -> he4 + es249-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>md253</reactant>
+    <product>he4</product>
+    <product>es249</product>
+    <single_rate>5.76535e-06</single_rate>
+  </reaction>
+  <!--rf258 -> he4 + no254-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rf258</reactant>
+    <product>he4</product>
+    <product>no254</product>
+    <single_rate>6.6195</single_rate>
+  </reaction>
+  <!--po194 -> he4 + pb190-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po194</reactant>
+    <product>he4</product>
+    <product>pb190</product>
+    <single_rate>1.78166</single_rate>
+  </reaction>
+  <!--ds267 -> he4 + hs263-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ds267</reactant>
+    <product>he4</product>
+    <product>hs263</product>
+    <single_rate>69314.7</single_rate>
+  </reaction>
+  <!--lr253 -> he4 + md249-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>lr253</reactant>
+    <product>he4</product>
+    <product>md249</product>
+    <single_rate>0.979096</single_rate>
+  </reaction>
+  <!--am233 -> he4 + np229-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>am233</reactant>
+    <product>he4</product>
+    <product>np229</product>
+    <single_rate>0.000166274</single_rate>
+  </reaction>
+  <!--at206 -> he4 + bi202-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at206</reactant>
+    <product>he4</product>
+    <product>bi202</product>
+    <single_rate>3.39489e-06</single_rate>
+  </reaction>
+  <!--pa220 -> he4 + ac216-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pa220</reactant>
+    <product>he4</product>
+    <product>ac216</product>
+    <single_rate>892947</single_rate>
+  </reaction>
+  <!--po200 -> he4 + pb196-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po200</reactant>
+    <product>he4</product>
+    <product>pb196</product>
+    <single_rate>0.000112415</single_rate>
+  </reaction>
+  <!--rn218 -> he4 + po214-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn218</reactant>
+    <product>he4</product>
+    <product>po214</product>
+    <single_rate>20.4562</single_rate>
+  </reaction>
+  <!--rn217 -> he4 + po213-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn217</reactant>
+    <product>he4</product>
+    <product>po213</product>
+    <single_rate>1290.7</single_rate>
+  </reaction>
+  <!--at211 -> he4 + bi207-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at211</reactant>
+    <product>he4</product>
+    <product>bi207</product>
+    <single_rate>1.12415e-05</single_rate>
+  </reaction>
+  <!--hf158 -> he4 + yb154-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hf158</reactant>
+    <product>he4</product>
+    <product>yb154</product>
+    <single_rate>0.309617</single_rate>
+  </reaction>
+  <!--th222 -> he4 + ra218-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th222</reactant>
+    <product>he4</product>
+    <product>ra218</product>
+    <single_rate>309.617</single_rate>
+  </reaction>
+  <!--re162 -> he4 + ta158-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>re162</reactant>
+    <product>he4</product>
+    <product>ta158</product>
+    <single_rate>6.17768</single_rate>
+  </reaction>
+  <!--hf156 -> he4 + yb152-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hf156</reactant>
+    <product>he4</product>
+    <product>yb152</product>
+    <single_rate>29.5682</single_rate>
+  </reaction>
+  <!--u216 -> he4 + th212-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>u216</reactant>
+    <product>he4</product>
+    <product>th212</product>
+    <single_rate>100.19</single_rate>
+  </reaction>
+  <!--fr199 -> he4 + at195-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr199</reactant>
+    <product>he4</product>
+    <product>at195</product>
+    <single_rate>104.912</single_rate>
+  </reaction>
+  <!--pa221 -> he4 + ac217-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pa221</reactant>
+    <product>he4</product>
+    <product>ac217</product>
+    <single_rate>117713</single_rate>
+  </reaction>
+  <!--yb155 -> he4 + er151-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>yb155</reactant>
+    <product>he4</product>
+    <product>er151</product>
+    <single_rate>0.347397</single_rate>
+  </reaction>
+  <!--rn211 -> he4 + po207-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn211</reactant>
+    <product>he4</product>
+    <product>po207</product>
+    <single_rate>3.63769e-06</single_rate>
+  </reaction>
+  <!--pa212 -> he4 + ac208-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pa212</reactant>
+    <product>he4</product>
+    <product>ac208</product>
+    <single_rate>91.3746</single_rate>
+  </reaction>
+  <!--pt174 -> he4 + os170-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt174</reactant>
+    <product>he4</product>
+    <product>os170</product>
+    <single_rate>0.603706</single_rate>
+  </reaction>
+  <!--au173 -> he4 + ir169-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>au173</reactant>
+    <product>he4</product>
+    <product>ir169</product>
+    <single_rate>23.4869</single_rate>
+  </reaction>
+  <!--ir166 -> he4 + re162-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ir166</reactant>
+    <product>he4</product>
+    <product>re162</product>
+    <single_rate>61.7768</single_rate>
+  </reaction>
+  <!--pt175 -> he4 + os171-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt175</reactant>
+    <product>he4</product>
+    <product>os171</product>
+    <single_rate>0.182316</single_rate>
+  </reaction>
+  <!--ir172 -> he4 + re168-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ir172</reactant>
+    <product>he4</product>
+    <product>re168</product>
+    <single_rate>0.00316829</single_rate>
+  </reaction>
+  <!--rn202 -> he4 + po198-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn202</reactant>
+    <product>he4</product>
+    <product>po198</product>
+    <single_rate>0.0563411</single_rate>
+  </reaction>
+  <!--fm248 -> he4 + cf244-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fm248</reactant>
+    <product>he4</product>
+    <product>cf244</product>
+    <single_rate>0.0190909</single_rate>
+  </reaction>
+  <!--th214 -> he4 + ra210-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th214</reactant>
+    <product>he4</product>
+    <product>ra210</product>
+    <single_rate>7.95839</single_rate>
+  </reaction>
+  <!--pt176 -> he4 + os172-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt176</reactant>
+    <product>he4</product>
+    <product>os172</product>
+    <single_rate>0.0437346</single_rate>
+  </reaction>
+  <!--u229 -> he4 + th225-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>u229</reactant>
+    <product>he4</product>
+    <product>th225</product>
+    <single_rate>3.98865e-05</single_rate>
+  </reaction>
+  <!--fm254 -> he4 + cf250-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fm254</reactant>
+    <product>he4</product>
+    <product>cf250</product>
+    <single_rate>5.89964e-05</single_rate>
+  </reaction>
+  <!--fr203 -> he4 + at199-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr203</reactant>
+    <product>he4</product>
+    <product>at199</product>
+    <single_rate>1.26132</single_rate>
+  </reaction>
+  <!--ra220 -> he4 + rn216-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra220</reactant>
+    <product>he4</product>
+    <product>rn216</product>
+    <single_rate>38.9785</single_rate>
+  </reaction>
+  <!--pb184 -> he4 + hg180-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pb184</reactant>
+    <product>he4</product>
+    <product>hg180</product>
+    <single_rate>1.12415</single_rate>
+  </reaction>
+  <!--po216 -> he4 + pb212-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po216</reactant>
+    <product>he4</product>
+    <product>pb212</product>
+    <single_rate>4.79541</single_rate>
+  </reaction>
+  <!--ra216 -> he4 + rn212-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra216</reactant>
+    <product>he4</product>
+    <product>rn212</product>
+    <single_rate>3.80913e+06</single_rate>
+  </reaction>
+  <!--no258 -> he4 + fm254-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>no258</reactant>
+    <product>he4</product>
+    <product>fm254</product>
+    <single_rate>0.00576535</single_rate>
+  </reaction>
+  <!--po212 -> he4 + pb208-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po212</reactant>
+    <product>he4</product>
+    <product>pb208</product>
+    <single_rate>2.34869e+06</single_rate>
+  </reaction>
+  <!--th219 -> he4 + ra215-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th219</reactant>
+    <product>he4</product>
+    <product>ra215</product>
+    <single_rate>677369</single_rate>
+  </reaction>
+  <!--sg261 -> he4 + rf257-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>sg261</reactant>
+    <product>he4</product>
+    <product>rf257</product>
+    <single_rate>3.72242</single_rate>
+  </reaction>
+  <!--fr209 -> he4 + at205-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr209</reactant>
+    <product>he4</product>
+    <product>at205</product>
+    <single_rate>0.0123261</single_rate>
+  </reaction>
+  <!--cf244 -> he4 + cm240-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cf244</reactant>
+    <product>he4</product>
+    <product>cm240</product>
+    <single_rate>0.000589964</single_rate>
+  </reaction>
+  <!--fl286 -> he4 + cn282-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fl286</reactant>
+    <product>he4</product>
+    <product>cn282</product>
+    <single_rate>1.99906</single_rate>
+  </reaction>
+  <!--er152 -> he4 + dy148-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>er152</reactant>
+    <product>he4</product>
+    <product>dy148</product>
+    <single_rate>0.0603706</single_rate>
+  </reaction>
+  <!--w161 -> he4 + hf157-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>w161</reactant>
+    <product>he4</product>
+    <product>hf157</product>
+    <single_rate>1.23261</single_rate>
+  </reaction>
+  <!--at197 -> he4 + bi193-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at197</reactant>
+    <product>he4</product>
+    <product>bi193</product>
+    <single_rate>1.70147</single_rate>
+  </reaction>
+  <!--rn204 -> he4 + po200-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn204</reactant>
+    <product>he4</product>
+    <product>po200</product>
+    <single_rate>0.00677369</single_rate>
+  </reaction>
+  <!--rn220 -> he4 + po216-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn220</reactant>
+    <product>he4</product>
+    <product>po216</product>
+    <single_rate>0.0123261</single_rate>
+  </reaction>
+  <!--at192 -> he4 + bi188-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at192</reactant>
+    <product>he4</product>
+    <product>bi188</product>
+    <single_rate>60.3706</single_rate>
+  </reaction>
+  <!--fr220 -> he4 + at216-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr220</reactant>
+    <product>he4</product>
+    <product>at216</product>
+    <single_rate>0.0251667</single_rate>
+  </reaction>
+  <!--rn194 -> he4 + po190-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn194</reactant>
+    <product>he4</product>
+    <product>po190</product>
+    <single_rate>892.947</single_rate>
+  </reaction>
+  <!--ac215 -> he4 + fr211-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac215</reactant>
+    <product>he4</product>
+    <product>fr211</product>
+    <single_rate>4.08155</single_rate>
+  </reaction>
+  <!--sg260 -> he4 + rf256-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>sg260</reactant>
+    <product>he4</product>
+    <product>rf256</product>
+    <single_rate>56.3411</single_rate>
+  </reaction>
+  <!--rn193 -> he4 + po189-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn193</reactant>
+    <product>he4</product>
+    <product>po189</product>
+    <single_rate>603.706</single_rate>
+  </reaction>
+  <!--md255 -> he4 + es251-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>md255</reactant>
+    <product>he4</product>
+    <product>es251</product>
+    <single_rate>3.0257e-05</single_rate>
+  </reaction>
+  <!--hf159 -> he4 + yb155-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hf159</reactant>
+    <product>he4</product>
+    <product>yb155</product>
+    <single_rate>0.0479541</single_rate>
+  </reaction>
+  <!--re165 -> he4 + ta161-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>re165</reactant>
+    <product>he4</product>
+    <product>ta161</product>
+    <single_rate>0.0389785</single_rate>
+  </reaction>
+  <!--pb186 -> he4 + hg182-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pb186</reactant>
+    <product>he4</product>
+    <product>hg182</product>
+    <single_rate>0.0589964</single_rate>
+  </reaction>
+  <!--fr211 -> he4 + at207-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr211</reactant>
+    <product>he4</product>
+    <product>at207</product>
+    <single_rate>0.00324209</single_rate>
+  </reaction>
+  <!--ra213 -> he4 + rn209-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra213</reactant>
+    <product>he4</product>
+    <product>rn209</product>
+    <single_rate>0.00339489</single_rate>
+  </reaction>
+  <!--fr201 -> he4 + at197-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr201</reactant>
+    <product>he4</product>
+    <product>at197</product>
+    <single_rate>10.9856</single_rate>
+  </reaction>
+  <!--hg183 -> he4 + pt179-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg183</reactant>
+    <product>he4</product>
+    <product>pt179</product>
+    <single_rate>0.00872621</single_rate>
+  </reaction>
+  <!--rn210 -> he4 + po206-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn210</reactant>
+    <product>he4</product>
+    <product>po206</product>
+    <single_rate>7.77724e-05</single_rate>
+  </reaction>
+  <!--pa217 -> he4 + ac213-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pa217</reactant>
+    <product>he4</product>
+    <product>ac213</product>
+    <single_rate>199.906</single_rate>
+  </reaction>
+  <!--hg178 -> he4 + pt174-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg178</reactant>
+    <product>he4</product>
+    <product>pt174</product>
+    <single_rate>2.34869</single_rate>
+  </reaction>
+  <!--ir177 -> he4 + re173-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ir177</reactant>
+    <product>he4</product>
+    <product>re173</product>
+    <single_rate>1.41522e-05</single_rate>
+  </reaction>
+  <!--au181 -> he4 + ir177-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>au181</reactant>
+    <product>he4</product>
+    <product>ir177</product>
+    <single_rate>0.00138301</single_rate>
+  </reaction>
+  <!--yb154 -> he4 + er150-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>yb154</reactant>
+    <product>he4</product>
+    <product>er150</product>
+    <single_rate>1.55176</single_rate>
+  </reaction>
+  <!--os161 -> he4 + w157-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os161</reactant>
+    <product>he4</product>
+    <product>w157</product>
+    <single_rate>1073.56</single_rate>
+  </reaction>
+  <!--os163 -> he4 + w159-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os163</reactant>
+    <product>he4</product>
+    <product>w159</product>
+    <single_rate>126.132</single_rate>
+  </reaction>
+  <!--pb185 -> he4 + hg181-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pb185</reactant>
+    <product>he4</product>
+    <product>hg181</product>
+    <single_rate>0.0380913</single_rate>
+  </reaction>
+  <!--fr204 -> he4 + at200-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr204</reactant>
+    <product>he4</product>
+    <product>at200</product>
+    <single_rate>0.380913</single_rate>
+  </reaction>
+  <!--er154 -> he4 + dy150-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>er154</reactant>
+    <product>he4</product>
+    <product>dy150</product>
+    <single_rate>1.44819e-05</single_rate>
+  </reaction>
+  <!--pb190 -> he4 + hg186-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pb190</reactant>
+    <product>he4</product>
+    <product>hg186</product>
+    <single_rate>3.98865e-05</single_rate>
+  </reaction>
+  <!--th226 -> he4 + ra222-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th226</reactant>
+    <product>he4</product>
+    <product>ra222</product>
+    <single_rate>0.000372242</single_rate>
+  </reaction>
+  <!--u219 -> he4 + th215-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>u219</reactant>
+    <product>he4</product>
+    <product>th215</product>
+    <single_rate>12613.2</single_rate>
+  </reaction>
+  <!--tm154 -> he4 + ho150-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>tm154</reactant>
+    <product>he4</product>
+    <product>ho150</product>
+    <single_rate>0.0468625</single_rate>
+  </reaction>
+  <!--fr215 -> he4 + at211-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr215</reactant>
+    <product>he4</product>
+    <product>at211</product>
+    <single_rate>8.14377e+06</single_rate>
+  </reaction>
+  <!--rn215 -> he4 + po211-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn215</reactant>
+    <product>he4</product>
+    <product>po211</product>
+    <single_rate>302570</single_rate>
+  </reaction>
+  <!--rn221 -> he4 + po217-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn221</reactant>
+    <product>he4</product>
+    <product>po217</product>
+    <single_rate>0.00010019</single_rate>
+  </reaction>
+  <!--cf237 -> he4 + cm233-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cf237</reactant>
+    <product>he4</product>
+    <product>cm233</product>
+    <single_rate>0.603706</single_rate>
+  </reaction>
+  <!--lu155 -> he4 + tm151-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>lu155</reactant>
+    <product>he4</product>
+    <product>tm151</product>
+    <single_rate>9.13746</single_rate>
+  </reaction>
+  <!--au185 -> he4 + ir181-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>au185</reactant>
+    <product>he4</product>
+    <product>ir181</product>
+    <single_rate>7.25814e-06</single_rate>
+  </reaction>
+  <!--at200 -> he4 + bi196-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at200</reactant>
+    <product>he4</product>
+    <product>bi196</product>
+    <single_rate>0.00833346</single_rate>
+  </reaction>
+  <!--fr212 -> he4 + at208-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr212</reactant>
+    <product>he4</product>
+    <product>at208</product>
+    <single_rate>0.000251667</single_rate>
+  </reaction>
+  <!--rn212 -> he4 + po208-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn212</reactant>
+    <product>he4</product>
+    <product>po208</product>
+    <single_rate>0.000479541</single_rate>
+  </reaction>
+  <!--pa224 -> he4 + ac220-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pa224</reactant>
+    <product>he4</product>
+    <product>ac220</product>
+    <single_rate>0.814377</single_rate>
+  </reaction>
+  <!--ra218 -> he4 + rn214-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra218</reactant>
+    <product>he4</product>
+    <product>rn214</product>
+    <single_rate>27594.7</single_rate>
+  </reaction>
+  <!--cf243 -> he4 + cm239-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cf243</reactant>
+    <product>he4</product>
+    <product>cm239</product>
+    <single_rate>0.000151644</single_rate>
+  </reaction>
+  <!--os168 -> he4 + w164-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os168</reactant>
+    <product>he4</product>
+    <product>w164</product>
+    <single_rate>0.144819</single_rate>
+  </reaction>
+  <!--hg186 -> he4 + pt182-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg186</reactant>
+    <product>he4</product>
+    <product>pt182</product>
+    <single_rate>1.38301e-06</single_rate>
+  </reaction>
+  <!--pb188 -> he4 + hg184-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pb188</reactant>
+    <product>he4</product>
+    <product>hg184</product>
+    <single_rate>0.00257529</single_rate>
+  </reaction>
+  <!--w164 -> he4 + hf160-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>w164</reactant>
+    <product>he4</product>
+    <product>hf160</product>
+    <single_rate>0.00417662</single_rate>
+  </reaction>
+  <!--pu230 -> he4 + u226-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pu230</reactant>
+    <product>he4</product>
+    <product>u226</product>
+    <single_rate>0.00677369</single_rate>
+  </reaction>
+  <!--os169 -> he4 + w165-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os169</reactant>
+    <product>he4</product>
+    <product>w165</product>
+    <single_rate>0.0275947</single_rate>
+  </reaction>
+  <!--at209 -> he4 + bi205-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at209</reactant>
+    <product>he4</product>
+    <product>bi205</product>
+    <single_rate>1.48192e-06</single_rate>
+  </reaction>
+  <!--fr213 -> he4 + at209-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr213</reactant>
+    <product>he4</product>
+    <product>at209</product>
+    <single_rate>0.0199906</single_rate>
+  </reaction>
+  <!--rf256 -> he4 + no252-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rf256</reactant>
+    <product>he4</product>
+    <product>no252</product>
+    <single_rate>0.331761</single_rate>
+  </reaction>
+  <!--bi212 -> he4 + tl208-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>bi212</reactant>
+    <product>he4</product>
+    <product>tl208</product>
+    <single_rate>6.93147e-05</single_rate>
+  </reaction>
+  <!--er153 -> he4 + dy149-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>er153</reactant>
+    <product>he4</product>
+    <product>dy149</product>
+    <single_rate>0.010019</single_rate>
+  </reaction>
+  <!--au177 -> he4 + ir173-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>au177</reactant>
+    <product>he4</product>
+    <product>ir173</product>
+    <single_rate>0.190909</single_rate>
+  </reaction>
+  <!--fr210 -> he4 + at206-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr210</reactant>
+    <product>he4</product>
+    <product>at206</product>
+    <single_rate>0.00257529</single_rate>
+  </reaction>
+  <!--tm155 -> he4 + ho151-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>tm155</reactant>
+    <product>he4</product>
+    <product>ho151</product>
+    <single_rate>0.000288952</single_rate>
+  </reaction>
+  <!--re164 -> he4 + ta160-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>re164</reactant>
+    <product>he4</product>
+    <product>ta160</product>
+    <single_rate>0.024034</single_rate>
+  </reaction>
+  <!--at201 -> he4 + bi197-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at201</reactant>
+    <product>he4</product>
+    <product>bi197</product>
+    <single_rate>0.00589964</single_rate>
+  </reaction>
+  <!--re166 -> he4 + ta162-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>re166</reactant>
+    <product>he4</product>
+    <product>ta162</product>
+    <single_rate>0.0158791</single_rate>
+  </reaction>
+  <!--fr219 -> he4 + at215-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr219</reactant>
+    <product>he4</product>
+    <product>at215</product>
+    <single_rate>34.7397</single_rate>
+  </reaction>
+  <!--hg182 -> he4 + pt178-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg182</reactant>
+    <product>he4</product>
+    <product>pt178</product>
+    <single_rate>0.00892947</single_rate>
+  </reaction>
+  <!--pt171 -> he4 + os167-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt171</reactant>
+    <product>he4</product>
+    <product>os167</product>
+    <single_rate>13.8301</single_rate>
+  </reaction>
+  <!--hg179 -> he4 + pt175-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg179</reactant>
+    <product>he4</product>
+    <product>pt175</product>
+    <single_rate>0.502141</single_rate>
+  </reaction>
+  <!--cf238 -> he4 + cm234-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cf238</reactant>
+    <product>he4</product>
+    <product>cm234</product>
+    <single_rate>0.066195</single_rate>
+  </reaction>
+  <!--np227 -> he4 + pa223-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>np227</reactant>
+    <product>he4</product>
+    <product>pa223</product>
+    <single_rate>1.35153</single_rate>
+  </reaction>
+  <!--pu232 -> he4 + u228-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pu232</reactant>
+    <product>he4</product>
+    <product>u228</product>
+    <single_rate>3.98865e-05</single_rate>
+  </reaction>
+  <!--u225 -> he4 + th221-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>u225</reactant>
+    <product>he4</product>
+    <product>th221</product>
+    <single_rate>11.2415</single_rate>
+  </reaction>
+  <!--pt172 -> he4 + os168-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt172</reactant>
+    <product>he4</product>
+    <product>os168</product>
+    <single_rate>6.93147</single_rate>
+  </reaction>
+  <!--au179 -> he4 + ir175-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>au179</reactant>
+    <product>he4</product>
+    <product>ir175</product>
+    <single_rate>0.0214203</single_rate>
+  </reaction>
+  <!--po201 -> he4 + pb197-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po201</reactant>
+    <product>he4</product>
+    <product>pb197</product>
+    <single_rate>8.33346e-06</single_rate>
+  </reaction>
+  <!--pt177 -> he4 + os173-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt177</reactant>
+    <product>he4</product>
+    <product>os173</product>
+    <single_rate>0.00372242</single_rate>
+  </reaction>
+  <!--ra202 -> he4 + rn198-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra202</reactant>
+    <product>he4</product>
+    <product>rn198</product>
+    <single_rate>170.147</single_rate>
+  </reaction>
+  <!--tl179 -> he4 + au175-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>tl179</reactant>
+    <product>he4</product>
+    <product>au175</product>
+    <single_rate>1.58791</single_rate>
+  </reaction>
+  <!--hf160 -> he4 + yb156-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hf160</reactant>
+    <product>he4</product>
+    <product>yb156</product>
+    <single_rate>0.000363769</single_rate>
+  </reaction>
+  <!--pu228 -> he4 + u224-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pu228</reactant>
+    <product>he4</product>
+    <product>u224</product>
+    <single_rate>0.331761</single_rate>
+  </reaction>
+  <!--am235 -> he4 + np231-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>am235</reactant>
+    <product>he4</product>
+    <product>np231</product>
+    <single_rate>4.57958e-06</single_rate>
+  </reaction>
+  <!--md257 -> he4 + es253-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>md257</reactant>
+    <product>he4</product>
+    <product>es253</product>
+    <single_rate>5.38054e-06</single_rate>
+  </reaction>
+  <!--u227 -> he4 + th223-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>u227</reactant>
+    <product>he4</product>
+    <product>th223</product>
+    <single_rate>0.0104912</single_rate>
+  </reaction>
+  <!--hs270 -> he4 + sg266-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hs270</reactant>
+    <product>he4</product>
+    <product>sg266</product>
+    <single_rate>0.0777724</single_rate>
+  </reaction>
+  <!--ra201 -> he4 + rn197-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra201</reactant>
+    <product>he4</product>
+    <product>rn197</product>
+    <single_rate>34.7397</single_rate>
+  </reaction>
+  <!--ds271 -> he4 + hs267-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ds271</reactant>
+    <product>he4</product>
+    <product>hs267</product>
+    <single_rate>7.77724</single_rate>
+  </reaction>
+  <!--ra208 -> he4 + rn204-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra208</reactant>
+    <product>he4</product>
+    <product>rn204</product>
+    <single_rate>0.550586</single_rate>
+  </reaction>
+  <!--ac221 -> he4 + fr217-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac221</reactant>
+    <product>he4</product>
+    <product>fr217</product>
+    <single_rate>13.2076</single_rate>
+  </reaction>
+  <!--re168 -> he4 + ta164-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>re168</reactant>
+    <product>he4</product>
+    <product>ta164</product>
+    <single_rate>7.95839e-06</single_rate>
+  </reaction>
+  <!--po214 -> he4 + pb210-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po214</reactant>
+    <product>he4</product>
+    <product>pb210</product>
+    <single_rate>4273.91</single_rate>
+  </reaction>
+  <!--rf255 -> he4 + no251-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rf255</reactant>
+    <product>he4</product>
+    <product>no251</product>
+    <single_rate>0.199906</single_rate>
+  </reaction>
+  <!--cm234 -> he4 + pu230-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cm234</reactant>
+    <product>he4</product>
+    <product>pu230</product>
+    <single_rate>0.00363769</single_rate>
+  </reaction>
+  <!--og294 -> he4 + lv290-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>og294</reactant>
+    <product>he4</product>
+    <product>lv290</product>
+    <single_rate>603.706</single_rate>
+  </reaction>
+  <!--w167 -> he4 + hf163-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>w167</reactant>
+    <product>he4</product>
+    <product>hf163</product>
+    <single_rate>1.41522e-05</single_rate>
+  </reaction>
+  <!--at203 -> he4 + bi199-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at203</reactant>
+    <product>he4</product>
+    <product>bi199</product>
+    <single_rate>0.000490711</single_rate>
+  </reaction>
+  <!--pa227 -> he4 + ac223-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pa227</reactant>
+    <product>he4</product>
+    <product>ac223</product>
+    <single_rate>0.000257529</single_rate>
+  </reaction>
+  <!--th223 -> he4 + ra219-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th223</reactant>
+    <product>he4</product>
+    <product>ra219</product>
+    <single_rate>1.15034</single_rate>
+  </reaction>
+  <!--tl177 -> he4 + au173-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>tl177</reactant>
+    <product>he4</product>
+    <product>au173</product>
+    <single_rate>28.2374</single_rate>
+  </reaction>
+  <!--lv290 -> he4 + fl286-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>lv290</reactant>
+    <product>he4</product>
+    <product>fl286</product>
+    <single_rate>87.2621</single_rate>
+  </reaction>
+  <!--hg177 -> he4 + pt173-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg177</reactant>
+    <product>he4</product>
+    <product>pt173</product>
+    <single_rate>4.57958</single_rate>
+  </reaction>
+  <!--pa213 -> he4 + ac209-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pa213</reactant>
+    <product>he4</product>
+    <product>ac209</product>
+    <single_rate>97.9096</single_rate>
+  </reaction>
+  <!--np229 -> he4 + pa225-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>np229</reactant>
+    <product>he4</product>
+    <product>pa225</product>
+    <single_rate>0.00195355</single_rate>
+  </reaction>
+  <!--os171 -> he4 + w167-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os171</reactant>
+    <product>he4</product>
+    <product>w167</product>
+    <single_rate>0.00151644</single_rate>
+  </reaction>
+  <!--cm236 -> he4 + pu232-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cm236</reactant>
+    <product>he4</product>
+    <product>pu232</product>
+    <single_rate>0.000309617</single_rate>
+  </reaction>
+  <!--ac225 -> he4 + fr221-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac225</reactant>
+    <product>he4</product>
+    <product>fr221</product>
+    <single_rate>8.14377e-07</single_rate>
+  </reaction>
+  <!--pt179 -> he4 + os175-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt179</reactant>
+    <product>he4</product>
+    <product>os175</product>
+    <single_rate>7.95839e-05</single_rate>
+  </reaction>
+  <!--ra217 -> he4 + rn213-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra217</reactant>
+    <product>he4</product>
+    <product>rn213</product>
+    <single_rate>427391</single_rate>
+  </reaction>
+  <!--rn208 -> he4 + po204-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn208</reactant>
+    <product>he4</product>
+    <product>po204</product>
+    <single_rate>0.000295682</single_rate>
+  </reaction>
+  <!--hg171 -> he4 + pt167-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg171</reactant>
+    <product>he4</product>
+    <product>pt167</product>
+    <single_rate>9790.96</single_rate>
+  </reaction>
+  <!--lr257 -> he4 + md253-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>lr257</reactant>
+    <product>he4</product>
+    <product>md253</product>
+    <single_rate>0.115034</single_rate>
+  </reaction>
+  <!--fm247 -> he4 + cf243-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fm247</reactant>
+    <product>he4</product>
+    <product>cf243</product>
+    <single_rate>0.0141522</single_rate>
+  </reaction>
+  <!--os172 -> he4 + w168-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os172</reactant>
+    <product>he4</product>
+    <product>w168</product>
+    <single_rate>0.000408155</single_rate>
+  </reaction>
+  <!--po186 -> he4 + pb182-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po186</reactant>
+    <product>he4</product>
+    <product>pb182</product>
+    <single_rate>20456.2</single_rate>
+  </reaction>
+  <!--lu158 -> he4 + tm154-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>lu158</reactant>
+    <product>he4</product>
+    <product>tm154</product>
+    <single_rate>0.000589964</single_rate>
+  </reaction>
+  <!--os162 -> he4 + w158-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os162</reactant>
+    <product>he4</product>
+    <product>w158</product>
+    <single_rate>331.761</single_rate>
+  </reaction>
+  <!--po190 -> he4 + pb186-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po190</reactant>
+    <product>he4</product>
+    <product>pb186</product>
+    <single_rate>282.374</single_rate>
+  </reaction>
+  <!--ra207 -> he4 + rn203-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ra207</reactant>
+    <product>he4</product>
+    <product>rn203</product>
+    <single_rate>0.427391</single_rate>
+  </reaction>
+  <!--bi190 -> he4 + tl186-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>bi190</reactant>
+    <product>he4</product>
+    <product>tl186</product>
+    <single_rate>0.0852757</single_rate>
+  </reaction>
+  <!--fm244 -> he4 + cf240-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fm244</reactant>
+    <product>he4</product>
+    <product>cf240</product>
+    <single_rate>0.892947</single_rate>
+  </reaction>
+  <!--ac207 -> he4 + fr203-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac207</reactant>
+    <product>he4</product>
+    <product>fr203</product>
+    <single_rate>22.4298</single_rate>
+  </reaction>
+  <!--pa225 -> he4 + ac221-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pa225</reactant>
+    <product>he4</product>
+    <product>ac221</product>
+    <single_rate>0.408155</single_rate>
+  </reaction>
+  <!--re160 -> he4 + ta156-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>re160</reactant>
+    <product>he4</product>
+    <product>ta156</product>
+    <single_rate>126.132</single_rate>
+  </reaction>
+  <!--rn195 -> he4 + po191-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn195</reactant>
+    <product>he4</product>
+    <product>po191</product>
+    <single_rate>97.9096</single_rate>
+  </reaction>
+  <!--ac218 -> he4 + fr214-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac218</reactant>
+    <product>he4</product>
+    <product>fr214</product>
+    <single_rate>693147</single_rate>
+  </reaction>
+  <!--ir175 -> he4 + re171-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ir175</reactant>
+    <product>he4</product>
+    <product>re171</product>
+    <single_rate>0.00066195</single_rate>
+  </reaction>
+  <!--pt168 -> he4 + os164-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>pt168</reactant>
+    <product>he4</product>
+    <product>os164</product>
+    <single_rate>339.489</single_rate>
+  </reaction>
+  <!--rn213 -> he4 + po209-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn213</reactant>
+    <product>he4</product>
+    <product>po209</product>
+    <single_rate>35.5488</single_rate>
+  </reaction>
+  <!--ac219 -> he4 + fr215-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac219</reactant>
+    <product>he4</product>
+    <product>fr215</product>
+    <single_rate>58996.4</single_rate>
+  </reaction>
+  <!--yb157 -> he4 + er153-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>yb157</reactant>
+    <product>he4</product>
+    <product>er153</product>
+    <single_rate>8.92947e-05</single_rate>
+  </reaction>
+  <!--hs265 -> he4 + sg261-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hs265</reactant>
+    <product>he4</product>
+    <product>sg261</product>
+    <single_rate>355.488</single_rate>
+  </reaction>
+  <!--dy150 -> he4 + gd146-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>dy150</reactant>
+    <product>he4</product>
+    <product>gd146</product>
+    <single_rate>0.000589964</single_rate>
+  </reaction>
+  <!--ac206 -> he4 + fr202-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ac206</reactant>
+    <product>he4</product>
+    <product>fr202</product>
+    <single_rate>27.5947</single_rate>
+  </reaction>
+  <!--rn219 -> he4 + po215-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn219</reactant>
+    <product>he4</product>
+    <product>po215</product>
+    <single_rate>0.174111</single_rate>
+  </reaction>
+  <!--w160 -> he4 + hf156-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>w160</reactant>
+    <product>he4</product>
+    <product>hf156</product>
+    <single_rate>6.77369</single_rate>
+  </reaction>
+  <!--cm238 -> he4 + pu234-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cm238</reactant>
+    <product>he4</product>
+    <product>pu234</product>
+    <single_rate>3.39489e-06</single_rate>
+  </reaction>
+  <!--fm243 -> he4 + cf239-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fm243</reactant>
+    <product>he4</product>
+    <product>cf239</product>
+    <single_rate>2.75947</single_rate>
+  </reaction>
+  <!--po202 -> he4 + pb198-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po202</reactant>
+    <product>he4</product>
+    <product>pb198</product>
+    <single_rate>5.02141e-06</single_rate>
+  </reaction>
+  <!--fm256 -> he4 + cf252-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fm256</reactant>
+    <product>he4</product>
+    <product>cf252</product>
+    <single_rate>5.89964e-06</single_rate>
+  </reaction>
+  <!--at207 -> he4 + bi203-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>at207</reactant>
+    <product>he4</product>
+    <product>bi203</product>
+    <single_rate>1.07356e-05</single_rate>
+  </reaction>
+  <!--ir169 -> he4 + re165-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>ir169</reactant>
+    <product>he4</product>
+    <product>re165</product>
+    <single_rate>1.04912</single_rate>
+  </reaction>
+  <!--bh261 -> he4 + db257-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>bh261</reactant>
+    <product>he4</product>
+    <product>db257</product>
+    <single_rate>51.3837</single_rate>
+  </reaction>
+  <!--fr214 -> he4 + at210-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr214</reactant>
+    <product>he4</product>
+    <product>at210</product>
+    <single_rate>135.153</single_rate>
+  </reaction>
+  <!--os170 -> he4 + w166-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>os170</reactant>
+    <product>he4</product>
+    <product>w166</product>
+    <single_rate>0.00892947</single_rate>
+  </reaction>
+  <!--th216 -> he4 + ra212-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th216</reactant>
+    <product>he4</product>
+    <product>ra212</product>
+    <single_rate>26.9666</single_rate>
+  </reaction>
+  <!--hg184 -> he4 + pt180-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>hg184</reactant>
+    <product>he4</product>
+    <product>pt180</product>
+    <single_rate>0.000251667</single_rate>
+  </reaction>
+  <!--dy151 -> he4 + gd147-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>dy151</reactant>
+    <product>he4</product>
+    <product>gd147</product>
+    <single_rate>3.63769e-05</single_rate>
+  </reaction>
+  <!--po189 -> he4 + pb185-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po189</reactant>
+    <product>he4</product>
+    <product>pb185</product>
+    <single_rate>182.316</single_rate>
+  </reaction>
+  <!--po213 -> he4 + pb209-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>po213</reactant>
+    <product>he4</product>
+    <product>pb209</product>
+    <single_rate>186563</single_rate>
+  </reaction>
+  <!--cf245 -> he4 + cm241-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cf245</reactant>
+    <product>he4</product>
+    <product>cm241</product>
+    <single_rate>9.3503e-05</single_rate>
+  </reaction>
+  <!--sg263 -> he4 + rf259-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>sg263</reactant>
+    <product>he4</product>
+    <product>rf259</product>
+    <single_rate>0.646883</single_rate>
+  </reaction>
+  <!--th212 -> he4 + ra208-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>th212</reactant>
+    <product>he4</product>
+    <product>ra208</product>
+    <single_rate>21.9192</single_rate>
+  </reaction>
+  <!--w159 -> he4 + hf155-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>w159</reactant>
+    <product>he4</product>
+    <product>hf155</product>
+    <single_rate>69.3147</single_rate>
+  </reaction>
+  <!--cm233 -> he4 + pu229-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cm233</reactant>
+    <product>he4</product>
+    <product>pu229</product>
+    <single_rate>0.00513837</single_rate>
+  </reaction>
+  <!--rn206 -> he4 + po202-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>rn206</reactant>
+    <product>he4</product>
+    <product>po202</product>
+    <single_rate>0.00126132</single_rate>
+  </reaction>
+  <!--fl288 -> he4 + cn284-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fl288</reactant>
+    <product>he4</product>
+    <product>cn284</product>
+    <single_rate>0.913746</single_rate>
+  </reaction>
+  <!--fr200 -> he4 + at196-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fr200</reactant>
+    <product>he4</product>
+    <product>at196</product>
+    <single_rate>14.4819</single_rate>
+  </reaction>
+  <!--fm252 -> he4 + cf248-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>fm252</reactant>
+    <product>he4</product>
+    <product>cf248</product>
+    <single_rate>7.60021e-06</single_rate>
+  </reaction>
+  <!--cf240 -> he4 + cm236-->
+  <reaction>
+    <source>Nuclear properties for astrophysical and radioactive-ion-beam applications (II)</source>
+    <reactant>cf240</reactant>
+    <product>he4</product>
+    <product>cm236</product>
+    <single_rate>0.0170147</single_rate>
+  </reaction>
+</reaction_data>

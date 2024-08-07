@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<nuclear_data
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xsi:schemaLocation="http://libnucnet.sourceforge.net/xsd_pub/2014-12-13/libnucnet__nuc http://libnucnet.sourceforge.net/xsd_pub/2014-12-13/libnucnet__nuc.xsd"
+>
+
+   <!-- Include species with z = 20 from local example_nuc.xml -->
+   <xi:include
+     href="example_nuc.xml"
+     xpointer="xpointer(//nuclide[z = 20])"
+   />
+
+   <!-- Include species with a <= 12 from over the web -->
+   <xi:include
+     href="http://libnucnet.sourceforge.net/data_pub/2014-12-11/example_nuc.xml"
+     xpointer="xpointer(//nuclide[a &lt;= 12])"
+   />
+
+</nuclear_data>

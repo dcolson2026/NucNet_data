@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<reaction_data
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xsi:schemaLocation="http://libnucnet.sourceforge.net/xsd_pub/2014-12-13/libnucnet__reac http://libnucnet.sourceforge.net/xsd_pub/2014-12-13/libnucnet__reac.xsd"
+>
+
+   <!-- Include reactions with ca40 as reactant from local example_reac.xml -->
+   <xi:include
+     href="example_reac.xml"
+     xpointer="xpointer(//reaction[reactant = 'ca40'])"
+   />
+
+   <!-- Include reactions with c12 as reactant from over the web -->
+   <xi:include
+     href="http://libnucnet.sourceforge.net/data_pub/2014-12-11/example_reac.xml"
+     xpointer="xpointer(//reaction[reactant = 'c12'])"
+   />
+
+</reaction_data>

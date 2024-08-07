@@ -1,0 +1,2848 @@
+<reaction_data>
+  <!--th232 -> kr88 + xe142 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>th232</reactant>
+    <product>kr88</product>
+    <product>xe142</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.7941326228369203e-30</single_rate>
+  </reaction>
+  <!--th232 -> kr89 + xe142 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>th232</reactant>
+    <product>kr89</product>
+    <product>xe142</product>
+    <product>n</product>
+    <single_rate>4.9307133191858686e-30</single_rate>
+  </reaction>
+  <!--th232 -> se85 + ba146 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>th232</reactant>
+    <product>se85</product>
+    <product>ba146</product>
+    <product>n</product>
+    <single_rate>3.302577704022691e-30</single_rate>
+  </reaction>
+  <!--th232 -> kr91 + xe140 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>th232</reactant>
+    <product>kr91</product>
+    <product>xe140</product>
+    <product>n</product>
+    <single_rate>3.497064893547303e-30</single_rate>
+  </reaction>
+  <!--th232 -> se85 + ba145 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>th232</reactant>
+    <product>se85</product>
+    <product>ba145</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.757307275720712e-30</single_rate>
+  </reaction>
+  <!--fm250 -> ru106 + ba140 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm250</reactant>
+    <product>ru106</product>
+    <product>ba140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>6.223167824989625e-09</single_rate>
+  </reaction>
+  <!--fm250 -> rh108 + cs138 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm250</reactant>
+    <product>rh108</product>
+    <product>cs138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.8081661674444566e-09</single_rate>
+  </reaction>
+  <!--fm250 -> pd110 + xe136 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm250</reactant>
+    <product>pd110</product>
+    <product>xe136</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>5.24355129284297e-09</single_rate>
+  </reaction>
+  <!--fm250 -> rh109 + cs137 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm250</reactant>
+    <product>rh109</product>
+    <product>cs137</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>6.54497422202331e-09</single_rate>
+  </reaction>
+  <!--fm250 -> ru107 + ba139 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm250</reactant>
+    <product>ru107</product>
+    <product>ba139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.850758190581268e-09</single_rate>
+  </reaction>
+  <!--u234 -> kr88 + ba144 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u234</reactant>
+    <product>kr88</product>
+    <product>ba144</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.3958516780677624e-25</single_rate>
+  </reaction>
+  <!--u234 -> kr89 + ba143 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u234</reactant>
+    <product>kr89</product>
+    <product>ba143</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.7829859418256514e-25</single_rate>
+  </reaction>
+  <!--u234 -> zr98 + te134 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u234</reactant>
+    <product>zr98</product>
+    <product>te134</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.865325081914209e-25</single_rate>
+  </reaction>
+  <!--u234 -> zr99 + te134 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u234</reactant>
+    <product>zr99</product>
+    <product>te134</product>
+    <product>n</product>
+    <single_rate>3.008413953111741e-25</single_rate>
+  </reaction>
+  <!--u234 -> sr93 + xe139 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u234</reactant>
+    <product>sr93</product>
+    <product>xe139</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.4691699426483156e-25</single_rate>
+  </reaction>
+  <!--fm252 -> rh109 + cs139 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm252</reactant>
+    <product>rh109</product>
+    <product>cs139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>8.326590205326813e-11</single_rate>
+  </reaction>
+  <!--fm252 -> pd112 + xe136 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm252</reactant>
+    <product>pd112</product>
+    <product>xe136</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>9.132389257455214e-11</single_rate>
+  </reaction>
+  <!--u236 -> kr89 + ba145 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u236</reactant>
+    <product>kr89</product>
+    <product>ba145</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.173107573412976e-25</single_rate>
+  </reaction>
+  <!--u236 -> kr91 + ba143 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u236</reactant>
+    <product>kr91</product>
+    <product>ba143</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.686477466000693e-25</single_rate>
+  </reaction>
+  <!--u236 -> kr90 + ba144 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u236</reactant>
+    <product>kr90</product>
+    <product>ba144</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.6781135110295445e-25</single_rate>
+  </reaction>
+  <!--u236 -> sr94 + xe140 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u236</reactant>
+    <product>sr94</product>
+    <product>xe140</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.6271694216598212e-25</single_rate>
+  </reaction>
+  <!--u236 -> sr93 + xe141 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u236</reactant>
+    <product>sr93</product>
+    <product>xe141</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.5853496468040782e-25</single_rate>
+  </reaction>
+  <!--fm254 -> rh111 + cs139 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm254</reactant>
+    <product>rh111</product>
+    <product>cs139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.6234208455568857e-08</single_rate>
+  </reaction>
+  <!--fm254 -> ru108 + ba142 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm254</reactant>
+    <product>ru108</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.8601035324335745e-08</single_rate>
+  </reaction>
+  <!--u238 -> kr91 + ba145 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u238</reactant>
+    <product>kr91</product>
+    <product>ba145</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>5.01746362884177e-25</single_rate>
+  </reaction>
+  <!--u238 -> zr101 + te136 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u238</reactant>
+    <product>zr101</product>
+    <product>te136</product>
+    <product>n</product>
+    <single_rate>6.05119995948753e-25</single_rate>
+  </reaction>
+  <!--u238 -> zr100 + te136 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u238</reactant>
+    <product>zr100</product>
+    <product>te136</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>6.279266488071246e-25</single_rate>
+  </reaction>
+  <!--u238 -> sr95 + xe141 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u238</reactant>
+    <product>sr95</product>
+    <product>xe141</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>5.0422534689052175e-25</single_rate>
+  </reaction>
+  <!--u238 -> mo104 + sn132 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>u238</reactant>
+    <product>mo104</product>
+    <product>sn132</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.650573995902747e-25</single_rate>
+  </reaction>
+  <!--fm256 -> ru109 + ba143 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm256</reactant>
+    <product>ru109</product>
+    <product>ba143</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.2712919177001426e-05</single_rate>
+  </reaction>
+  <!--fm256 -> rh111 + cs141 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm256</reactant>
+    <product>rh111</product>
+    <product>cs141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.3950459981842272e-05</single_rate>
+  </reaction>
+  <!--fm256 -> pd114 + xe138 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm256</reactant>
+    <product>pd114</product>
+    <product>xe138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.3402004397878717e-05</single_rate>
+  </reaction>
+  <!--fm256 -> ru108 + ba144 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm256</reactant>
+    <product>ru108</product>
+    <product>ba144</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.3134808087742622e-05</single_rate>
+  </reaction>
+  <!--fm256 -> ru108 + ba143 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm256</reactant>
+    <product>ru108</product>
+    <product>ba143</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.3176996978816742e-05</single_rate>
+  </reaction>
+  <!--pu236 -> sr92 + ba142 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu236</reactant>
+    <product>sr92</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.2093217997453708e-18</single_rate>
+  </reaction>
+  <!--pu236 -> sr93 + ba140 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu236</reactant>
+    <product>sr93</product>
+    <product>ba140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.5361701076274345e-18</single_rate>
+  </reaction>
+  <!--pu236 -> sr91 + ba142 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu236</reactant>
+    <product>sr91</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.3892144565312656e-18</single_rate>
+  </reaction>
+  <!--pu236 -> sr93 + ba141 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu236</reactant>
+    <product>sr93</product>
+    <product>ba141</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.3072922338094835e-18</single_rate>
+  </reaction>
+  <!--pu236 -> sr92 + ba141 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu236</reactant>
+    <product>sr92</product>
+    <product>ba141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.0797479998541246e-18</single_rate>
+  </reaction>
+  <!--no252 -> ag112 + cs136 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>no252</reactant>
+    <product>ag112</product>
+    <product>cs136</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.023217411352341427</single_rate>
+  </reaction>
+  <!--no252 -> pd109 + ba138 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>no252</reactant>
+    <product>pd109</product>
+    <product>ba138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.024057141772709588</single_rate>
+  </reaction>
+  <!--no252 -> pd110 + ba138 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>no252</reactant>
+    <product>pd110</product>
+    <product>ba138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.028936656377551627</single_rate>
+  </reaction>
+  <!--pu238 -> sr92 + ba143 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu238</reactant>
+    <product>sr92</product>
+    <product>ba143</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.0566022922443372e-19</single_rate>
+  </reaction>
+  <!--pu238 -> sr93 + ba142 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu238</reactant>
+    <product>sr93</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.1070324189011974e-19</single_rate>
+  </reaction>
+  <!--pu238 -> sr94 + ba142 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu238</reactant>
+    <product>sr94</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.1374120132728001e-19</single_rate>
+  </reaction>
+  <!--pu238 -> sr93 + ba143 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu238</reactant>
+    <product>sr93</product>
+    <product>ba143</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.291132760793109e-19</single_rate>
+  </reaction>
+  <!--no254 -> ag112 + cs137 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>no254</reactant>
+    <product>ag112</product>
+    <product>cs137</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>7.549695305504425e-06</single_rate>
+  </reaction>
+  <!--no254 -> pd110 + ba139 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>no254</reactant>
+    <product>pd110</product>
+    <product>ba139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>7.881145343307058e-06</single_rate>
+  </reaction>
+  <!--no254 -> ag113 + cs137 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>no254</reactant>
+    <product>ag113</product>
+    <product>cs137</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>8.669259877637763e-06</single_rate>
+  </reaction>
+  <!--pu240 -> mo104 + te134 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu240</reactant>
+    <product>mo104</product>
+    <product>te134</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>5.925335095287565e-20</single_rate>
+  </reaction>
+  <!--pu240 -> sr94 + ba143 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu240</reactant>
+    <product>sr94</product>
+    <product>ba143</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.6589501033314377e-20</single_rate>
+  </reaction>
+  <!--pu240 -> sr95 + ba143 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu240</reactant>
+    <product>sr95</product>
+    <product>ba143</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.135821742646085e-20</single_rate>
+  </reaction>
+  <!--pu240 -> sr94 + ba144 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu240</reactant>
+    <product>sr94</product>
+    <product>ba144</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.4232833665870465e-20</single_rate>
+  </reaction>
+  <!--pu242 -> mo106 + te134 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu242</reactant>
+    <product>mo106</product>
+    <product>te134</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>7.883881308742999e-20</single_rate>
+  </reaction>
+  <!--pu242 -> mo104 + te136 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu242</reactant>
+    <product>mo104</product>
+    <product>te136</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>6.057835270320906e-20</single_rate>
+  </reaction>
+  <!--pu242 -> mo104 + te135 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu242</reactant>
+    <product>mo104</product>
+    <product>te135</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>6.217251987960931e-20</single_rate>
+  </reaction>
+  <!--pu242 -> mo105 + te135 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu242</reactant>
+    <product>mo105</product>
+    <product>te135</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>6.463623278859151e-20</single_rate>
+  </reaction>
+  <!--pu242 -> tc107 + sb133 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu242</reactant>
+    <product>tc107</product>
+    <product>sb133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>5.887549231023609e-20</single_rate>
+  </reaction>
+  <!--rf254 -> ag111 + la139 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf254</reactant>
+    <product>ag111</product>
+    <product>la139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>27670.617697881607</single_rate>
+  </reaction>
+  <!--pu244 -> ru110 + sn132 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu244</reactant>
+    <product>ru110</product>
+    <product>sn132</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>7.750631195726192e-20</single_rate>
+  </reaction>
+  <!--pu244 -> mo107 + te135 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu244</reactant>
+    <product>mo107</product>
+    <product>te135</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>7.418285443024327e-20</single_rate>
+  </reaction>
+  <!--pu244 -> mo106 + te135 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu244</reactant>
+    <product>mo106</product>
+    <product>te135</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>8.033740540620373e-20</single_rate>
+  </reaction>
+  <!--pu244 -> mo106 + te136 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>pu244</reactant>
+    <product>mo106</product>
+    <product>te136</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.0064742362687321e-19</single_rate>
+  </reaction>
+  <!--rf256 -> in116 + cs135 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf256</reactant>
+    <product>in116</product>
+    <product>cs135</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>26.70724977993107</single_rate>
+  </reaction>
+  <!--rf256 -> cd113 + ba138 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf256</reactant>
+    <product>cd113</product>
+    <product>ba138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>27.296813792733076</single_rate>
+  </reaction>
+  <!--rf256 -> ag111 + la140 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf256</reactant>
+    <product>ag111</product>
+    <product>la140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>27.237857391452877</single_rate>
+  </reaction>
+  <!--rf256 -> cd114 + ba137 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf256</reactant>
+    <product>cd114</product>
+    <product>ba137</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>31.482718283627353</single_rate>
+  </reaction>
+  <!--cm240 -> zr96 + ba141 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm240</reactant>
+    <product>zr96</product>
+    <product>ba141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.942765633149916e-15</single_rate>
+  </reaction>
+  <!--cm240 -> zr97 + ba140 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm240</reactant>
+    <product>zr97</product>
+    <product>ba140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.278796795066103e-15</single_rate>
+  </reaction>
+  <!--cm240 -> zr96 + ba140 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm240</reactant>
+    <product>zr96</product>
+    <product>ba140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.3134709117432406e-15</single_rate>
+  </reaction>
+  <!--rf258 -> sb127 + i130 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf258</reactant>
+    <product>sb127</product>
+    <product>i130</product>
+    <product>n</product>
+    <single_rate>10.895815884454516</single_rate>
+  </reaction>
+  <!--rf258 -> sb127 + i129 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf258</reactant>
+    <product>sb127</product>
+    <product>i129</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>9.302469778759328</single_rate>
+  </reaction>
+  <!--rf258 -> sb126 + i131 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf258</reactant>
+    <product>sb126</product>
+    <product>i131</product>
+    <product>n</product>
+    <single_rate>11.59548882507915</single_rate>
+  </reaction>
+  <!--rf258 -> sn125 + xe132 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf258</reactant>
+    <product>sn125</product>
+    <product>xe132</product>
+    <product>n</product>
+    <single_rate>7.864959918930536</single_rate>
+  </reaction>
+  <!--rf258 -> sb126 + i130 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf258</reactant>
+    <product>sb126</product>
+    <product>i130</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>9.54735530797795</single_rate>
+  </reaction>
+  <!--cm242 -> zr96 + ba142 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm242</reactant>
+    <product>zr96</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>6.786420961669786e-16</single_rate>
+  </reaction>
+  <!--cm242 -> zr98 + ba142 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm242</reactant>
+    <product>zr98</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>6.84235300256267e-16</single_rate>
+  </reaction>
+  <!--cm242 -> zr97 + ba142 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm242</reactant>
+    <product>zr97</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>9.643616050614553e-16</single_rate>
+  </reaction>
+  <!--cm242 -> zr98 + ba141 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm242</reactant>
+    <product>zr98</product>
+    <product>ba141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>7.774553684110718e-16</single_rate>
+  </reaction>
+  <!--rf260 -> sb128 + i130 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf260</reactant>
+    <product>sb128</product>
+    <product>i130</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>5.618925240240521</single_rate>
+  </reaction>
+  <!--rf260 -> sb127 + i132 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf260</reactant>
+    <product>sb127</product>
+    <product>i132</product>
+    <product>n</product>
+    <single_rate>7.416562775200152</single_rate>
+  </reaction>
+  <!--rf260 -> te128 + te130 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf260</reactant>
+    <product>te128</product>
+    <product>te130</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>6.234181858724959</single_rate>
+  </reaction>
+  <!--rf260 -> sb127 + i131 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf260</reactant>
+    <product>sb127</product>
+    <product>i131</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>8.05483919913809</single_rate>
+  </reaction>
+  <!--rf260 -> sb128 + i131 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf260</reactant>
+    <product>sb128</product>
+    <product>i131</product>
+    <product>n</product>
+    <single_rate>7.5107347066008305</single_rate>
+  </reaction>
+  <!--cm244 -> mo103 + xe138 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm244</reactant>
+    <product>mo103</product>
+    <product>xe138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.2183815353721483e-16</single_rate>
+  </reaction>
+  <!--cm244 -> zr99 + ba142 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm244</reactant>
+    <product>zr99</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.1067689981404563e-16</single_rate>
+  </reaction>
+  <!--cm244 -> nb101 + cs140 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm244</reactant>
+    <product>nb101</product>
+    <product>cs140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.843477884670824e-16</single_rate>
+  </reaction>
+  <!--cm244 -> zr98 + ba143 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm244</reactant>
+    <product>zr98</product>
+    <product>ba143</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.504567528273922e-16</single_rate>
+  </reaction>
+  <!--rf262 -> sb129 + i132 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf262</reactant>
+    <product>sb129</product>
+    <product>i132</product>
+    <product>n</product>
+    <single_rate>0.07329059276285294</single_rate>
+  </reaction>
+  <!--rf262 -> sb128 + i132 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf262</reactant>
+    <product>sb128</product>
+    <product>i132</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.09285360261642397</single_rate>
+  </reaction>
+  <!--rf262 -> sb128 + i133 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf262</reactant>
+    <product>sb128</product>
+    <product>i133</product>
+    <product>n</product>
+    <single_rate>0.09748085856076405</single_rate>
+  </reaction>
+  <!--rf262 -> sb129 + i131 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>rf262</reactant>
+    <product>sb129</product>
+    <product>i131</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.0690489414805412</single_rate>
+  </reaction>
+  <!--cm246 -> mo104 + xe138 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm246</reactant>
+    <product>mo104</product>
+    <product>xe138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>5.763748142845375e-16</single_rate>
+  </reaction>
+  <!--cm246 -> mo104 + xe139 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm246</reactant>
+    <product>mo104</product>
+    <product>xe139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>6.314914570144895e-16</single_rate>
+  </reaction>
+  <!--sg258 -> te126 + xe131 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg258</reactant>
+    <product>te126</product>
+    <product>xe131</product>
+    <product>n</product>
+    <single_rate>51.52126937486227</single_rate>
+  </reaction>
+  <!--sg258 -> i127 + i129 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg258</reactant>
+    <product>i127</product>
+    <product>i129</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>48.126749430691255</single_rate>
+  </reaction>
+  <!--sg258 -> te127 + xe129 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg258</reactant>
+    <product>te127</product>
+    <product>xe129</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>45.33569969881731</single_rate>
+  </reaction>
+  <!--sg258 -> te127 + xe130 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg258</reactant>
+    <product>te127</product>
+    <product>xe130</product>
+    <product>n</product>
+    <single_rate>44.80766326305738</single_rate>
+  </reaction>
+  <!--sg258 -> te126 + xe130 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg258</reactant>
+    <product>te126</product>
+    <product>xe130</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>66.92861823257182</single_rate>
+  </reaction>
+  <!--cm248 -> ru110 + te135 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm248</reactant>
+    <product>ru110</product>
+    <product>te135</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.2258995381987617e-15</single_rate>
+  </reaction>
+  <!--cm248 -> mo105 + xe140 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm248</reactant>
+    <product>mo105</product>
+    <product>xe140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.3892825377007465e-15</single_rate>
+  </reaction>
+  <!--cm248 -> mo104 + xe141 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm248</reactant>
+    <product>mo104</product>
+    <product>xe141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.1921688544306103e-15</single_rate>
+  </reaction>
+  <!--cm248 -> mo104 + xe140 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm248</reactant>
+    <product>mo104</product>
+    <product>xe140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.4651765761790876e-15</single_rate>
+  </reaction>
+  <!--sg260 -> te128 + xe130 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>sg260</reactant>
+    <product>te128</product>
+    <product>xe130</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>19.32362704372691</single_rate>
+  </reaction>
+  <!--sg260 -> sb126 + cs133 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>sg260</reactant>
+    <product>sb126</product>
+    <product>cs133</product>
+    <product>n</product>
+    <single_rate>16.46916455970592</single_rate>
+  </reaction>
+  <!--sg260 -> te127 + xe132 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>sg260</reactant>
+    <product>te127</product>
+    <product>xe132</product>
+    <product>n</product>
+    <single_rate>20.494317986540583</single_rate>
+  </reaction>
+  <!--sg260 -> te128 + xe131 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>sg260</reactant>
+    <product>te128</product>
+    <product>xe131</product>
+    <product>n</product>
+    <single_rate>17.94336796917499</single_rate>
+  </reaction>
+  <!--sg260 -> te127 + xe131 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>sg260</reactant>
+    <product>te127</product>
+    <product>xe131</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>23.948578916571048</single_rate>
+  </reaction>
+  <!--cm250 -> mo106 + xe141 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm250</reactant>
+    <product>mo106</product>
+    <product>xe141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.676100689965805e-13</single_rate>
+  </reaction>
+  <!--cm250 -> ru111 + te136 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm250</reactant>
+    <product>ru111</product>
+    <product>te136</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.797721246027696e-13</single_rate>
+  </reaction>
+  <!--cm250 -> mo106 + xe140 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm250</reactant>
+    <product>mo106</product>
+    <product>xe140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.931923238923576e-13</single_rate>
+  </reaction>
+  <!--cm250 -> ru110 + te136 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cm250</reactant>
+    <product>ru110</product>
+    <product>te136</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>5.18355197560335e-13</single_rate>
+  </reaction>
+  <!--sg262 -> te129 + xe132 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg262</reactant>
+    <product>te129</product>
+    <product>xe132</product>
+    <product>n</product>
+    <single_rate>10.153862554189468</single_rate>
+  </reaction>
+  <!--sg262 -> i129 + i131 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg262</reactant>
+    <product>i129</product>
+    <product>i131</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>10.389432165446662</single_rate>
+  </reaction>
+  <!--sg262 -> te128 + xe133 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg262</reactant>
+    <product>te128</product>
+    <product>xe133</product>
+    <product>n</product>
+    <single_rate>10.637186411768887</single_rate>
+  </reaction>
+  <!--sg262 -> te128 + xe132 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg262</reactant>
+    <product>te128</product>
+    <product>xe132</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>15.856271764622273</single_rate>
+  </reaction>
+  <!--sg262 -> te129 + xe131 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg262</reactant>
+    <product>te129</product>
+    <product>xe131</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>10.113247103972709</single_rate>
+  </reaction>
+  <!--cf242 -> mo100 + ba139 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf242</reactant>
+    <product>mo100</product>
+    <product>ba139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.1032266155747079e-07</single_rate>
+  </reaction>
+  <!--cf242 -> mo101 + ba138 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf242</reactant>
+    <product>mo101</product>
+    <product>ba138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.1881465143183485e-07</single_rate>
+  </reaction>
+  <!--cf242 -> mo100 + ba138 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf242</reactant>
+    <product>mo100</product>
+    <product>ba138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.2408554169868147e-07</single_rate>
+  </reaction>
+  <!--cf242 -> nb98 + la141 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf242</reactant>
+    <product>nb98</product>
+    <product>la141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.1669165396324381e-07</single_rate>
+  </reaction>
+  <!--sg264 -> te129 + xe133 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg264</reactant>
+    <product>te129</product>
+    <product>xe133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.55766577928364</single_rate>
+  </reaction>
+  <!--sg264 -> te130 + xe132 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg264</reactant>
+    <product>te130</product>
+    <product>xe132</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.5276137463697967</single_rate>
+  </reaction>
+  <!--sg264 -> sb127 + cs135 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg264</reactant>
+    <product>sb127</product>
+    <product>cs135</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.464720474346564</single_rate>
+  </reaction>
+  <!--cf246 -> mo102 + ba140 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf246</reactant>
+    <product>mo102</product>
+    <product>ba140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.3292499214526855e-12</single_rate>
+  </reaction>
+  <!--cf246 -> ru106 + xe136 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf246</reactant>
+    <product>ru106</product>
+    <product>xe136</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.949539781094799e-12</single_rate>
+  </reaction>
+  <!--cf246 -> mo102 + ba141 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf246</reactant>
+    <product>mo102</product>
+    <product>ba141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.799873010442786e-12</single_rate>
+  </reaction>
+  <!--sg266 -> te131 + xe133 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg266</reactant>
+    <product>te131</product>
+    <product>xe133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.36907894736842106</single_rate>
+  </reaction>
+  <!--sg266 -> te130 + xe134 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg266</reactant>
+    <product>te130</product>
+    <product>xe134</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.5680180921052632</single_rate>
+  </reaction>
+  <!--sg266 -> i131 + i133 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg266</reactant>
+    <product>i131</product>
+    <product>i133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.3928453947368421</single_rate>
+  </reaction>
+  <!--sg266 -> te130 + xe133 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg266</reactant>
+    <product>te130</product>
+    <product>xe133</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.3499259868421053</single_rate>
+  </reaction>
+  <!--sg266 -> te130 + xe135 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg266</reactant>
+    <product>te130</product>
+    <product>xe135</product>
+    <product>n</product>
+    <single_rate>0.36013157894736847</single_rate>
+  </reaction>
+  <!--cf248 -> ru108 + xe136 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf248</reactant>
+    <product>ru108</product>
+    <product>xe136</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.7908759162201373e-13</single_rate>
+  </reaction>
+  <!--cf248 -> mo103 + ba142 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf248</reactant>
+    <product>mo103</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.5659229051108387e-13</single_rate>
+  </reaction>
+  <!--cf248 -> tc105 + cs139 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf248</reactant>
+    <product>tc105</product>
+    <product>cs139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.6459061979497003e-13</single_rate>
+  </reaction>
+  <!--cf248 -> mo102 + ba142 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf248</reactant>
+    <product>mo102</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.78962617726953e-13</single_rate>
+  </reaction>
+  <!--hs264 -> i129 + cs133 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>hs264</reactant>
+    <product>i129</product>
+    <product>cs133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>113.48243813322411</single_rate>
+  </reaction>
+  <!--hs264 -> te128 + ba134 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>hs264</reactant>
+    <product>te128</product>
+    <product>ba134</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>72.09472540228354</single_rate>
+  </reaction>
+  <!--hs264 -> i129 + cs132 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>hs264</reactant>
+    <product>i129</product>
+    <product>cs132</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>82.28355111703122</single_rate>
+  </reaction>
+  <!--hs264 -> te127 + ba135 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>hs264</reactant>
+    <product>te127</product>
+    <product>ba135</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>80.49172314650663</single_rate>
+  </reaction>
+  <!--cf250 -> tc105 + cs141 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf250</reactant>
+    <product>tc105</product>
+    <product>cs141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.501057412415536e-13</single_rate>
+  </reaction>
+  <!--cf250 -> ru108 + xe138 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf250</reactant>
+    <product>ru108</product>
+    <product>xe138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.027266545600239e-13</single_rate>
+  </reaction>
+  <!--cf250 -> tc106 + cs141 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf250</reactant>
+    <product>tc106</product>
+    <product>cs141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.426679106932361e-13</single_rate>
+  </reaction>
+  <!--cf250 -> mo104 + ba143 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf250</reactant>
+    <product>mo104</product>
+    <product>ba143</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.3293616978889556e-13</single_rate>
+  </reaction>
+  <!--cf250 -> mo104 + ba142 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf250</reactant>
+    <product>mo104</product>
+    <product>ba142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.658155515585606e-13</single_rate>
+  </reaction>
+  <!--ds270 -> xe132 + ba136 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>ds270</reactant>
+    <product>xe132</product>
+    <product>ba136</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.250645928364098</single_rate>
+  </reaction>
+  <!--ds270 -> xe132 + ba135 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>ds270</reactant>
+    <product>xe132</product>
+    <product>ba135</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.641004387038834</single_rate>
+  </reaction>
+  <!--ds270 -> xe131 + ba136 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>ds270</reactant>
+    <product>xe131</product>
+    <product>ba136</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.8585673035041474</single_rate>
+  </reaction>
+  <!--cf252 -> tc107 + cs141 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf252</reactant>
+    <product>tc107</product>
+    <product>cs141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>8.399513424755886e-11</single_rate>
+  </reaction>
+  <!--cf252 -> mo104 + ba144 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf252</reactant>
+    <product>mo104</product>
+    <product>ba144</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>9.10560211895603e-11</single_rate>
+  </reaction>
+  <!--cf252 -> ru108 + xe140 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf252</reactant>
+    <product>ru108</product>
+    <product>xe140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>8.318607428545453e-11</single_rate>
+  </reaction>
+  <!--cn282 -> cs137 + la141 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cn282</reactant>
+    <product>cs137</product>
+    <product>la141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>308.44517106647453</single_rate>
+  </reaction>
+  <!--cn282 -> cs137 + la140 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cn282</reactant>
+    <product>cs137</product>
+    <product>la140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>274.1734853924218</single_rate>
+  </reaction>
+  <!--cn282 -> cs136 + la141 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cn282</reactant>
+    <product>cs136</product>
+    <product>la141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>292.4031054318116</single_rate>
+  </reaction>
+  <!--cf254 -> ru110 + xe140 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf254</reactant>
+    <product>ru110</product>
+    <product>xe140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.951260100717189e-08</single_rate>
+  </reaction>
+  <!--cf254 -> ru109 + xe140 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf254</reactant>
+    <product>ru109</product>
+    <product>xe140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.9677330518480703e-08</single_rate>
+  </reaction>
+  <!--cf254 -> tc107 + cs143 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cf254</reactant>
+    <product>tc107</product>
+    <product>cs143</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.324997150796254e-08</single_rate>
+  </reaction>
+  <!--cn284 -> cs137 + la143 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cn284</reactant>
+    <product>cs137</product>
+    <product>la143</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.4389595317858834</single_rate>
+  </reaction>
+  <!--cn284 -> xe136 + ce144 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cn284</reactant>
+    <product>xe136</product>
+    <product>ce144</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.027568767388265</single_rate>
+  </reaction>
+  <!--cn284 -> cs137 + la142 + n + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>cn284</reactant>
+    <product>cs137</product>
+    <product>la142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.484016615505623</single_rate>
+  </reaction>
+  <!--fm246 -> ru105 + ba138 + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm246</reactant>
+    <product>ru105</product>
+    <product>ba138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.020660926953113935</single_rate>
+  </reaction>
+  <!--fm246 -> tc103 + la139 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm246</reactant>
+    <product>tc103</product>
+    <product>la139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.019301219079795037</single_rate>
+  </reaction>
+  <!--fm246 -> mo100 + ce142 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm246</reactant>
+    <product>mo100</product>
+    <product>ce142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.021672416956436524</single_rate>
+  </reaction>
+  <!--fm246 -> ru104 + ba138 + n + n + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>fm246</reactant>
+    <product>ru104</product>
+    <product>ba138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.025867613199725307</single_rate>
+  </reaction>
+  <!--no262 -> sn128 + te133 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>no262</reactant>
+    <product>sn128</product>
+    <product>te133</product>
+    <product>n</product>
+    <single_rate>29.174060638762235</single_rate>
+  </reaction>
+  <!--no262 -> sn128 + te132 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>no262</reactant>
+    <product>sn128</product>
+    <product>te132</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>32.743341317643775</single_rate>
+  </reaction>
+  <!--no262 -> sn129 + te132 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>no262</reactant>
+    <product>sn129</product>
+    <product>te132</product>
+    <product>n</product>
+    <single_rate>28.810720689415014</single_rate>
+  </reaction>
+  <!--no262 -> sb130 + sb131 + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>no262</reactant>
+    <product>sb130</product>
+    <product>sb131</product>
+    <product>n</product>
+    <single_rate>27.77057103049944</single_rate>
+  </reaction>
+  <!--no262 -> sn129 + te131 + n + n-->
+  <reaction>
+    <source>exp from Semi-empirical formula for spontaneous fission half life time</source>
+    <reactant>no262</reactant>
+    <product>sn129</product>
+    <product>te131</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>20.119059156010884</single_rate>
+  </reaction>
+  <!--cf238 -> mo98 + ba137 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>cf238</reactant>
+    <product>mo98</product>
+    <product>ba137</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>10.321671142325966</single_rate>
+  </reaction>
+  <!--cf238 -> zr95 + ce140 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>cf238</reactant>
+    <product>zr95</product>
+    <product>ce140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>9.741439785168353</single_rate>
+  </reaction>
+  <!--cf238 -> nb96 + la139 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>cf238</reactant>
+    <product>nb96</product>
+    <product>la139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>11.14688907250568</single_rate>
+  </reaction>
+  <!--cf256 -> mo106 + ba146 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>cf256</reactant>
+    <product>mo106</product>
+    <product>ba146</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.00018392783505154637</single_rate>
+  </reaction>
+  <!--cf256 -> ru112 + xe140 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>cf256</reactant>
+    <product>ru112</product>
+    <product>xe140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.00018796134020618557</single_rate>
+  </reaction>
+  <!--cf256 -> ru110 + xe142 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>cf256</reactant>
+    <product>ru110</product>
+    <product>xe142</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.0001887680412371134</single_rate>
+  </reaction>
+  <!--cf256 -> tc109 + cs143 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>cf256</reactant>
+    <product>tc109</product>
+    <product>cs143</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.000195625</single_rate>
+  </reaction>
+  <!--cf256 -> ru110 + xe141 + n + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>cf256</reactant>
+    <product>ru110</product>
+    <product>xe141</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.00018271778350515466</single_rate>
+  </reaction>
+  <!--fm241 -> ru102 + ba136 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm241</reactant>
+    <product>ru102</product>
+    <product>ba136</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>177.3352827487473</single_rate>
+  </reaction>
+  <!--fm241 -> mo98 + ce140 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm241</reactant>
+    <product>mo98</product>
+    <product>ce140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>205.6983249821045</single_rate>
+  </reaction>
+  <!--fm241 -> mo97 + ce140 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm241</reactant>
+    <product>mo97</product>
+    <product>ce140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>173.0940801717967</single_rate>
+  </reaction>
+  <!--fm241 -> tc100 + la138 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm241</reactant>
+    <product>tc100</product>
+    <product>la138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>184.49231209735143</single_rate>
+  </reaction>
+  <!--fm242 -> mo99 + ce140 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm242</reactant>
+    <product>mo99</product>
+    <product>ce140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>263.1529255813954</single_rate>
+  </reaction>
+  <!--fm242 -> tc101 + la138 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm242</reactant>
+    <product>tc101</product>
+    <product>la138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>280.88451627906977</single_rate>
+  </reaction>
+  <!--fm242 -> mo98 + ce140 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm242</reactant>
+    <product>mo98</product>
+    <product>ce140</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>322.3925581395349</single_rate>
+  </reaction>
+  <!--fm244 -> tc101 + la139 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm244</reactant>
+    <product>tc101</product>
+    <product>la139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>59.44219890982258</single_rate>
+  </reaction>
+  <!--fm244 -> ru104 + ba137 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm244</reactant>
+    <product>ru104</product>
+    <product>ba137</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>53.49009543808305</single_rate>
+  </reaction>
+  <!--fm244 -> ru103 + ba137 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm244</reactant>
+    <product>ru103</product>
+    <product>ba137</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>50.060737808670204</single_rate>
+  </reaction>
+  <!--fm244 -> tc102 + la139 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm244</reactant>
+    <product>tc102</product>
+    <product>la139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>52.50464784342418</single_rate>
+  </reaction>
+  <!--fm258 -> in127 + sb130 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm258</reactant>
+    <product>in127</product>
+    <product>sb130</product>
+    <product>n</product>
+    <single_rate>477.6984456344587</single_rate>
+  </reaction>
+  <!--fm258 -> sn127 + sn130 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm258</reactant>
+    <product>sn127</product>
+    <product>sn130</product>
+    <product>n</product>
+    <single_rate>296.9476824214202</single_rate>
+  </reaction>
+  <!--fm258 -> in126 + sb131 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm258</reactant>
+    <product>in126</product>
+    <product>sb131</product>
+    <product>n</product>
+    <single_rate>443.1534155995343</single_rate>
+  </reaction>
+  <!--fm258 -> sn128 + sn129 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm258</reactant>
+    <product>sn128</product>
+    <product>sn129</product>
+    <product>n</product>
+    <single_rate>363.59516461001164</single_rate>
+  </reaction>
+  <!--fm258 -> cd125 + te132 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm258</reactant>
+    <product>cd125</product>
+    <product>te132</product>
+    <product>n</product>
+    <single_rate>291.9752917345751</single_rate>
+  </reaction>
+  <!--fm259 -> sn128 + sn130 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm259</reactant>
+    <product>sn128</product>
+    <product>sn130</product>
+    <product>n</product>
+    <single_rate>0.0771310080816674</single_rate>
+  </reaction>
+  <!--fm259 -> in126 + sb132 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm259</reactant>
+    <product>in126</product>
+    <product>sb132</product>
+    <product>n</product>
+    <single_rate>0.06154104636324969</single_rate>
+  </reaction>
+  <!--fm259 -> cd126 + te132 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm259</reactant>
+    <product>cd126</product>
+    <product>te132</product>
+    <product>n</product>
+    <single_rate>0.04803083794130158</single_rate>
+  </reaction>
+  <!--fm259 -> in128 + sb130 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm259</reactant>
+    <product>in128</product>
+    <product>sb130</product>
+    <product>n</product>
+    <single_rate>0.07230008507018292</single_rate>
+  </reaction>
+  <!--fm259 -> cd125 + te133 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm259</reactant>
+    <product>cd125</product>
+    <product>te133</product>
+    <product>n</product>
+    <single_rate>0.05217396852403233</single_rate>
+  </reaction>
+  <!--fm259 -> in127 + sb131 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm259</reactant>
+    <product>in127</product>
+    <product>sb131</product>
+    <product>n</product>
+    <single_rate>0.09858358145470013</single_rate>
+  </reaction>
+  <!--fm259 -> sn128 + sn129 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>fm259</reactant>
+    <product>sn128</product>
+    <product>sn129</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.05223947256486602</single_rate>
+  </reaction>
+  <!--md259 -> in127 + te131 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>md259</reactant>
+    <product>in127</product>
+    <product>te131</product>
+    <product>n</product>
+    <single_rate>1.9929370837888875e-05</single_rate>
+  </reaction>
+  <!--md259 -> in126 + te132 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>md259</reactant>
+    <product>in126</product>
+    <product>te132</product>
+    <product>n</product>
+    <single_rate>2.43158532949011e-05</single_rate>
+  </reaction>
+  <!--md259 -> sn128 + sb130 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>md259</reactant>
+    <product>sn128</product>
+    <product>sb130</product>
+    <product>n</product>
+    <single_rate>3.0723208428585626e-05</single_rate>
+  </reaction>
+  <!--md259 -> sn127 + sb131 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>md259</reactant>
+    <product>sn127</product>
+    <product>sb131</product>
+    <product>n</product>
+    <single_rate>2.5671026736904874e-05</single_rate>
+  </reaction>
+  <!--md259 -> sn127 + sb130 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>md259</reactant>
+    <product>sn127</product>
+    <product>sb130</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>1.8960540701719507e-05</single_rate>
+  </reaction>
+  <!--no250 -> rh107 + la139 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no250</reactant>
+    <product>rh107</product>
+    <product>la139</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>34022.78954012624</single_rate>
+  </reaction>
+  <!--no250 -> ag111 + cs135 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no250</reactant>
+    <product>ag111</product>
+    <product>cs135</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>29457.43119927863</single_rate>
+  </reaction>
+  <!--no250 -> pd109 + ba137 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no250</reactant>
+    <product>pd109</product>
+    <product>ba137</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>29158.508926961225</single_rate>
+  </reaction>
+  <!--no250 -> pd108 + ba138 + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no250</reactant>
+    <product>pd108</product>
+    <product>ba138</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>28587.839134355276</single_rate>
+  </reaction>
+  <!--no250 -> pd108 + ba137 + n + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no250</reactant>
+    <product>pd108</product>
+    <product>ba137</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>29457.43119927863</single_rate>
+  </reaction>
+  <!--no258 -> sb128 + sb129 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no258</reactant>
+    <product>sb128</product>
+    <product>sb129</product>
+    <product>n</product>
+    <single_rate>97.17800693342734</single_rate>
+  </reaction>
+  <!--no258 -> sn126 + te130 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no258</reactant>
+    <product>sn126</product>
+    <product>te130</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>124.32825077854162</single_rate>
+  </reaction>
+  <!--no258 -> sn127 + te130 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no258</reactant>
+    <product>sn127</product>
+    <product>te130</product>
+    <product>n</product>
+    <single_rate>127.93724660673365</single_rate>
+  </reaction>
+  <!--no258 -> sn126 + te131 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no258</reactant>
+    <product>sn126</product>
+    <product>te131</product>
+    <product>n</product>
+    <single_rate>122.87140842587695</single_rate>
+  </reaction>
+  <!--no258 -> sb127 + sb130 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no258</reactant>
+    <product>sb127</product>
+    <product>sb130</product>
+    <product>n</product>
+    <single_rate>91.1850872554204</single_rate>
+  </reaction>
+  <!--no260 -> in126 + i133 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no260</reactant>
+    <product>in126</product>
+    <product>i133</product>
+    <product>n</product>
+    <single_rate>0.7996740008240626</single_rate>
+  </reaction>
+  <!--no260 -> sn128 + te130 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no260</reactant>
+    <product>sn128</product>
+    <product>te130</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.9072402966625462</single_rate>
+  </reaction>
+  <!--no260 -> sb128 + sb131 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no260</reactant>
+    <product>sb128</product>
+    <product>sb131</product>
+    <product>n</product>
+    <single_rate>0.8268992171405026</single_rate>
+  </reaction>
+  <!--no260 -> sn128 + te131 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no260</reactant>
+    <product>sn128</product>
+    <product>te131</product>
+    <product>n</product>
+    <single_rate>1.0043969509682733</single_rate>
+  </reaction>
+  <!--no260 -> sn127 + te132 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no260</reactant>
+    <product>sn127</product>
+    <product>te132</product>
+    <product>n</product>
+    <single_rate>1.1976426040379067</single_rate>
+  </reaction>
+  <!--no260 -> sn127 + te131 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no260</reactant>
+    <product>sn127</product>
+    <product>te131</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.9213867325916769</single_rate>
+  </reaction>
+  <!--no260 -> sb129 + sb130 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>no260</reactant>
+    <product>sb129</product>
+    <product>sb130</product>
+    <product>n</product>
+    <single_rate>0.820760197775031</single_rate>
+  </reaction>
+  <!--lr261 -> sn127 + i133 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr261</reactant>
+    <product>sn127</product>
+    <product>i133</product>
+    <product>n</product>
+    <single_rate>6.213618499743691e-05</single_rate>
+  </reaction>
+  <!--lr261 -> sb128 + te131 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr261</reactant>
+    <product>sb128</product>
+    <product>te131</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>5.4915418351654614e-05</single_rate>
+  </reaction>
+  <!--lr261 -> sb129 + te130 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr261</reactant>
+    <product>sb129</product>
+    <product>te130</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>5.024776442444609e-05</single_rate>
+  </reaction>
+  <!--lr261 -> sb128 + te132 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr261</reactant>
+    <product>sb128</product>
+    <product>te132</product>
+    <product>n</product>
+    <single_rate>5.590220424901749e-05</single_rate>
+  </reaction>
+  <!--lr261 -> sb129 + te131 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr261</reactant>
+    <product>sb129</product>
+    <product>te131</product>
+    <product>n</product>
+    <single_rate>5.17984279774449e-05</single_rate>
+  </reaction>
+  <!--lr264 -> sn128 + i135 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr264</reactant>
+    <product>sn128</product>
+    <product>i135</product>
+    <product>n</product>
+    <single_rate>7.1256251086767506e-06</single_rate>
+  </reaction>
+  <!--lr264 -> sb130 + te132 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr264</reactant>
+    <product>sb130</product>
+    <product>te132</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>9.694402712571724e-06</single_rate>
+  </reaction>
+  <!--lr264 -> sn129 + i134 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr264</reactant>
+    <product>sn129</product>
+    <product>i134</product>
+    <product>n</product>
+    <single_rate>6.859182750825943e-06</single_rate>
+  </reaction>
+  <!--lr264 -> sb131 + te132 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr264</reactant>
+    <product>sb131</product>
+    <product>te132</product>
+    <product>n</product>
+    <single_rate>6.897896597693154e-06</single_rate>
+  </reaction>
+  <!--lr264 -> sb130 + te133 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr264</reactant>
+    <product>sb130</product>
+    <product>te133</product>
+    <product>n</product>
+    <single_rate>8.712892830232422e-06</single_rate>
+  </reaction>
+  <!--lr266 -> sb131 + te133 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr266</reactant>
+    <product>sb131</product>
+    <product>te133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>4.041591063733272e-06</single_rate>
+  </reaction>
+  <!--lr266 -> sb130 + te134 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr266</reactant>
+    <product>sb130</product>
+    <product>te134</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.0145724654116575e-06</single_rate>
+  </reaction>
+  <!--lr266 -> sb131 + te134 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr266</reactant>
+    <product>sb131</product>
+    <product>te134</product>
+    <product>n</product>
+    <single_rate>3.7240587434792466e-06</single_rate>
+  </reaction>
+  <!--lr266 -> sn129 + i135 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr266</reactant>
+    <product>sn129</product>
+    <product>i135</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.650629394420503e-06</single_rate>
+  </reaction>
+  <!--lr266 -> sn130 + i135 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>lr266</reactant>
+    <product>sn130</product>
+    <product>i135</product>
+    <product>n</product>
+    <single_rate>3.069148332955318e-06</single_rate>
+  </reaction>
+  <!--rf253 -> cd112 + ba136 + n + n + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf253</reactant>
+    <product>cd112</product>
+    <product>ba136</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>67.3</single_rate>
+  </reaction>
+  <!--rf263 -> sb129 + i133 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf263</reactant>
+    <product>sb129</product>
+    <product>i133</product>
+    <product>n</product>
+    <single_rate>0.0001968626839115856</single_rate>
+  </reaction>
+  <!--rf263 -> sb129 + i132 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf263</reactant>
+    <product>sb129</product>
+    <product>i132</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.00016066871963320333</single_rate>
+  </reaction>
+  <!--rf263 -> sb128 + i133 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf263</reactant>
+    <product>sb128</product>
+    <product>i133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.00018282592212413604</single_rate>
+  </reaction>
+  <!--rf263 -> te130 + te131 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf263</reactant>
+    <product>te130</product>
+    <product>te131</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.00015138821597207968</single_rate>
+  </reaction>
+  <!--rf263 -> sb128 + i134 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf263</reactant>
+    <product>sb128</product>
+    <product>i134</product>
+    <product>n</product>
+    <single_rate>0.00015585445835899546</single_rate>
+  </reaction>
+  <!--rf265 -> sb130 + i134 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf265</reactant>
+    <product>sb130</product>
+    <product>i134</product>
+    <product>n</product>
+    <single_rate>0.0033619895459000323</single_rate>
+  </reaction>
+  <!--rf265 -> sb130 + i133 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf265</reactant>
+    <product>sb130</product>
+    <product>i133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.00346952793204835</single_rate>
+  </reaction>
+  <!--rf265 -> sb129 + i135 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf265</reactant>
+    <product>sb129</product>
+    <product>i135</product>
+    <product>n</product>
+    <single_rate>0.0022809457693564192</single_rate>
+  </reaction>
+  <!--rf265 -> te131 + te132 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf265</reactant>
+    <product>te131</product>
+    <product>te132</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.0024375367526951975</single_rate>
+  </reaction>
+  <!--rf267 -> sn129 + xe136 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf267</reactant>
+    <product>sn129</product>
+    <product>xe136</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.537449699848275e-05</single_rate>
+  </reaction>
+  <!--rf267 -> te132 + te133 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf267</reactant>
+    <product>te132</product>
+    <product>te133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.534520746751105e-05</single_rate>
+  </reaction>
+  <!--rf267 -> sb131 + i135 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf267</reactant>
+    <product>sb131</product>
+    <product>i135</product>
+    <product>n</product>
+    <single_rate>3.1583877564483144e-05</single_rate>
+  </reaction>
+  <!--rf267 -> sb130 + i135 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf267</reactant>
+    <product>sb130</product>
+    <product>i135</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.2560195263539814e-05</single_rate>
+  </reaction>
+  <!--rf267 -> sb131 + i134 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>rf267</reactant>
+    <product>sb131</product>
+    <product>i134</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.313622270598324e-05</single_rate>
+  </reaction>
+  <!--db266 -> te131 + i134 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db266</reactant>
+    <product>te131</product>
+    <product>i134</product>
+    <product>n</product>
+    <single_rate>8.70537987966979e-05</single_rate>
+  </reaction>
+  <!--db266 -> sb130 + xe134 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db266</reactant>
+    <product>sb130</product>
+    <product>xe134</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.0001005812928501469</single_rate>
+  </reaction>
+  <!--db266 -> te131 + i133 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db266</reactant>
+    <product>te131</product>
+    <product>i133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.00011151769973415419</single_rate>
+  </reaction>
+  <!--db266 -> sb129 + xe135 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db266</reactant>
+    <product>sb129</product>
+    <product>xe135</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>9.031789562054008e-05</single_rate>
+  </reaction>
+  <!--db266 -> te130 + i134 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db266</reactant>
+    <product>te130</product>
+    <product>i134</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>9.152931299846087e-05</single_rate>
+  </reaction>
+  <!--db267 -> sb130 + xe135 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db267</reactant>
+    <product>sb130</product>
+    <product>xe135</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.139373629051913e-05</single_rate>
+  </reaction>
+  <!--db267 -> sb130 + xe136 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db267</reactant>
+    <product>sb130</product>
+    <product>xe136</product>
+    <product>n</product>
+    <single_rate>2.6794540580063367e-05</single_rate>
+  </reaction>
+  <!--db267 -> te132 + i133 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db267</reactant>
+    <product>te132</product>
+    <product>i133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.857372654155496e-05</single_rate>
+  </reaction>
+  <!--db267 -> te132 + i134 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db267</reactant>
+    <product>te132</product>
+    <product>i134</product>
+    <product>n</product>
+    <single_rate>2.5976115037777234e-05</single_rate>
+  </reaction>
+  <!--db267 -> te131 + i134 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db267</reactant>
+    <product>te131</product>
+    <product>i134</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.32618815500853e-05</single_rate>
+  </reaction>
+  <!--db270 -> te133 + i135 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db270</reactant>
+    <product>te133</product>
+    <product>i135</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.920640445527323e-06</single_rate>
+  </reaction>
+  <!--db270 -> sb132 + xe136 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db270</reactant>
+    <product>sb132</product>
+    <product>xe136</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.23274625826662e-06</single_rate>
+  </reaction>
+  <!--db270 -> sb131 + xe137 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db270</reactant>
+    <product>sb131</product>
+    <product>xe137</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>2.5377236338322306e-06</single_rate>
+  </reaction>
+  <!--db270 -> te132 + i135 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>db270</reactant>
+    <product>te132</product>
+    <product>i135</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>3.108889662373825e-06</single_rate>
+  </reaction>
+  <!--sg267 -> te131 + xe134 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg267</reactant>
+    <product>te131</product>
+    <product>xe134</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.0017284756413578645</single_rate>
+  </reaction>
+  <!--sg267 -> te130 + xe135 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg267</reactant>
+    <product>te130</product>
+    <product>xe135</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.0015416493910339465</single_rate>
+  </reaction>
+  <!--sg267 -> te131 + xe135 + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg267</reactant>
+    <product>te131</product>
+    <product>xe135</product>
+    <product>n</product>
+    <single_rate>0.0011937354236848923</single_rate>
+  </reaction>
+  <!--sg267 -> te130 + xe134 + n + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg267</reactant>
+    <product>te130</product>
+    <product>xe134</product>
+    <product>n</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.0011262827157294635</single_rate>
+  </reaction>
+  <!--sg267 -> i132 + i133 + n + n-->
+  <reaction>
+    <source>manual add from nudat3</source>
+    <reactant>sg267</reactant>
+    <product>i132</product>
+    <product>i133</product>
+    <product>n</product>
+    <product>n</product>
+    <single_rate>0.0012598568281938323</single_rate>
+  </reaction>
+</reaction_data>

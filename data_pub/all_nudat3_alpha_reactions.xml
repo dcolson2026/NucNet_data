@@ -1,0 +1,4331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reaction_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://libnucnet.sourceforge.net/xsd_pub/2019-01-15/libnucnet__reac/ http://libnucnet.sourceforge.net/xsd_pub/2019-01-15/libnucnet__reac.xsd">
+  <!--fr209 -> he4 + at205-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr209</reactant>
+    <product>he4</product>
+    <product>at205</product>
+    <single_rate>0.0122159</single_rate>
+  </reaction>
+  <!--fr204 -> he4 + at200-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr204</reactant>
+    <product>he4</product>
+    <product>at200</product>
+    <single_rate>0.354275</single_rate>
+  </reaction>
+  <!--ra214 -> he4 + rn210-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra214</reactant>
+    <product>he4</product>
+    <product>rn210</product>
+    <single_rate>0.284139</single_rate>
+  </reaction>
+  <!--cm233 -> he4 + pu229-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cm233</reactant>
+    <product>he4</product>
+    <product>pu229</product>
+    <single_rate>0.00602737</single_rate>
+  </reaction>
+  <!--fm241 -> he4 + cf237-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm241</reactant>
+    <product>he4</product>
+    <product>cf237</product>
+    <single_rate>132.932</single_rate>
+  </reaction>
+  <!--rf261 -> he4 + no257-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rf261</reactant>
+    <product>he4</product>
+    <product>no257</product>
+    <single_rate>0.0099021</single_rate>
+  </reaction>
+  <!--gd148 -> he4 + sm144-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>gd148</reactant>
+    <product>he4</product>
+    <product>sm144</product>
+    <single_rate>2.52756e-10</single_rate>
+  </reaction>
+  <!--db261 -> he4 + lr257-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>db261</reactant>
+    <product>he4</product>
+    <product>lr257</product>
+    <single_rate>0.0456463</single_rate>
+  </reaction>
+  <!--hf157 -> he4 + yb153-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hf157</reactant>
+    <product>he4</product>
+    <product>yb153</product>
+    <single_rate>5.66572</single_rate>
+  </reaction>
+  <!--pb183 -> he4 + hg179-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pb183</reactant>
+    <product>he4</product>
+    <product>hg179</product>
+    <single_rate>1.2956</single_rate>
+  </reaction>
+  <!--bh261 -> he4 + db257-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh261</reactant>
+    <product>he4</product>
+    <product>db257</product>
+    <single_rate>59.2433</single_rate>
+  </reaction>
+  <!--bh260 -> he4 + db256-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh260</reactant>
+    <product>he4</product>
+    <product>db256</product>
+    <single_rate>19.8042</single_rate>
+  </reaction>
+  <!--po213 -> he4 + pb209-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po213</reactant>
+    <product>he4</product>
+    <product>pb209</product>
+    <single_rate>187034</single_rate>
+  </reaction>
+  <!--po186 -> he4 + pb182-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po186</reactant>
+    <product>he4</product>
+    <product>pb182</product>
+    <single_rate>24755.3</single_rate>
+  </reaction>
+  <!--fr202 -> he4 + at198-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr202</reactant>
+    <product>he4</product>
+    <product>at198</product>
+    <single_rate>1.90425</single_rate>
+  </reaction>
+  <!--ra219 -> he4 + rn215-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra219</reactant>
+    <product>he4</product>
+    <product>rn215</product>
+    <single_rate>77.0164</single_rate>
+  </reaction>
+  <!--ra205 -> he4 + rn201-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra205</reactant>
+    <product>he4</product>
+    <product>rn201</product>
+    <single_rate>3.22394</single_rate>
+  </reaction>
+  <!--ho152 -> he4 + tb148-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ho152</reactant>
+    <product>he4</product>
+    <product>tb148</product>
+    <single_rate>0.000565834</single_rate>
+  </reaction>
+  <!--fr201 -> he4 + at197-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr201</reactant>
+    <product>he4</product>
+    <product>at197</product>
+    <single_rate>11.0023</single_rate>
+  </reaction>
+  <!--ac217 -> he4 + fr213-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac217</reactant>
+    <product>he4</product>
+    <product>fr213</product>
+    <single_rate>1.00456e+07</single_rate>
+  </reaction>
+  <!--xe111 -> he4 + te107-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>xe111</reactant>
+    <product>he4</product>
+    <product>te107</product>
+    <single_rate>0.0974153</single_rate>
+  </reaction>
+  <!--at194 -> he4 + bi190-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at194</reactant>
+    <product>he4</product>
+    <product>bi190</product>
+    <single_rate>2.42359</single_rate>
+  </reaction>
+  <!--ra208 -> he4 + rn204-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra208</reactant>
+    <product>he4</product>
+    <product>rn204</product>
+    <single_rate>0.543278</single_rate>
+  </reaction>
+  <!--lu156 -> he4 + tm152-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lu156</reactant>
+    <product>he4</product>
+    <product>tm152</product>
+    <single_rate>1.40313</single_rate>
+  </reaction>
+  <!--pa219 -> he4 + ac215-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa219</reactant>
+    <product>he4</product>
+    <product>ac215</product>
+    <single_rate>1.26027e+07</single_rate>
+  </reaction>
+  <!--bh274 -> he4 + db270-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh274</reactant>
+    <product>he4</product>
+    <product>db270</product>
+    <single_rate>0.0157533</single_rate>
+  </reaction>
+  <!--at198 -> he4 + bi194-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at198</reactant>
+    <product>he4</product>
+    <product>bi194</product>
+    <single_rate>0.13956</single_rate>
+  </reaction>
+  <!--ac205 -> he4 + fr201-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac205</reactant>
+    <product>he4</product>
+    <product>fr201</product>
+    <single_rate>90.0191</single_rate>
+  </reaction>
+  <!--pt165 -> he4 + os161-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt165</reactant>
+    <product>he4</product>
+    <product>os161</product>
+    <single_rate>2665.95</single_rate>
+  </reaction>
+  <!--po209 -> he4 + pb205-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po209</reactant>
+    <product>he4</product>
+    <product>pb205</product>
+    <single_rate>1.76327e-10</single_rate>
+  </reaction>
+  <!--pb185 -> he4 + hg181-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pb185</reactant>
+    <product>he4</product>
+    <product>hg181</product>
+    <single_rate>0.0374079</single_rate>
+  </reaction>
+  <!--at212 -> he4 + bi208-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at212</reactant>
+    <product>he4</product>
+    <product>bi208</product>
+    <single_rate>2.20748</single_rate>
+  </reaction>
+  <!--sg264 -> he4 + rf260-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sg264</reactant>
+    <product>he4</product>
+    <product>rf260</product>
+    <single_rate>2.31049</single_rate>
+  </reaction>
+  <!--sg271 -> he4 + rf267-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sg271</reactant>
+    <product>he4</product>
+    <product>rf267</product>
+    <single_rate>0.00361014</single_rate>
+  </reaction>
+  <!--po198 -> he4 + pb194-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po198</reactant>
+    <product>he4</product>
+    <product>pb194</product>
+    <single_rate>0.00374142</single_rate>
+  </reaction>
+  <!--fm250 -> he4 + cf246-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm250</reactant>
+    <product>he4</product>
+    <product>cf246</product>
+    <single_rate>0.000373866</single_rate>
+  </reaction>
+  <!--tm153 -> he4 + ho149-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>tm153</reactant>
+    <product>he4</product>
+    <product>ho149</product>
+    <single_rate>0.426192</single_rate>
+  </reaction>
+  <!--fr207 -> he4 + at203-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr207</reactant>
+    <product>he4</product>
+    <product>at203</product>
+    <single_rate>0.0444926</single_rate>
+  </reaction>
+  <!--hs270 -> he4 + sg266-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hs270</reactant>
+    <product>he4</product>
+    <product>sg266</product>
+    <single_rate>0.0456018</single_rate>
+  </reaction>
+  <!--md257 -> he4 + es253-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>md257</reactant>
+    <product>he4</product>
+    <product>es253</product>
+    <single_rate>5.23209e-06</single_rate>
+  </reaction>
+  <!--rg278 -> he4 + mt274-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rg278</reactant>
+    <product>he4</product>
+    <product>mt274</product>
+    <single_rate>165.035</single_rate>
+  </reaction>
+  <!--tl177 -> he4 + au173-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>tl177</reactant>
+    <product>he4</product>
+    <product>au173</product>
+    <single_rate>28.111</single_rate>
+  </reaction>
+  <!--no252 -> he4 + fm248-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>no252</reactant>
+    <product>he4</product>
+    <product>fm248</product>
+    <single_rate>0.184745</single_rate>
+  </reaction>
+  <!--pt190 -> he4 + os186-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt190</reactant>
+    <product>he4</product>
+    <product>os186</product>
+    <single_rate>4.48558e-20</single_rate>
+  </reaction>
+  <!--fr205 -> he4 + at201-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr205</reactant>
+    <product>he4</product>
+    <product>at201</product>
+    <single_rate>0.175064</single_rate>
+  </reaction>
+  <!--pu239 -> he4 + u235-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pu239</reactant>
+    <product>he4</product>
+    <product>u235</product>
+    <single_rate>9.1105e-13</single_rate>
+  </reaction>
+  <!--mc287 -> he4 + nh283-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>mc287</reactant>
+    <product>he4</product>
+    <product>nh283</product>
+    <single_rate>18.7337</single_rate>
+  </reaction>
+  <!--au172 -> he4 + ir168-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>au172</reactant>
+    <product>he4</product>
+    <product>ir168</product>
+    <single_rate>31.5067</single_rate>
+  </reaction>
+  <!--pa218 -> he4 + ac214-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa218</reactant>
+    <product>he4</product>
+    <product>ac214</product>
+    <single_rate>6359.15</single_rate>
+  </reaction>
+  <!--md246 -> he4 + es242-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>md246</reactant>
+    <product>he4</product>
+    <product>es242</product>
+    <single_rate>0.770164</single_rate>
+  </reaction>
+  <!--dy150 -> he4 + gd146-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>dy150</reactant>
+    <product>he4</product>
+    <product>gd146</product>
+    <single_rate>0.000596152</single_rate>
+  </reaction>
+  <!--cf241 -> he4 + cm237-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf241</reactant>
+    <product>he4</product>
+    <product>cm237</product>
+    <single_rate>0.000458431</single_rate>
+  </reaction>
+  <!--rn200 -> he4 + po196-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn200</reactant>
+    <product>he4</product>
+    <product>po196</product>
+    <single_rate>0.578744</single_rate>
+  </reaction>
+  <!--bh262 -> he4 + db258-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh262</reactant>
+    <product>he4</product>
+    <product>db258</product>
+    <single_rate>7.87667</single_rate>
+  </reaction>
+  <!--pa222 -> he4 + ac218-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa222</reactant>
+    <product>he4</product>
+    <product>ac218</product>
+    <single_rate>178.187</single_rate>
+  </reaction>
+  <!--lr260 -> he4 + md256-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lr260</reactant>
+    <product>he4</product>
+    <product>md256</product>
+    <single_rate>0.00231049</single_rate>
+  </reaction>
+  <!--np219 -> he4 + pa215-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>np219</reactant>
+    <product>he4</product>
+    <product>pa215</product>
+    <single_rate>4620.98</single_rate>
+  </reaction>
+  <!--rn217 -> he4 + po213-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn217</reactant>
+    <product>he4</product>
+    <product>po213</product>
+    <single_rate>1174.83</single_rate>
+  </reaction>
+  <!--th220 -> he4 + ra216-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th220</reactant>
+    <product>he4</product>
+    <product>ra216</product>
+    <single_rate>67955.6</single_rate>
+  </reaction>
+  <!--np228 -> he4 + pa224-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>np228</reactant>
+    <product>he4</product>
+    <product>pa224</product>
+    <single_rate>0.00451562</single_rate>
+  </reaction>
+  <!--pt166 -> he4 + os162-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt166</reactant>
+    <product>he4</product>
+    <product>os162</product>
+    <single_rate>2475.53</single_rate>
+  </reaction>
+  <!--pb179 -> he4 + hg175-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pb179</reactant>
+    <product>he4</product>
+    <product>hg175</product>
+    <single_rate>256.721</single_rate>
+  </reaction>
+  <!--rn206 -> he4 + po202-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn206</reactant>
+    <product>he4</product>
+    <product>po202</product>
+    <single_rate>0.00113872</single_rate>
+  </reaction>
+  <!--hg170 -> he4 + pt166-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg170</reactant>
+    <product>he4</product>
+    <product>pt166</product>
+    <single_rate>8664.34</single_rate>
+  </reaction>
+  <!--rn219 -> he4 + po215-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn219</reactant>
+    <product>he4</product>
+    <product>po215</product>
+    <single_rate>0.175037</single_rate>
+  </reaction>
+  <!--md251 -> he4 + es247-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>md251</reactant>
+    <product>he4</product>
+    <product>es247</product>
+    <single_rate>0.000270549</single_rate>
+  </reaction>
+  <!--bi186 -> he4 + tl182-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bi186</reactant>
+    <product>he4</product>
+    <product>tl182</product>
+    <single_rate>46.8343</single_rate>
+  </reaction>
+  <!--rn218 -> he4 + po214-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn218</reactant>
+    <product>he4</product>
+    <product>po214</product>
+    <single_rate>20.5377</single_rate>
+  </reaction>
+  <!--po208 -> he4 + pb204-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po208</reactant>
+    <product>he4</product>
+    <product>pb204</product>
+    <single_rate>7.57889e-09</single_rate>
+  </reaction>
+  <!--rn202 -> he4 + po198-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn202</reactant>
+    <product>he4</product>
+    <product>po198</product>
+    <single_rate>0.0554518</single_rate>
+  </reaction>
+  <!--cf243 -> he4 + cm239-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf243</reactant>
+    <product>he4</product>
+    <product>cm239</product>
+    <single_rate>0.00015258</single_rate>
+  </reaction>
+  <!--te108 -> he4 + sn104-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>te108</reactant>
+    <product>he4</product>
+    <product>sn104</product>
+    <single_rate>0.161734</single_rate>
+  </reaction>
+  <!--os164 -> he4 + w160-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>os164</reactant>
+    <product>he4</product>
+    <product>w160</product>
+    <single_rate>31.6867</single_rate>
+  </reaction>
+  <!--rn197 -> he4 + po193-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn197</reactant>
+    <product>he4</product>
+    <product>po193</product>
+    <single_rate>12.6027</single_rate>
+  </reaction>
+  <!--hg171 -> he4 + pt167-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg171</reactant>
+    <product>he4</product>
+    <product>pt167</product>
+    <single_rate>11748.3</single_rate>
+  </reaction>
+  <!--bi212 -> he4 + tl208-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bi212</reactant>
+    <product>he4</product>
+    <product>tl208</product>
+    <single_rate>6.85695e-05</single_rate>
+  </reaction>
+  <!--ra206 -> he4 + rn202-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra206</reactant>
+    <product>he4</product>
+    <product>rn202</product>
+    <single_rate>2.88811</single_rate>
+  </reaction>
+  <!--pa215 -> he4 + ac211-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa215</reactant>
+    <product>he4</product>
+    <product>ac211</product>
+    <single_rate>49.5105</single_rate>
+  </reaction>
+  <!--mt276 -> he4 + bh272-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>mt276</reactant>
+    <product>he4</product>
+    <product>bh272</product>
+    <single_rate>1.11798</single_rate>
+  </reaction>
+  <!--au176 -> he4 + ir172-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>au176</reactant>
+    <product>he4</product>
+    <product>ir172</product>
+    <single_rate>0.382881</single_rate>
+  </reaction>
+  <!--db268 -> he4 + lr264-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>db268</reactant>
+    <product>he4</product>
+    <product>lr264</product>
+    <single_rate>4.01127e-06</single_rate>
+  </reaction>
+  <!--po194 -> he4 + pb190-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po194</reactant>
+    <product>he4</product>
+    <product>pb190</product>
+    <single_rate>1.64446</single_rate>
+  </reaction>
+  <!--au175 -> he4 + ir171-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>au175</reactant>
+    <product>he4</product>
+    <product>ir171</product>
+    <single_rate>3.10364</single_rate>
+  </reaction>
+  <!--ra211 -> he4 + rn207-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra211</reactant>
+    <product>he4</product>
+    <product>rn207</product>
+    <single_rate>0.053319</single_rate>
+  </reaction>
+  <!--rf259 -> he4 + no255-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rf259</reactant>
+    <product>he4</product>
+    <product>no255</product>
+    <single_rate>0.23567</single_rate>
+  </reaction>
+  <!--db260 -> he4 + lr256-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>db260</reactant>
+    <product>he4</product>
+    <product>lr256</product>
+    <single_rate>0.413134</single_rate>
+  </reaction>
+  <!--os163 -> he4 + w159-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>os163</reactant>
+    <product>he4</product>
+    <product>w159</product>
+    <single_rate>119.508</single_rate>
+  </reaction>
+  <!--bi211 -> he4 + tl207-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bi211</reactant>
+    <product>he4</product>
+    <product>tl207</product>
+    <single_rate>0.00538344</single_rate>
+  </reaction>
+  <!--ac207 -> he4 + fr203-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac207</reactant>
+    <product>he4</product>
+    <product>fr203</product>
+    <single_rate>25.6721</single_rate>
+  </reaction>
+  <!--pa221 -> he4 + ac217-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa221</reactant>
+    <product>he4</product>
+    <product>ac217</product>
+    <single_rate>117483</single_rate>
+  </reaction>
+  <!--at215 -> he4 + bi211-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at215</reactant>
+    <product>he4</product>
+    <product>bi211</product>
+    <single_rate>18733.7</single_rate>
+  </reaction>
+  <!--es240 -> he4 + bk236-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>es240</reactant>
+    <product>he4</product>
+    <product>bk236</product>
+    <single_rate>0.0724184</single_rate>
+  </reaction>
+  <!--bh278 -> he4 + db274-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh278</reactant>
+    <product>he4</product>
+    <product>db274</product>
+    <single_rate>0.000304012</single_rate>
+  </reaction>
+  <!--pa224 -> he4 + ac220-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa224</reactant>
+    <product>he4</product>
+    <product>ac220</product>
+    <single_rate>0.815467</single_rate>
+  </reaction>
+  <!--au174 -> he4 + ir170-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>au174</reactant>
+    <product>he4</product>
+    <product>ir170</product>
+    <single_rate>4.488</single_rate>
+  </reaction>
+  <!--hg176 -> he4 + pt172-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg176</reactant>
+    <product>he4</product>
+    <product>pt172</product>
+    <single_rate>32.5779</single_rate>
+  </reaction>
+  <!--fr198 -> he4 + at194-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr198</reactant>
+    <product>he4</product>
+    <product>at194</product>
+    <single_rate>46.2098</single_rate>
+  </reaction>
+  <!--es245 -> he4 + bk241-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>es245</reactant>
+    <product>he4</product>
+    <product>bk241</product>
+    <single_rate>0.00556993</single_rate>
+  </reaction>
+  <!--os162 -> he4 + w158-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>os162</reactant>
+    <product>he4</product>
+    <product>w158</product>
+    <single_rate>330.07</single_rate>
+  </reaction>
+  <!--ir169 -> he4 + re165-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ir169</reactant>
+    <product>he4</product>
+    <product>re165</product>
+    <single_rate>1.0407</single_rate>
+  </reaction>
+  <!--cf251 -> he4 + cm247-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf251</reactant>
+    <product>he4</product>
+    <product>cm247</product>
+    <single_rate>2.44594e-11</single_rate>
+  </reaction>
+  <!--re162 -> he4 + ta158-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>re162</reactant>
+    <product>he4</product>
+    <product>ta158</product>
+    <single_rate>6.08933</single_rate>
+  </reaction>
+  <!--pa223 -> he4 + ac219-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa223</reactant>
+    <product>he4</product>
+    <product>ac219</product>
+    <single_rate>130.782</single_rate>
+  </reaction>
+  <!--u226 -> he4 + th222-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u226</reactant>
+    <product>he4</product>
+    <product>th222</product>
+    <single_rate>2.59606</single_rate>
+  </reaction>
+  <!--rf260 -> he4 + no256-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rf260</reactant>
+    <product>he4</product>
+    <product>no256</product>
+    <single_rate>11.1798</single_rate>
+  </reaction>
+  <!--hg183 -> he4 + pt179-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg183</reactant>
+    <product>he4</product>
+    <product>pt179</product>
+    <single_rate>0.0183801</single_rate>
+  </reaction>
+  <!--bi187 -> he4 + tl183-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bi187</reactant>
+    <product>he4</product>
+    <product>tl183</product>
+    <single_rate>18.7337</single_rate>
+  </reaction>
+  <!--db258 -> he4 + lr254-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>db258</reactant>
+    <product>he4</product>
+    <product>lr254</product>
+    <single_rate>0.213276</single_rate>
+  </reaction>
+  <!--ac216 -> he4 + fr212-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac216</reactant>
+    <product>he4</product>
+    <product>fr212</product>
+    <single_rate>1925.41</single_rate>
+  </reaction>
+  <!--md249 -> he4 + es245-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>md249</reactant>
+    <product>he4</product>
+    <product>es245</product>
+    <single_rate>0.020307</single_rate>
+  </reaction>
+  <!--ra218 -> he4 + rn214-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra218</reactant>
+    <product>he4</product>
+    <product>rn214</product>
+    <single_rate>26752.1</single_rate>
+  </reaction>
+  <!--po214 -> he4 + pb210-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po214</reactant>
+    <product>he4</product>
+    <product>pb210</product>
+    <single_rate>4239.95</single_rate>
+  </reaction>
+  <!--fr200 -> he4 + at196-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr200</reactant>
+    <product>he4</product>
+    <product>at196</product>
+    <single_rate>13.8629</single_rate>
+  </reaction>
+  <!--mt278 -> he4 + bh274-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>mt278</reactant>
+    <product>he4</product>
+    <product>bh274</product>
+    <single_rate>0.154033</single_rate>
+  </reaction>
+  <!--th218 -> he4 + ra214-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th218</reactant>
+    <product>he4</product>
+    <product>ra214</product>
+    <single_rate>5.72849e+06</single_rate>
+  </reaction>
+  <!--sg263 -> he4 + rf259-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sg263</reactant>
+    <product>he4</product>
+    <product>rf259</product>
+    <single_rate>0.670042</single_rate>
+  </reaction>
+  <!--cn277 -> he4 + ds273-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cn277</reactant>
+    <product>he4</product>
+    <product>ds273</product>
+    <single_rate>1136.31</single_rate>
+  </reaction>
+  <!--pt167 -> he4 + os163-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt167</reactant>
+    <product>he4</product>
+    <product>os163</product>
+    <single_rate>770.164</single_rate>
+  </reaction>
+  <!--bi191 -> he4 + tl187-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bi191</reactant>
+    <product>he4</product>
+    <product>tl187</product>
+    <single_rate>0.0285085</single_rate>
+  </reaction>
+  <!--ac211 -> he4 + fr207-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac211</reactant>
+    <product>he4</product>
+    <product>fr207</product>
+    <single_rate>3.3007</single_rate>
+  </reaction>
+  <!--ac220 -> he4 + fr216-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac220</reactant>
+    <product>he4</product>
+    <product>fr216</product>
+    <single_rate>26.2556</single_rate>
+  </reaction>
+  <!--th227 -> he4 + ra223-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th227</reactant>
+    <product>he4</product>
+    <product>ra223</product>
+    <single_rate>4.2916e-07</single_rate>
+  </reaction>
+  <!--pa226 -> he4 + ac222-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa226</reactant>
+    <product>he4</product>
+    <product>ac222</product>
+    <single_rate>0.00474934</single_rate>
+  </reaction>
+  <!--bh271 -> he4 + db267-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh271</reactant>
+    <product>he4</product>
+    <product>db267</product>
+    <single_rate>0.462098</single_rate>
+  </reaction>
+  <!--mt274 -> he4 + bh270-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>mt274</reactant>
+    <product>he4</product>
+    <product>bh270</product>
+    <single_rate>1.57533</single_rate>
+  </reaction>
+  <!--pt174 -> he4 + os170-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt174</reactant>
+    <product>he4</product>
+    <product>os170</product>
+    <single_rate>0.598917</single_rate>
+  </reaction>
+  <!--th232 -> he4 + ra228-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th232</reactant>
+    <product>he4</product>
+    <product>ra228</product>
+    <single_rate>1.56126e-18</single_rate>
+  </reaction>
+  <!--bi188 -> he4 + tl184-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bi188</reactant>
+    <product>he4</product>
+    <product>tl184</product>
+    <single_rate>11.5525</single_rate>
+  </reaction>
+  <!--np227 -> he4 + pa223-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>np227</reactant>
+    <product>he4</product>
+    <product>pa223</product>
+    <single_rate>1.35911</single_rate>
+  </reaction>
+  <!--es254 -> he4 + bk250-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>es254</reactant>
+    <product>he4</product>
+    <product>bk250</product>
+    <single_rate>2.90988e-08</single_rate>
+  </reaction>
+  <!--hs263 -> he4 + sg259-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hs263</reactant>
+    <product>he4</product>
+    <product>sg259</product>
+    <single_rate>936.685</single_rate>
+  </reaction>
+  <!--w160 -> he4 + hf156-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>w160</reactant>
+    <product>he4</product>
+    <product>hf156</product>
+    <single_rate>6.62679</single_rate>
+  </reaction>
+  <!--pb186 -> he4 + hg182-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pb186</reactant>
+    <product>he4</product>
+    <product>hg182</product>
+    <single_rate>0.0575226</single_rate>
+  </reaction>
+  <!--th221 -> he4 + ra217-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th221</reactant>
+    <product>he4</product>
+    <product>ra217</product>
+    <single_rate>400.663</single_rate>
+  </reaction>
+  <!--pa216 -> he4 + ac212-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa216</reactant>
+    <product>he4</product>
+    <product>ac212</product>
+    <single_rate>5.87413</single_rate>
+  </reaction>
+  <!--u218 -> he4 + th214-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u218</reactant>
+    <product>he4</product>
+    <product>th214</product>
+    <single_rate>1100.23</single_rate>
+  </reaction>
+  <!--pu242 -> he4 + u238-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pu242</reactant>
+    <product>he4</product>
+    <product>u238</product>
+    <single_rate>5.8572e-14</single_rate>
+  </reaction>
+  <!--po216 -> he4 + pb212-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po216</reactant>
+    <product>he4</product>
+    <product>pb212</product>
+    <single_rate>4.81352</single_rate>
+  </reaction>
+  <!--po218 -> he4 + pb214-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po218</reactant>
+    <product>he4</product>
+    <product>pb214</product>
+    <single_rate>0.00372939</single_rate>
+  </reaction>
+  <!--at216 -> he4 + bi212-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at216</reactant>
+    <product>he4</product>
+    <product>bi212</product>
+    <single_rate>2310.49</single_rate>
+  </reaction>
+  <!--ac223 -> he4 + fr219-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac223</reactant>
+    <product>he4</product>
+    <product>fr219</product>
+    <single_rate>0.00539478</single_rate>
+  </reaction>
+  <!--th229 -> he4 + ra225-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th229</reactant>
+    <product>he4</product>
+    <product>ra225</product>
+    <single_rate>2.77768e-12</single_rate>
+  </reaction>
+  <!--cm242 -> he4 + pu238-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cm242</reactant>
+    <product>he4</product>
+    <product>pu238</product>
+    <single_rate>4.92543e-08</single_rate>
+  </reaction>
+  <!--nh286 -> he4 + rg282-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>nh286</reactant>
+    <product>he4</product>
+    <product>rg282</product>
+    <single_rate>0.0729629</single_rate>
+  </reaction>
+  <!--bi184 -> he4 + tl180-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bi184</reactant>
+    <product>he4</product>
+    <product>tl180</product>
+    <single_rate>53.319</single_rate>
+  </reaction>
+  <!--fr210 -> he4 + at206-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr210</reactant>
+    <product>he4</product>
+    <product>at206</product>
+    <single_rate>0.00257932</single_rate>
+  </reaction>
+  <!--u227 -> he4 + th223-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u227</reactant>
+    <product>he4</product>
+    <product>th223</product>
+    <single_rate>0.0105022</single_rate>
+  </reaction>
+  <!--hg180 -> he4 + pt176-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg180</reactant>
+    <product>he4</product>
+    <product>pt176</product>
+    <single_rate>0.128958</single_rate>
+  </reaction>
+  <!--at202 -> he4 + bi198-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at202</reactant>
+    <product>he4</product>
+    <product>bi198</product>
+    <single_rate>0.000452053</single_rate>
+  </reaction>
+  <!--at195 -> he4 + bi191-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at195</reactant>
+    <product>he4</product>
+    <product>bi191</product>
+    <single_rate>2.24319</single_rate>
+  </reaction>
+  <!--ac209 -> he4 + fr205-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac209</reactant>
+    <product>he4</product>
+    <product>fr205</product>
+    <single_rate>7.617</single_rate>
+  </reaction>
+  <!--es243 -> he4 + bk239-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>es243</reactant>
+    <product>he4</product>
+    <product>bk239</product>
+    <single_rate>0.0192191</single_rate>
+  </reaction>
+  <!--rn207 -> he4 + po203-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn207</reactant>
+    <product>he4</product>
+    <product>po203</product>
+    <single_rate>0.000262272</single_rate>
+  </reaction>
+  <!--u216 -> he4 + th212-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u216</reactant>
+    <product>he4</product>
+    <product>th212</product>
+    <single_rate>154.033</single_rate>
+  </reaction>
+  <!--lv291 -> he4 + fl287-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lv291</reactant>
+    <product>he4</product>
+    <product>fl287</product>
+    <single_rate>36.4814</single_rate>
+  </reaction>
+  <!--te104 -> he4 + sn100-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>te104</reactant>
+    <product>he4</product>
+    <product>sn100</product>
+    <single_rate>3.85082e+07</single_rate>
+  </reaction>
+  <!--ac212 -> he4 + fr208-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac212</reactant>
+    <product>he4</product>
+    <product>fr208</product>
+    <single_rate>0.774466</single_rate>
+  </reaction>
+  <!--np222 -> he4 + pa218-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>np222</reactant>
+    <product>he4</product>
+    <product>pa218</product>
+    <single_rate>1.82407e+06</single_rate>
+  </reaction>
+  <!--ds273 -> he4 + hs269-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ds273</reactant>
+    <product>he4</product>
+    <product>hs269</product>
+    <single_rate>3648.14</single_rate>
+  </reaction>
+  <!--pa220 -> he4 + ac216-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa220</reactant>
+    <product>he4</product>
+    <product>ac216</product>
+    <single_rate>778817</single_rate>
+  </reaction>
+  <!--md245 -> he4 + es241-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>md245</reactant>
+    <product>he4</product>
+    <product>es241</product>
+    <single_rate>2.10045</single_rate>
+  </reaction>
+  <!--i108 -> he4 + sb104-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>i108</reactant>
+    <product>he4</product>
+    <product>sb104</product>
+    <single_rate>26.1243</single_rate>
+  </reaction>
+  <!--bh267 -> he4 + db263-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh267</reactant>
+    <product>he4</product>
+    <product>db263</product>
+    <single_rate>0.0433217</single_rate>
+  </reaction>
+  <!--cf240 -> he4 + cm236-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf240</reactant>
+    <product>he4</product>
+    <product>cm236</product>
+    <single_rate>0.0165716</single_rate>
+  </reaction>
+  <!--sg267 -> he4 + rf263-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sg267</reactant>
+    <product>he4</product>
+    <product>rf263</product>
+    <single_rate>0.0014028</single_rate>
+  </reaction>
+  <!--bh264 -> he4 + db260-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh264</reactant>
+    <product>he4</product>
+    <product>db260</product>
+    <single_rate>0.595126</single_rate>
+  </reaction>
+  <!--th219 -> he4 + ra215-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th219</reactant>
+    <product>he4</product>
+    <product>ra215</product>
+    <single_rate>679556</single_rate>
+  </reaction>
+  <!--os186 -> he4 + w182-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>os186</reactant>
+    <product>he4</product>
+    <product>w182</product>
+    <single_rate>1.09823e-23</single_rate>
+  </reaction>
+  <!--po191 -> he4 + pb187-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po191</reactant>
+    <product>he4</product>
+    <product>pb187</product>
+    <single_rate>31.5067</single_rate>
+  </reaction>
+  <!--ra203 -> he4 + rn199-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra203</reactant>
+    <product>he4</product>
+    <product>rn199</product>
+    <single_rate>22.3596</single_rate>
+  </reaction>
+  <!--ds277 -> he4 + hs273-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ds277</reactant>
+    <product>he4</product>
+    <product>hs273</product>
+    <single_rate>198.042</single_rate>
+  </reaction>
+  <!--ra223 -> he4 + rn219-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra223</reactant>
+    <product>he4</product>
+    <product>rn219</product>
+    <single_rate>7.01565e-07</single_rate>
+  </reaction>
+  <!--pa214 -> he4 + ac210-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa214</reactant>
+    <product>he4</product>
+    <product>ac210</product>
+    <single_rate>40.7734</single_rate>
+  </reaction>
+  <!--cm245 -> he4 + pu241-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cm245</reactant>
+    <product>he4</product>
+    <product>pu241</product>
+    <single_rate>2.66398e-12</single_rate>
+  </reaction>
+  <!--at203 -> he4 + bi199-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at203</reactant>
+    <product>he4</product>
+    <product>bi199</product>
+    <single_rate>0.000483954</single_rate>
+  </reaction>
+  <!--fr203 -> he4 + at199-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr203</reactant>
+    <product>he4</product>
+    <product>at199</product>
+    <single_rate>1.26027</single_rate>
+  </reaction>
+  <!--th222 -> he4 + ra218-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th222</reactant>
+    <product>he4</product>
+    <product>ra218</product>
+    <single_rate>351.851</single_rate>
+  </reaction>
+  <!--cn281 -> he4 + ds277-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cn281</reactant>
+    <product>he4</product>
+    <product>ds277</product>
+    <single_rate>3.85082</single_rate>
+  </reaction>
+  <!--fl290 -> he4 + cn286-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fl290</reactant>
+    <product>he4</product>
+    <product>cn286</product>
+    <single_rate>0.0182407</single_rate>
+  </reaction>
+  <!--pt176 -> he4 + os172-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt176</reactant>
+    <product>he4</product>
+    <product>os172</product>
+    <single_rate>0.0438701</single_rate>
+  </reaction>
+  <!--hg181 -> he4 + pt177-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg181</reactant>
+    <product>he4</product>
+    <product>pt177</product>
+    <single_rate>0.0462098</single_rate>
+  </reaction>
+  <!--po188 -> he4 + pb184-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po188</reactant>
+    <product>he4</product>
+    <product>pb184</product>
+    <single_rate>2567.21</single_rate>
+  </reaction>
+  <!--pu244 -> he4 + u240-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pu244</reactant>
+    <product>he4</product>
+    <product>u240</product>
+    <single_rate>2.69834e-16</single_rate>
+  </reaction>
+  <!--u219 -> he4 + th215-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u219</reactant>
+    <product>he4</product>
+    <product>th215</product>
+    <single_rate>11552.5</single_rate>
+  </reaction>
+  <!--cm243 -> he4 + pu239-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cm243</reactant>
+    <product>he4</product>
+    <product>pu239</product>
+    <single_rate>7.50542e-10</single_rate>
+  </reaction>
+  <!--rg279 -> he4 + mt275-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rg279</reactant>
+    <product>he4</product>
+    <product>mt275</product>
+    <single_rate>7.70164</single_rate>
+  </reaction>
+  <!--pt168 -> he4 + os164-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt168</reactant>
+    <product>he4</product>
+    <product>os164</product>
+    <single_rate>343.142</single_rate>
+  </reaction>
+  <!--cm248 -> he4 + pu244-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cm248</reactant>
+    <product>he4</product>
+    <product>pu244</product>
+    <single_rate>5.77428e-14</single_rate>
+  </reaction>
+  <!--ta157 -> he4 + lu153-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ta157</reactant>
+    <product>he4</product>
+    <product>lu153</product>
+    <single_rate>65.6451</single_rate>
+  </reaction>
+  <!--au170 -> he4 + ir166-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>au170</reactant>
+    <product>he4</product>
+    <product>ir166</product>
+    <single_rate>262.918</single_rate>
+  </reaction>
+  <!--pb181 -> he4 + hg177-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pb181</reactant>
+    <product>he4</product>
+    <product>hg177</product>
+    <single_rate>19.2541</single_rate>
+  </reaction>
+  <!--pu240 -> he4 + u236-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pu240</reactant>
+    <product>he4</product>
+    <product>u236</product>
+    <single_rate>3.34713e-12</single_rate>
+  </reaction>
+  <!--fl287 -> he4 + cn283-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fl287</reactant>
+    <product>he4</product>
+    <product>cn283</product>
+    <single_rate>1.73287</single_rate>
+  </reaction>
+  <!--nd144 -> he4 + ce140-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>nd144</reactant>
+    <product>he4</product>
+    <product>ce140</product>
+    <single_rate>9.60197e-24</single_rate>
+  </reaction>
+  <!--rn216 -> he4 + po212-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn216</reactant>
+    <product>he4</product>
+    <product>po212</product>
+    <single_rate>23901.6</single_rate>
+  </reaction>
+  <!--rg280 -> he4 + mt276-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rg280</reactant>
+    <product>he4</product>
+    <product>mt276</product>
+    <single_rate>0.179108</single_rate>
+  </reaction>
+  <!--rn193 -> he4 + po189-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn193</reactant>
+    <product>he4</product>
+    <product>po189</product>
+    <single_rate>602.737</single_rate>
+  </reaction>
+  <!--ra217 -> he4 + rn213-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra217</reactant>
+    <product>he4</product>
+    <product>rn213</product>
+    <single_rate>435942</single_rate>
+  </reaction>
+  <!--th208 -> he4 + ra204-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th208</reactant>
+    <product>he4</product>
+    <product>ra204</product>
+    <single_rate>223.596</single_rate>
+  </reaction>
+  <!--os184 -> he4 + w180-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>os184</reactant>
+    <product>he4</product>
+    <product>w180</product>
+    <single_rate>1.96112e-21</single_rate>
+  </reaction>
+  <!--fr208 -> he4 + at204-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr208</reactant>
+    <product>he4</product>
+    <product>at204</product>
+    <single_rate>0.0105273</single_rate>
+  </reaction>
+  <!--fr211 -> he4 + at207-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr211</reactant>
+    <product>he4</product>
+    <product>at207</product>
+    <single_rate>0.00324214</single_rate>
+  </reaction>
+  <!--am243 -> he4 + np239-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>am243</reactant>
+    <product>he4</product>
+    <product>np239</product>
+    <single_rate>2.9904e-12</single_rate>
+  </reaction>
+  <!--md260 -> he4 + es256-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>md260</reactant>
+    <product>he4</product>
+    <product>es256</product>
+    <single_rate>6.30703e-08</single_rate>
+  </reaction>
+  <!--yb156 -> he4 + er152-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>yb156</reactant>
+    <product>he4</product>
+    <product>er152</product>
+    <single_rate>0.00277259</single_rate>
+  </reaction>
+  <!--pt172 -> he4 + os168-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt172</reactant>
+    <product>he4</product>
+    <product>os168</product>
+    <single_rate>6.90301</single_rate>
+  </reaction>
+  <!--at207 -> he4 + bi203-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at207</reactant>
+    <product>he4</product>
+    <product>bi203</product>
+    <single_rate>1.06376e-05</single_rate>
+  </reaction>
+  <!--np223 -> he4 + pa219-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>np223</reactant>
+    <product>he4</product>
+    <product>pa219</product>
+    <single_rate>322394</single_rate>
+  </reaction>
+  <!--sm148 -> he4 + nd144-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sm148</reactant>
+    <product>he4</product>
+    <product>nd144</product>
+    <single_rate>3.2102e-24</single_rate>
+  </reaction>
+  <!--hs268 -> he4 + sg264-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hs268</reactant>
+    <product>he4</product>
+    <product>sg264</product>
+    <single_rate>1.73287</single_rate>
+  </reaction>
+  <!--au179 -> he4 + ir175-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>au179</reactant>
+    <product>he4</product>
+    <product>ir175</product>
+    <single_rate>0.0211795</single_rate>
+  </reaction>
+  <!--th226 -> he4 + ra222-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th226</reactant>
+    <product>he4</product>
+    <product>ra222</product>
+    <single_rate>0.000376424</single_rate>
+  </reaction>
+  <!--cf244 -> he4 + cm240-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf244</reactant>
+    <product>he4</product>
+    <product>cm240</product>
+    <single_rate>0.000446615</single_rate>
+  </reaction>
+  <!--yb155 -> he4 + er151-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>yb155</reactant>
+    <product>he4</product>
+    <product>er151</product>
+    <single_rate>0.344637</single_rate>
+  </reaction>
+  <!--bh265 -> he4 + db261-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh265</reactant>
+    <product>he4</product>
+    <product>db261</product>
+    <single_rate>0.737391</single_rate>
+  </reaction>
+  <!--ta159 -> he4 + lu155-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ta159</reactant>
+    <product>he4</product>
+    <product>lu155</product>
+    <single_rate>0.226606</single_rate>
+  </reaction>
+  <!--fr206 -> he4 + at202-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr206</reactant>
+    <product>he4</product>
+    <product>at202</product>
+    <single_rate>0.0382964</single_rate>
+  </reaction>
+  <!--no256 -> he4 + fm252-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>no256</reactant>
+    <product>he4</product>
+    <product>fm252</product>
+    <single_rate>0.235315</single_rate>
+  </reaction>
+  <!--db263 -> he4 + lr259-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>db263</reactant>
+    <product>he4</product>
+    <product>lr259</product>
+    <single_rate>0.0107823</single_rate>
+  </reaction>
+  <!--tb149 -> he4 + eu145-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>tb149</reactant>
+    <product>he4</product>
+    <product>eu145</product>
+    <single_rate>7.80445e-06</single_rate>
+  </reaction>
+  <!--dy154 -> he4 + gd150-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>dy154</reactant>
+    <product>he4</product>
+    <product>gd150</product>
+    <single_rate>7.98709e-15</single_rate>
+  </reaction>
+  <!--th217 -> he4 + ra213-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th217</reactant>
+    <product>he4</product>
+    <product>ra213</product>
+    <single_rate>2728.93</single_rate>
+  </reaction>
+  <!--pa225 -> he4 + ac221-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa225</reactant>
+    <product>he4</product>
+    <product>ac221</product>
+    <single_rate>0.407734</single_rate>
+  </reaction>
+  <!--sg269 -> he4 + rf265-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sg269</reactant>
+    <product>he4</product>
+    <product>rf265</product>
+    <single_rate>0.00542369</single_rate>
+  </reaction>
+  <!--er153 -> he4 + dy149-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>er153</reactant>
+    <product>he4</product>
+    <product>dy149</product>
+    <single_rate>0.0099021</single_rate>
+  </reaction>
+  <!--rn209 -> he4 + po205-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn209</reactant>
+    <product>he4</product>
+    <product>po205</product>
+    <single_rate>6.84292e-05</single_rate>
+  </reaction>
+  <!--ra216 -> he4 + rn212-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra216</reactant>
+    <product>he4</product>
+    <product>rn212</product>
+    <single_rate>4.02993e+06</single_rate>
+  </reaction>
+  <!--fm247 -> he4 + cf243-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm247</reactant>
+    <product>he4</product>
+    <product>cf243</product>
+    <single_rate>0.0143101</single_rate>
+  </reaction>
+  <!--mt266 -> he4 + bh262-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>mt266</reactant>
+    <product>he4</product>
+    <product>bh262</product>
+    <single_rate>247.553</single_rate>
+  </reaction>
+  <!--ds279 -> he4 + hs275-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ds279</reactant>
+    <product>he4</product>
+    <product>hs275</product>
+    <single_rate>0.401127</single_rate>
+  </reaction>
+  <!--pt170 -> he4 + os166-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt170</reactant>
+    <product>he4</product>
+    <product>os166</product>
+    <single_rate>49.8667</single_rate>
+  </reaction>
+  <!--cm244 -> he4 + pu240-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cm244</reactant>
+    <product>he4</product>
+    <product>pu240</product>
+    <single_rate>1.2127e-09</single_rate>
+  </reaction>
+  <!--th216 -> he4 + ra212-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th216</reactant>
+    <product>he4</product>
+    <product>ra212</product>
+    <single_rate>26.6595</single_rate>
+  </reaction>
+  <!--mt268 -> he4 + bh264-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>mt268</reactant>
+    <product>he4</product>
+    <product>bh264</product>
+    <single_rate>33.007</single_rate>
+  </reaction>
+  <!--fr216 -> he4 + at212-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr216</reactant>
+    <product>he4</product>
+    <product>at212</product>
+    <single_rate>990210</single_rate>
+  </reaction>
+  <!--ac210 -> he4 + fr206-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac210</reactant>
+    <product>he4</product>
+    <product>fr206</product>
+    <single_rate>2.01496</single_rate>
+  </reaction>
+  <!--pa212 -> he4 + ac208-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa212</reactant>
+    <product>he4</product>
+    <product>ac208</product>
+    <single_rate>138.629</single_rate>
+  </reaction>
+  <!--np237 -> he4 + pa233-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>np237</reactant>
+    <product>he4</product>
+    <product>pa233</product>
+    <single_rate>1.02446e-14</single_rate>
+  </reaction>
+  <!--bk234 -> he4 + am230-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bk234</reactant>
+    <product>he4</product>
+    <product>am230</product>
+    <single_rate>0.0291851</single_rate>
+  </reaction>
+  <!--rn204 -> he4 + po200-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn204</reactant>
+    <product>he4</product>
+    <product>po200</product>
+    <single_rate>0.00674413</single_rate>
+  </reaction>
+  <!--fr218 -> he4 + at214-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr218</reactant>
+    <product>he4</product>
+    <product>at214</product>
+    <single_rate>630.134</single_rate>
+  </reaction>
+  <!--ra204 -> he4 + rn200-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra204</reactant>
+    <product>he4</product>
+    <product>rn200</product>
+    <single_rate>11.9508</single_rate>
+  </reaction>
+  <!--gd152 -> he4 + sm148-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>gd152</reactant>
+    <product>he4</product>
+    <product>sm148</product>
+    <single_rate>2.03375e-22</single_rate>
+  </reaction>
+  <!--at217 -> he4 + bi213-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at217</reactant>
+    <product>he4</product>
+    <product>bi213</product>
+    <single_rate>21.2607</single_rate>
+  </reaction>
+  <!--es252 -> he4 + bk248-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>es252</reactant>
+    <product>he4</product>
+    <product>bk248</product>
+    <single_rate>1.3266e-08</single_rate>
+  </reaction>
+  <!--hs264 -> he4 + sg260-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hs264</reactant>
+    <product>he4</product>
+    <product>sg260</product>
+    <single_rate>880.187</single_rate>
+  </reaction>
+  <!--xe109 -> he4 + te105-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>xe109</reactant>
+    <product>he4</product>
+    <product>te105</product>
+    <single_rate>53.319</single_rate>
+  </reaction>
+  <!--db257 -> he4 + lr253-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>db257</reactant>
+    <product>he4</product>
+    <product>lr253</product>
+    <single_rate>0.283286</single_rate>
+  </reaction>
+  <!--hg182 -> he4 + pt178-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg182</reactant>
+    <product>he4</product>
+    <product>pt178</product>
+    <single_rate>0.00879176</single_rate>
+  </reaction>
+  <!--po212 -> he4 + pb208-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po212</reactant>
+    <product>he4</product>
+    <product>pb208</product>
+    <single_rate>2.34965e+06</single_rate>
+  </reaction>
+  <!--po190 -> he4 + pb186-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po190</reactant>
+    <product>he4</product>
+    <product>pb186</product>
+    <single_rate>282.917</single_rate>
+  </reaction>
+  <!--cn286 -> he4 + ds282-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cn286</reactant>
+    <product>he4</product>
+    <product>ds282</product>
+    <single_rate>0.00105022</single_rate>
+  </reaction>
+  <!--w158 -> he4 + hf154-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>w158</reactant>
+    <product>he4</product>
+    <product>hf154</product>
+    <single_rate>495.105</single_rate>
+  </reaction>
+  <!--pb178 -> he4 + hg174-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pb178</reactant>
+    <product>he4</product>
+    <product>hg174</product>
+    <single_rate>3465.74</single_rate>
+  </reaction>
+  <!--u225 -> he4 + th221-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u225</reactant>
+    <product>he4</product>
+    <product>th221</product>
+    <single_rate>11.3631</single_rate>
+  </reaction>
+  <!--at214 -> he4 + bi210-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at214</reactant>
+    <product>he4</product>
+    <product>bi210</product>
+    <single_rate>1.2422e+06</single_rate>
+  </reaction>
+  <!--rn221 -> he4 + po217-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn221</reactant>
+    <product>he4</product>
+    <product>po217</product>
+    <single_rate>8.99024e-05</single_rate>
+  </reaction>
+  <!--fr214 -> he4 + at210-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr214</reactant>
+    <product>he4</product>
+    <product>at210</product>
+    <single_rate>126.027</single_rate>
+  </reaction>
+  <!--ac218 -> he4 + fr214-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac218</reactant>
+    <product>he4</product>
+    <product>fr214</product>
+    <single_rate>679556</single_rate>
+  </reaction>
+  <!--fm246 -> he4 + cf242-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm246</reactant>
+    <product>he4</product>
+    <product>cf242</product>
+    <single_rate>0.424043</single_rate>
+  </reaction>
+  <!--md244 -> he4 + es240-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>md244</reactant>
+    <product>he4</product>
+    <product>es240</product>
+    <single_rate>1.7773</single_rate>
+  </reaction>
+  <!--sg265 -> he4 + rf261-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sg265</reactant>
+    <product>he4</product>
+    <product>rf261</product>
+    <single_rate>0.0216608</single_rate>
+  </reaction>
+  <!--bi189 -> he4 + tl185-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bi189</reactant>
+    <product>he4</product>
+    <product>tl185</product>
+    <single_rate>1.01189</single_rate>
+  </reaction>
+  <!--lr251 -> he4 + md247-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lr251</reactant>
+    <product>he4</product>
+    <product>md247</product>
+    <single_rate>28.4077</single_rate>
+  </reaction>
+  <!--po193 -> he4 + pb189-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po193</reactant>
+    <product>he4</product>
+    <product>pb189</product>
+    <single_rate>1.70306</single_rate>
+  </reaction>
+  <!--rn214 -> he4 + po210-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn214</reactant>
+    <product>he4</product>
+    <product>po210</product>
+    <single_rate>2.67624e+06</single_rate>
+  </reaction>
+  <!--ra207 -> he4 + rn203-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra207</reactant>
+    <product>he4</product>
+    <product>rn203</product>
+    <single_rate>0.42579</single_rate>
+  </reaction>
+  <!--u221 -> he4 + th217-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u221</reactant>
+    <product>he4</product>
+    <product>th217</product>
+    <single_rate>1.05022e+06</single_rate>
+  </reaction>
+  <!--po189 -> he4 + pb185-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po189</reactant>
+    <product>he4</product>
+    <product>pb185</product>
+    <single_rate>198.042</single_rate>
+  </reaction>
+  <!--pb180 -> he4 + hg176-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pb180</reactant>
+    <product>he4</product>
+    <product>hg176</product>
+    <single_rate>169.06</single_rate>
+  </reaction>
+  <!--at192 -> he4 + bi188-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at192</reactant>
+    <product>he4</product>
+    <product>bi188</product>
+    <single_rate>7.87667</single_rate>
+  </reaction>
+  <!--th228 -> he4 + ra224-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th228</reactant>
+    <product>he4</product>
+    <product>ra224</product>
+    <single_rate>1.14901e-08</single_rate>
+  </reaction>
+  <!--xe108 -> he4 + te104-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>xe108</reactant>
+    <product>he4</product>
+    <product>te104</product>
+    <single_rate>11950.8</single_rate>
+  </reaction>
+  <!--hf159 -> he4 + yb155-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hf159</reactant>
+    <product>he4</product>
+    <product>yb155</product>
+    <single_rate>0.0159957</single_rate>
+  </reaction>
+  <!--ho151 -> he4 + tb147-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ho151</reactant>
+    <product>he4</product>
+    <product>tb147</product>
+    <single_rate>0.00433217</single_rate>
+  </reaction>
+  <!--at199 -> he4 + bi195-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at199</reactant>
+    <product>he4</product>
+    <product>bi195</product>
+    <single_rate>0.0914914</single_rate>
+  </reaction>
+  <!--pu238 -> he4 + u234-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pu238</reactant>
+    <product>he4</product>
+    <product>u234</product>
+    <single_rate>2.5045e-10</single_rate>
+  </reaction>
+  <!--cf245 -> he4 + cm241-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf245</reactant>
+    <product>he4</product>
+    <product>cm241</product>
+    <single_rate>9.06226e-05</single_rate>
+  </reaction>
+  <!--po187 -> he4 + pb183-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po187</reactant>
+    <product>he4</product>
+    <product>pb183</product>
+    <single_rate>495.105</single_rate>
+  </reaction>
+  <!--bh266 -> he4 + db262-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh266</reactant>
+    <product>he4</product>
+    <product>db262</product>
+    <single_rate>0.0693147</single_rate>
+  </reaction>
+  <!--po215 -> he4 + pb211-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po215</reactant>
+    <product>he4</product>
+    <product>pb211</product>
+    <single_rate>389.189</single_rate>
+  </reaction>
+  <!--no257 -> he4 + fm253-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>no257</reactant>
+    <product>he4</product>
+    <product>fm253</product>
+    <single_rate>0.024048</single_rate>
+  </reaction>
+  <!--th230 -> he4 + ra226-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th230</reactant>
+    <product>he4</product>
+    <product>ra226</product>
+    <single_rate>2.91306e-13</single_rate>
+  </reaction>
+  <!--lr254 -> he4 + md250-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lr254</reactant>
+    <product>he4</product>
+    <product>md250</product>
+    <single_rate>0.0417636</single_rate>
+  </reaction>
+  <!--ra222 -> he4 + rn218-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra222</reactant>
+    <product>he4</product>
+    <product>rn218</product>
+    <single_rate>0.0206294</single_rate>
+  </reaction>
+  <!--hg175 -> he4 + pt171-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg175</reactant>
+    <product>he4</product>
+    <product>pt171</product>
+    <single_rate>67.9556</single_rate>
+  </reaction>
+  <!--at196 -> he4 + bi192-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at196</reactant>
+    <product>he4</product>
+    <product>bi192</product>
+    <single_rate>1.79262</single_rate>
+  </reaction>
+  <!--ra202 -> he4 + rn198-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra202</reactant>
+    <product>he4</product>
+    <product>rn198</product>
+    <single_rate>182.407</single_rate>
+  </reaction>
+  <!--th209 -> he4 + ra205-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th209</reactant>
+    <product>he4</product>
+    <product>ra205</product>
+    <single_rate>277.259</single_rate>
+  </reaction>
+  <!--u234 -> he4 + th230-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u234</reactant>
+    <product>he4</product>
+    <product>th230</product>
+    <single_rate>8.94685e-14</single_rate>
+  </reaction>
+  <!--ds271 -> he4 + hs267-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ds271</reactant>
+    <product>he4</product>
+    <product>hs267</product>
+    <single_rate>433.217</single_rate>
+  </reaction>
+  <!--re165 -> he4 + ta161-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>re165</reactant>
+    <product>he4</product>
+    <product>ta161</product>
+    <single_rate>0.0606504</single_rate>
+  </reaction>
+  <!--po195 -> he4 + pb191-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po195</reactant>
+    <product>he4</product>
+    <product>pb191</product>
+    <single_rate>0.140422</single_rate>
+  </reaction>
+  <!--th215 -> he4 + ra211-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th215</reactant>
+    <product>he4</product>
+    <product>ra211</product>
+    <single_rate>0.495105</single_rate>
+  </reaction>
+  <!--th210 -> he4 + ra206-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th210</reactant>
+    <product>he4</product>
+    <product>ra206</product>
+    <single_rate>44.1495</single_rate>
+  </reaction>
+  <!--rn212 -> he4 + po208-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn212</reactant>
+    <product>he4</product>
+    <product>po208</product>
+    <single_rate>0.000483366</single_rate>
+  </reaction>
+  <!--no251 -> he4 + fm247-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>no251</reactant>
+    <product>he4</product>
+    <product>fm247</product>
+    <single_rate>0.779791</single_rate>
+  </reaction>
+  <!--xe110 -> he4 + te106-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>xe110</reactant>
+    <product>he4</product>
+    <product>te106</product>
+    <single_rate>4.77005</single_rate>
+  </reaction>
+  <!--mt275 -> he4 + bh271-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>mt275</reactant>
+    <product>he4</product>
+    <product>bh271</product>
+    <single_rate>34.6574</single_rate>
+  </reaction>
+  <!--hg178 -> he4 + pt174-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg178</reactant>
+    <product>he4</product>
+    <product>pt174</product>
+    <single_rate>2.31918</single_rate>
+  </reaction>
+  <!--rn220 -> he4 + po216-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn220</reactant>
+    <product>he4</product>
+    <product>po216</product>
+    <single_rate>0.0124667</single_rate>
+  </reaction>
+  <!--am223 -> he4 + np219-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>am223</reactant>
+    <product>he4</product>
+    <product>np219</product>
+    <single_rate>133.298</single_rate>
+  </reaction>
+  <!--sg261 -> he4 + rf257-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sg261</reactant>
+    <product>he4</product>
+    <product>rf257</product>
+    <single_rate>3.71572</single_rate>
+  </reaction>
+  <!--rn213 -> he4 + po209-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn213</reactant>
+    <product>he4</product>
+    <product>po209</product>
+    <single_rate>35.7661</single_rate>
+  </reaction>
+  <!--lr255 -> he4 + md251-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lr255</reactant>
+    <product>he4</product>
+    <product>md251</product>
+    <single_rate>0.0222208</single_rate>
+  </reaction>
+  <!--pt175 -> he4 + os171-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt175</reactant>
+    <product>he4</product>
+    <product>os171</product>
+    <single_rate>0.182557</single_rate>
+  </reaction>
+  <!--mc289 -> he4 + nh285-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>mc289</reactant>
+    <product>he4</product>
+    <product>nh285</product>
+    <single_rate>2.50234</single_rate>
+  </reaction>
+  <!--au173 -> he4 + ir169-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>au173</reactant>
+    <product>he4</product>
+    <product>ir169</product>
+    <single_rate>24.7741</single_rate>
+  </reaction>
+  <!--au177 -> he4 + ir173-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>au177</reactant>
+    <product>he4</product>
+    <product>ir173</product>
+    <single_rate>0.257427</single_rate>
+  </reaction>
+  <!--gd150 -> he4 + sm146-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>gd150</reactant>
+    <product>he4</product>
+    <product>sm146</product>
+    <single_rate>1.22927e-14</single_rate>
+  </reaction>
+  <!--np229 -> he4 + pa225-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>np229</reactant>
+    <product>he4</product>
+    <product>pa225</product>
+    <single_rate>0.00196392</single_rate>
+  </reaction>
+  <!--w161 -> he4 + hf157-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>w161</reactant>
+    <product>he4</product>
+    <product>hf157</product>
+    <single_rate>1.23716</single_rate>
+  </reaction>
+  <!--ra212 -> he4 + rn208-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra212</reactant>
+    <product>he4</product>
+    <product>rn208</product>
+    <single_rate>0.053319</single_rate>
+  </reaction>
+  <!--ra201 -> he4 + rn197-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra201</reactant>
+    <product>he4</product>
+    <product>rn197</product>
+    <single_rate>86.6434</single_rate>
+  </reaction>
+  <!--re166 -> he4 + ta162-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>re166</reactant>
+    <product>he4</product>
+    <product>ta162</product>
+    <single_rate>0.0739357</single_rate>
+  </reaction>
+  <!--pb184 -> he4 + hg180-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pb184</reactant>
+    <product>he4</product>
+    <product>hg180</product>
+    <single_rate>1.13167</single_rate>
+  </reaction>
+  <!--ra213 -> he4 + rn209-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra213</reactant>
+    <product>he4</product>
+    <product>rn209</product>
+    <single_rate>0.00363923</single_rate>
+  </reaction>
+  <!--rf255 -> he4 + no251-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rf255</reactant>
+    <product>he4</product>
+    <product>no251</product>
+    <single_rate>0.203379</single_rate>
+  </reaction>
+  <!--nh283 -> he4 + rg279-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>nh283</reactant>
+    <product>he4</product>
+    <product>rg279</product>
+    <single_rate>9.9021</single_rate>
+  </reaction>
+  <!--pa213 -> he4 + ac209-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa213</reactant>
+    <product>he4</product>
+    <product>ac209</product>
+    <single_rate>130.782</single_rate>
+  </reaction>
+  <!--lv293 -> he4 + fl289-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lv293</reactant>
+    <product>he4</product>
+    <product>fl289</product>
+    <single_rate>7.29629</single_rate>
+  </reaction>
+  <!--at193 -> he4 + bi189-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at193</reactant>
+    <product>he4</product>
+    <product>bi189</product>
+    <single_rate>24.7553</single_rate>
+  </reaction>
+  <!--fm249 -> he4 + cf245-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm249</reactant>
+    <product>he4</product>
+    <product>cf245</product>
+    <single_rate>0.00112636</single_rate>
+  </reaction>
+  <!--re163 -> he4 + ta159-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>re163</reactant>
+    <product>he4</product>
+    <product>ta159</product>
+    <single_rate>0.568736</single_rate>
+  </reaction>
+  <!--fm257 -> he4 + cf253-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm257</reactant>
+    <product>he4</product>
+    <product>cf253</product>
+    <single_rate>7.96586e-08</single_rate>
+  </reaction>
+  <!--db256 -> he4 + lr252-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>db256</reactant>
+    <product>he4</product>
+    <product>lr252</product>
+    <single_rate>0.25537</single_rate>
+  </reaction>
+  <!--at218 -> he4 + bi214-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at218</reactant>
+    <product>he4</product>
+    <product>bi214</product>
+    <single_rate>0.54125</single_rate>
+  </reaction>
+  <!--tm154 -> he4 + ho150-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>tm154</reactant>
+    <product>he4</product>
+    <product>ho150</product>
+    <single_rate>0.0462098</single_rate>
+  </reaction>
+  <!--ra226 -> he4 + rn222-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra226</reactant>
+    <product>he4</product>
+    <product>rn222</product>
+    <single_rate>1.37278e-11</single_rate>
+  </reaction>
+  <!--w162 -> he4 + hf158-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>w162</reactant>
+    <product>he4</product>
+    <product>hf158</product>
+    <single_rate>0.322068</single_rate>
+  </reaction>
+  <!--fr215 -> he4 + at211-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr215</reactant>
+    <product>he4</product>
+    <product>at211</product>
+    <single_rate>7.78817e+06</single_rate>
+  </reaction>
+  <!--np226 -> he4 + pa222-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>np226</reactant>
+    <product>he4</product>
+    <product>pa222</product>
+    <single_rate>18.7337</single_rate>
+  </reaction>
+  <!--u229 -> he4 + th225-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u229</reactant>
+    <product>he4</product>
+    <product>th225</product>
+    <single_rate>3.99739e-05</single_rate>
+  </reaction>
+  <!--ra209 -> he4 + rn205-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra209</reactant>
+    <product>he4</product>
+    <product>rn205</product>
+    <single_rate>0.144406</single_rate>
+  </reaction>
+  <!--rn195 -> he4 + po191-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn195</reactant>
+    <product>he4</product>
+    <product>po191</product>
+    <single_rate>115.525</single_rate>
+  </reaction>
+  <!--hs267 -> he4 + sg263-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hs267</reactant>
+    <product>he4</product>
+    <product>sg263</product>
+    <single_rate>13.0782</single_rate>
+  </reaction>
+  <!--cf246 -> he4 + cm242-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf246</reactant>
+    <product>he4</product>
+    <product>cm242</product>
+    <single_rate>5.39301e-06</single_rate>
+  </reaction>
+  <!--fl289 -> he4 + cn285-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fl289</reactant>
+    <product>he4</product>
+    <product>cn285</product>
+    <single_rate>0.288811</single_rate>
+  </reaction>
+  <!--no255 -> he4 + fm251-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>no255</reactant>
+    <product>he4</product>
+    <product>fm251</product>
+    <single_rate>0.000984584</single_rate>
+  </reaction>
+  <!--sg260 -> he4 + rf256-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sg260</reactant>
+    <product>he4</product>
+    <product>rf256</product>
+    <single_rate>101.891</single_rate>
+  </reaction>
+  <!--pb182 -> he4 + hg178-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pb182</reactant>
+    <product>he4</product>
+    <product>hg178</product>
+    <single_rate>12.6027</single_rate>
+  </reaction>
+  <!--te105 -> he4 + sn101-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>te105</reactant>
+    <product>he4</product>
+    <product>sn101</product>
+    <single_rate>1.10023e+06</single_rate>
+  </reaction>
+  <!--po217 -> he4 + pb213-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po217</reactant>
+    <product>he4</product>
+    <product>pb213</product>
+    <single_rate>0.441711</single_rate>
+  </reaction>
+  <!--po192 -> he4 + pb188-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po192</reactant>
+    <product>he4</product>
+    <product>pb188</product>
+    <single_rate>21.5263</single_rate>
+  </reaction>
+  <!--fr219 -> he4 + at215-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr219</reactant>
+    <product>he4</product>
+    <product>at215</product>
+    <single_rate>31.5067</single_rate>
+  </reaction>
+  <!--no259 -> he4 + fm255-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>no259</reactant>
+    <product>he4</product>
+    <product>fm255</product>
+    <single_rate>0.000149385</single_rate>
+  </reaction>
+  <!--ts293 -> he4 + mc289-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ts293</reactant>
+    <product>he4</product>
+    <product>mc289</product>
+    <single_rate>33.007</single_rate>
+  </reaction>
+  <!--ir166 -> he4 + re162-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ir166</reactant>
+    <product>he4</product>
+    <product>re162</product>
+    <single_rate>55.0963</single_rate>
+  </reaction>
+  <!--lr253 -> he4 + md249-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lr253</reactant>
+    <product>he4</product>
+    <product>md249</product>
+    <single_rate>1.05572</single_rate>
+  </reaction>
+  <!--fl284 -> he4 + cn280-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fl284</reactant>
+    <product>he4</product>
+    <product>cn280</product>
+    <single_rate>69.3147</single_rate>
+  </reaction>
+  <!--np220 -> he4 + pa216-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>np220</reactant>
+    <product>he4</product>
+    <product>pa216</product>
+    <single_rate>27725.9</single_rate>
+  </reaction>
+  <!--os161 -> he4 + w157-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>os161</reactant>
+    <product>he4</product>
+    <product>w157</product>
+    <single_rate>1083.04</single_rate>
+  </reaction>
+  <!--at191 -> he4 + bi187-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at191</reactant>
+    <product>he4</product>
+    <product>bi187</product>
+    <single_rate>407.734</single_rate>
+  </reaction>
+  <!--hf158 -> he4 + yb154-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hf158</reactant>
+    <product>he4</product>
+    <product>yb154</product>
+    <single_rate>0.105884</single_rate>
+  </reaction>
+  <!--rn215 -> he4 + po211-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn215</reactant>
+    <product>he4</product>
+    <product>po211</product>
+    <single_rate>301368</single_rate>
+  </reaction>
+  <!--fr197 -> he4 + at193-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr197</reactant>
+    <product>he4</product>
+    <product>at193</product>
+    <single_rate>1155.25</single_rate>
+  </reaction>
+  <!--os166 -> he4 + w162-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>os166</reactant>
+    <product>he4</product>
+    <product>w162</product>
+    <single_rate>2.71374</single_rate>
+  </reaction>
+  <!--ra215 -> he4 + rn211-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra215</reactant>
+    <product>he4</product>
+    <product>rn211</product>
+    <single_rate>412.588</single_rate>
+  </reaction>
+  <!--u235 -> he4 + th231-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u235</reactant>
+    <product>he4</product>
+    <product>th231</product>
+    <single_rate>3.12007e-17</single_rate>
+  </reaction>
+  <!--u238 -> he4 + th234-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u238</reactant>
+    <product>he4</product>
+    <product>th234</product>
+    <single_rate>4.92121e-18</single_rate>
+  </reaction>
+  <!--cm246 -> he4 + pu242-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cm246</reactant>
+    <product>he4</product>
+    <product>pu242</product>
+    <single_rate>4.6161e-12</single_rate>
+  </reaction>
+  <!--au178 -> he4 + ir174-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>au178</reactant>
+    <product>he4</product>
+    <product>ir174</product>
+    <single_rate>0.0326187</single_rate>
+  </reaction>
+  <!--hg179 -> he4 + pt175-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg179</reactant>
+    <product>he4</product>
+    <product>pt175</product>
+    <single_rate>0.495105</single_rate>
+  </reaction>
+  <!--po197 -> he4 + pb193-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po197</reactant>
+    <product>he4</product>
+    <product>pb193</product>
+    <single_rate>0.00564787</single_rate>
+  </reaction>
+  <!--cm234 -> he4 + pu230-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cm234</reactant>
+    <product>he4</product>
+    <product>pu230</product>
+    <single_rate>0.00374299</single_rate>
+  </reaction>
+  <!--ac219 -> he4 + fr215-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac219</reactant>
+    <product>he4</product>
+    <product>fr215</product>
+    <single_rate>72962.9</single_rate>
+  </reaction>
+  <!--cn285 -> he4 + ds281-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cn285</reactant>
+    <product>he4</product>
+    <product>ds281</product>
+    <single_rate>0.0210045</single_rate>
+  </reaction>
+  <!--pu230 -> he4 + u226-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pu230</reactant>
+    <product>he4</product>
+    <product>u226</product>
+    <single_rate>0.00647801</single_rate>
+  </reaction>
+  <!--cm236 -> he4 + pu232-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cm236</reactant>
+    <product>he4</product>
+    <product>pu232</product>
+    <single_rate>0.0003058</single_rate>
+  </reaction>
+  <!--fm252 -> he4 + cf248-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm252</reactant>
+    <product>he4</product>
+    <product>cf248</product>
+    <single_rate>7.58615e-06</single_rate>
+  </reaction>
+  <!--ir171 -> he4 + re167-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ir171</reactant>
+    <product>he4</product>
+    <product>re167</product>
+    <single_rate>0.0324913</single_rate>
+  </reaction>
+  <!--rn208 -> he4 + po204-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn208</reactant>
+    <product>he4</product>
+    <product>po204</product>
+    <single_rate>0.000294997</single_rate>
+  </reaction>
+  <!--rn194 -> he4 + po190-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn194</reactant>
+    <product>he4</product>
+    <product>po190</product>
+    <single_rate>888.65</single_rate>
+  </reaction>
+  <!--po210 -> he4 + pb206-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po210</reactant>
+    <product>he4</product>
+    <product>pb206</product>
+    <single_rate>5.79755e-08</single_rate>
+  </reaction>
+  <!--fr217 -> he4 + at213-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr217</reactant>
+    <product>he4</product>
+    <product>at213</product>
+    <single_rate>31506.7</single_rate>
+  </reaction>
+  <!--ra224 -> he4 + rn220-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra224</reactant>
+    <product>he4</product>
+    <product>rn220</product>
+    <single_rate>2.20927e-06</single_rate>
+  </reaction>
+  <!--bh272 -> he4 + db268-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh272</reactant>
+    <product>he4</product>
+    <product>db268</product>
+    <single_rate>0.0737391</single_rate>
+  </reaction>
+  <!--bi192 -> he4 + tl188-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bi192</reactant>
+    <product>he4</product>
+    <product>tl188</product>
+    <single_rate>0.00240398</single_rate>
+  </reaction>
+  <!--og294 -> he4 + lv290-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>og294</reactant>
+    <product>he4</product>
+    <product>lv290</product>
+    <single_rate>1195.08</single_rate>
+  </reaction>
+  <!--er152 -> he4 + dy148-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>er152</reactant>
+    <product>he4</product>
+    <product>dy148</product>
+    <single_rate>0.06116</single_rate>
+  </reaction>
+  <!--ac225 -> he4 + fr221-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac225</reactant>
+    <product>he4</product>
+    <product>fr221</product>
+    <single_rate>8.08805e-07</single_rate>
+  </reaction>
+  <!--pu231 -> he4 + u227-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pu231</reactant>
+    <product>he4</product>
+    <product>u227</product>
+    <single_rate>0.000134331</single_rate>
+  </reaction>
+  <!--mc288 -> he4 + nh284-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>mc288</reactant>
+    <product>he4</product>
+    <product>nh284</product>
+    <single_rate>3.48315</single_rate>
+  </reaction>
+  <!--pt169 -> he4 + os165-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt169</reactant>
+    <product>he4</product>
+    <product>os165</product>
+    <single_rate>99.1627</single_rate>
+  </reaction>
+  <!--at213 -> he4 + bi209-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at213</reactant>
+    <product>he4</product>
+    <product>bi209</product>
+    <single_rate>5.5899e+06</single_rate>
+  </reaction>
+  <!--pa211 -> he4 + ac207-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa211</reactant>
+    <product>he4</product>
+    <product>ac207</product>
+    <single_rate>182.407</single_rate>
+  </reaction>
+  <!--u236 -> he4 + th232-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u236</reactant>
+    <product>he4</product>
+    <product>th232</product>
+    <single_rate>9.37452e-16</single_rate>
+  </reaction>
+  <!--sg259 -> he4 + rf255-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sg259</reactant>
+    <product>he4</product>
+    <product>rf255</product>
+    <single_rate>1.68088</single_rate>
+  </reaction>
+  <!--u233 -> he4 + th229-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u233</reactant>
+    <product>he4</product>
+    <product>th229</product>
+    <single_rate>1.37978e-13</single_rate>
+  </reaction>
+  <!--ir167 -> he4 + re163-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ir167</reactant>
+    <product>he4</product>
+    <product>re163</product>
+    <single_rate>10.1662</single_rate>
+  </reaction>
+  <!--fl288 -> he4 + cn284-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fl288</reactant>
+    <product>he4</product>
+    <product>cn284</product>
+    <single_rate>1.08304</single_rate>
+  </reaction>
+  <!--nh278 -> he4 + rg274-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>nh278</reactant>
+    <product>he4</product>
+    <product>rg274</product>
+    <single_rate>0.495105</single_rate>
+  </reaction>
+  <!--rg272 -> he4 + mt268-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rg272</reactant>
+    <product>he4</product>
+    <product>mt268</product>
+    <single_rate>182.407</single_rate>
+  </reaction>
+  <!--rn203 -> he4 + po199-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn203</reactant>
+    <product>he4</product>
+    <product>po199</product>
+    <single_rate>0.0103972</single_rate>
+  </reaction>
+  <!--rf253 -> he4 + no249-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rf253</reactant>
+    <product>he4</product>
+    <product>no249</product>
+    <single_rate>8.74846</single_rate>
+  </reaction>
+  <!--eu151 -> he4 + pm147-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>eu151</reactant>
+    <product>he4</product>
+    <product>pm147</product>
+    <single_rate>4.77489e-27</single_rate>
+  </reaction>
+  <!--po219 -> he4 + pb215-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po219</reactant>
+    <product>he4</product>
+    <product>pb215</product>
+    <single_rate>0.000315372</single_rate>
+  </reaction>
+  <!--lu155 -> he4 + tm151-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lu155</reactant>
+    <product>he4</product>
+    <product>tm151</product>
+    <single_rate>9.10402</single_rate>
+  </reaction>
+  <!--fm254 -> he4 + cf250-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm254</reactant>
+    <product>he4</product>
+    <product>cf250</product>
+    <single_rate>5.9391e-05</single_rate>
+  </reaction>
+  <!--lr257 -> he4 + md253-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lr257</reactant>
+    <product>he4</product>
+    <product>md253</product>
+    <single_rate>0.117483</single_rate>
+  </reaction>
+  <!--ir168 -> he4 + re164-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ir168</reactant>
+    <product>he4</product>
+    <product>re164</product>
+    <single_rate>3.12228</single_rate>
+  </reaction>
+  <!--rn205 -> he4 + po201-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn205</reactant>
+    <product>he4</product>
+    <product>po201</product>
+    <single_rate>0.00101933</single_rate>
+  </reaction>
+  <!--pu228 -> he4 + u224-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pu228</reactant>
+    <product>he4</product>
+    <product>u224</product>
+    <single_rate>0.630134</single_rate>
+  </reaction>
+  <!--ds282 -> he4 + hs278-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ds282</reactant>
+    <product>he4</product>
+    <product>hs278</product>
+    <single_rate>0.0105022</single_rate>
+  </reaction>
+  <!--u222 -> he4 + th218-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u222</reactant>
+    <product>he4</product>
+    <product>th218</product>
+    <single_rate>147478</single_rate>
+  </reaction>
+  <!--fm243 -> he4 + cf239-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm243</reactant>
+    <product>he4</product>
+    <product>cf239</product>
+    <single_rate>2.73058</single_rate>
+  </reaction>
+  <!--ac221 -> he4 + fr217-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac221</reactant>
+    <product>he4</product>
+    <product>fr217</product>
+    <single_rate>13.3298</single_rate>
+  </reaction>
+  <!--bk247 -> he4 + am243-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bk247</reactant>
+    <product>he4</product>
+    <product>am243</product>
+    <single_rate>1.59163e-11</single_rate>
+  </reaction>
+  <!--at201 -> he4 + bi197-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at201</reactant>
+    <product>he4</product>
+    <product>bi197</product>
+    <single_rate>0.00578982</single_rate>
+  </reaction>
+  <!--pa217 -> he4 + ac213-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa217</reactant>
+    <product>he4</product>
+    <product>ac213</product>
+    <single_rate>187.337</single_rate>
+  </reaction>
+  <!--u232 -> he4 + th228-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u232</reactant>
+    <product>he4</product>
+    <product>th228</product>
+    <single_rate>3.18788e-10</single_rate>
+  </reaction>
+  <!--db262 -> he4 + lr258-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>db262</reactant>
+    <product>he4</product>
+    <product>lr258</product>
+    <single_rate>0.00926883</single_rate>
+  </reaction>
+  <!--sm146 -> he4 + nd142-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sm146</reactant>
+    <product>he4</product>
+    <product>nd142</product>
+    <single_rate>3.23007e-16</single_rate>
+  </reaction>
+  <!--hf156 -> he4 + yb152-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hf156</reactant>
+    <product>he4</product>
+    <product>yb152</product>
+    <single_rate>30.1368</single_rate>
+  </reaction>
+  <!--w159 -> he4 + hf155-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>w159</reactant>
+    <product>he4</product>
+    <product>hf155</product>
+    <single_rate>81.5467</single_rate>
+  </reaction>
+  <!--os168 -> he4 + w164-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>os168</reactant>
+    <product>he4</product>
+    <product>w164</product>
+    <single_rate>0.148532</single_rate>
+  </reaction>
+  <!--tl178 -> he4 + au174-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>tl178</reactant>
+    <product>he4</product>
+    <product>au174</product>
+    <single_rate>1.69193</single_rate>
+  </reaction>
+  <!--np225 -> he4 + pa221-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>np225</reactant>
+    <product>he4</product>
+    <product>pa221</product>
+    <single_rate>187.337</single_rate>
+  </reaction>
+  <!--md258 -> he4 + es254-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>md258</reactant>
+    <product>he4</product>
+    <product>es254</product>
+    <single_rate>1.55717e-07</single_rate>
+  </reaction>
+  <!--ta158 -> he4 + lu154-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ta158</reactant>
+    <product>he4</product>
+    <product>lu154</product>
+    <single_rate>14.1459</single_rate>
+  </reaction>
+  <!--yb154 -> he4 + er150-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>yb154</reactant>
+    <product>he4</product>
+    <product>er150</product>
+    <single_rate>1.56933</single_rate>
+  </reaction>
+  <!--lr258 -> he4 + md254-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lr258</reactant>
+    <product>he4</product>
+    <product>md254</product>
+    <single_rate>0.174903</single_rate>
+  </reaction>
+  <!--hs275 -> he4 + sg271-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hs275</reactant>
+    <product>he4</product>
+    <product>sg271</product>
+    <single_rate>3.46574</single_rate>
+  </reaction>
+  <!--po196 -> he4 + pb192-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po196</reactant>
+    <product>he4</product>
+    <product>pb192</product>
+    <single_rate>0.11573</single_rate>
+  </reaction>
+  <!--po200 -> he4 + pb196-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po200</reactant>
+    <product>he4</product>
+    <product>pb196</product>
+    <single_rate>0.000113515</single_rate>
+  </reaction>
+  <!--ac206 -> he4 + fr202-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac206</reactant>
+    <product>he4</product>
+    <product>fr202</product>
+    <single_rate>25.6721</single_rate>
+  </reaction>
+  <!--th225 -> he4 + ra221-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th225</reactant>
+    <product>he4</product>
+    <product>ra221</product>
+    <single_rate>0.00119234</single_rate>
+  </reaction>
+  <!--bi209 -> he4 + tl205-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bi209</reactant>
+    <product>he4</product>
+    <product>tl205</product>
+    <single_rate>1.09276e-27</single_rate>
+  </reaction>
+  <!--at219 -> he4 + bi215-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at219</reactant>
+    <product>he4</product>
+    <product>bi215</product>
+    <single_rate>0.0115855</single_rate>
+  </reaction>
+  <!--sg258 -> he4 + rf254-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sg258</reactant>
+    <product>he4</product>
+    <product>rf254</product>
+    <single_rate>51.3442</single_rate>
+  </reaction>
+  <!--w180 -> he4 + hf176-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>w180</reactant>
+    <product>he4</product>
+    <product>hf176</product>
+    <single_rate>1.38142e-26</single_rate>
+  </reaction>
+  <!--lr256 -> he4 + md252-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lr256</reactant>
+    <product>he4</product>
+    <product>md252</product>
+    <single_rate>0.0211174</single_rate>
+  </reaction>
+  <!--hf174 -> he4 + yb170-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hf174</reactant>
+    <product>he4</product>
+    <product>yb170</product>
+    <single_rate>3.13779e-25</single_rate>
+  </reaction>
+  <!--rn210 -> he4 + po206-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn210</reactant>
+    <product>he4</product>
+    <product>po206</product>
+    <single_rate>7.63799e-05</single_rate>
+  </reaction>
+  <!--u224 -> he4 + th220-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u224</reactant>
+    <product>he4</product>
+    <product>th220</product>
+    <single_rate>1750.37</single_rate>
+  </reaction>
+  <!--cm247 -> he4 + pu243-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cm247</reactant>
+    <product>he4</product>
+    <product>pu243</product>
+    <single_rate>1.40798e-15</single_rate>
+  </reaction>
+  <!--at200 -> he4 + bi196-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at200</reactant>
+    <product>he4</product>
+    <product>bi196</product>
+    <single_rate>0.00854344</single_rate>
+  </reaction>
+  <!--at197 -> he4 + bi193-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at197</reactant>
+    <product>he4</product>
+    <product>bi193</product>
+    <single_rate>1.71679</single_rate>
+  </reaction>
+  <!--nh290 -> he4 + rg286-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>nh290</reactant>
+    <product>he4</product>
+    <product>rg286</product>
+    <single_rate>0.346574</single_rate>
+  </reaction>
+  <!--pu236 -> he4 + u232-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pu236</reactant>
+    <product>he4</product>
+    <product>u232</product>
+    <single_rate>7.68527e-09</single_rate>
+  </reaction>
+  <!--rg281 -> he4 + mt277-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rg281</reactant>
+    <product>he4</product>
+    <product>mt277</product>
+    <single_rate>0.00756161</single_rate>
+  </reaction>
+  <!--nh285 -> he4 + rg281-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>nh285</reactant>
+    <product>he4</product>
+    <product>rg281</product>
+    <single_rate>0.33007</single_rate>
+  </reaction>
+  <!--bi190 -> he4 + tl186-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bi190</reactant>
+    <product>he4</product>
+    <product>tl186</product>
+    <single_rate>0.099021</single_rate>
+  </reaction>
+  <!--at211 -> he4 + bi207-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at211</reactant>
+    <product>he4</product>
+    <product>bi207</product>
+    <single_rate>1.11479e-05</single_rate>
+  </reaction>
+  <!--th213 -> he4 + ra209-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th213</reactant>
+    <product>he4</product>
+    <product>ra209</product>
+    <single_rate>4.74758</single_rate>
+  </reaction>
+  <!--cf252 -> he4 + cm248-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf252</reactant>
+    <product>he4</product>
+    <product>cm248</product>
+    <single_rate>8.04049e-09</single_rate>
+  </reaction>
+  <!--ra220 -> he4 + rn216-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra220</reactant>
+    <product>he4</product>
+    <product>rn216</product>
+    <single_rate>38.5082</single_rate>
+  </reaction>
+  <!--cf242 -> he4 + cm238-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf242</reactant>
+    <product>he4</product>
+    <product>cm238</product>
+    <single_rate>0.0020192</single_rate>
+  </reaction>
+  <!--cf250 -> he4 + cm246-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf250</reactant>
+    <product>he4</product>
+    <product>cm246</product>
+    <single_rate>1.67795e-09</single_rate>
+  </reaction>
+  <!--hs266 -> he4 + sg262-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hs266</reactant>
+    <product>he4</product>
+    <product>sg262</product>
+    <single_rate>177.371</single_rate>
+  </reaction>
+  <!--rg274 -> he4 + mt270-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rg274</reactant>
+    <product>he4</product>
+    <product>mt270</product>
+    <single_rate>57.7623</single_rate>
+  </reaction>
+  <!--te106 -> he4 + sn102-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>te106</reactant>
+    <product>he4</product>
+    <product>sn102</product>
+    <single_rate>10045.6</single_rate>
+  </reaction>
+  <!--rn199 -> he4 + po195-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn199</reactant>
+    <product>he4</product>
+    <product>po195</product>
+    <single_rate>1.15525</single_rate>
+  </reaction>
+  <!--cf239 -> he4 + cm235-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf239</reactant>
+    <product>he4</product>
+    <product>cm235</product>
+    <single_rate>0.0160909</single_rate>
+  </reaction>
+  <!--hg174 -> he4 + pt170-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg174</reactant>
+    <product>he4</product>
+    <product>pt170</product>
+    <single_rate>364.814</single_rate>
+  </reaction>
+  <!--th212 -> he4 + ra208-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th212</reactant>
+    <product>he4</product>
+    <product>ra208</product>
+    <single_rate>21.8658</single_rate>
+  </reaction>
+  <!--ds270 -> he4 + hs266-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ds270</reactant>
+    <product>he4</product>
+    <product>hs266</product>
+    <single_rate>3648.14</single_rate>
+  </reaction>
+  <!--u223 -> he4 + th219-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u223</reactant>
+    <product>he4</product>
+    <product>th219</product>
+    <single_rate>11179.8</single_rate>
+  </reaction>
+  <!--u217 -> he4 + th213-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u217</reactant>
+    <product>he4</product>
+    <product>th213</product>
+    <single_rate>43.3217</single_rate>
+  </reaction>
+  <!--es242 -> he4 + bk238-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>es242</reactant>
+    <product>he4</product>
+    <product>bk238</product>
+    <single_rate>0.0221963</single_rate>
+  </reaction>
+  <!--ts294 -> he4 + mc290-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ts294</reactant>
+    <product>he4</product>
+    <product>mc290</product>
+    <single_rate>13.5911</single_rate>
+  </reaction>
+  <!--md247 -> he4 + es243-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>md247</reactant>
+    <product>he4</product>
+    <product>es243</product>
+    <single_rate>0.572655</single_rate>
+  </reaction>
+  <!--rf257 -> he4 + no253-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rf257</reactant>
+    <product>he4</product>
+    <product>no253</product>
+    <single_rate>0.137551</single_rate>
+  </reaction>
+  <!--lv292 -> he4 + fl288-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lv292</reactant>
+    <product>he4</product>
+    <product>fl288</product>
+    <single_rate>54.1521</single_rate>
+  </reaction>
+  <!--hg173 -> he4 + pt169-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg173</reactant>
+    <product>he4</product>
+    <product>pt169</product>
+    <single_rate>866.434</single_rate>
+  </reaction>
+  <!--rn211 -> he4 + po207-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn211</reactant>
+    <product>he4</product>
+    <product>po207</product>
+    <single_rate>3.58886e-06</single_rate>
+  </reaction>
+  <!--pt171 -> he4 + os167-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt171</reactant>
+    <product>he4</product>
+    <product>os167</product>
+    <single_rate>13.5616</single_rate>
+  </reaction>
+  <!--no254 -> he4 + fm250-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>no254</reactant>
+    <product>he4</product>
+    <product>fm250</product>
+    <single_rate>0.0121842</single_rate>
+  </reaction>
+  <!--os169 -> he4 + w165-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>os169</reactant>
+    <product>he4</product>
+    <product>w165</product>
+    <single_rate>0.0279298</single_rate>
+  </reaction>
+  <!--nh284 -> he4 + rg280-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>nh284</reactant>
+    <product>he4</product>
+    <product>rg280</product>
+    <single_rate>0.845301</single_rate>
+  </reaction>
+  <!--pa231 -> he4 + ac227-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa231</reactant>
+    <product>he4</product>
+    <product>ac227</product>
+    <single_rate>6.70897e-13</single_rate>
+  </reaction>
+  <!--es253 -> he4 + bk249-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>es253</reactant>
+    <product>he4</product>
+    <product>bk249</product>
+    <single_rate>3.91993e-07</single_rate>
+  </reaction>
+  <!--sm147 -> he4 + nd143-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>sm147</reactant>
+    <product>he4</product>
+    <product>nd143</product>
+    <single_rate>2.05661e-19</single_rate>
+  </reaction>
+  <!--cf249 -> he4 + cm245-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf249</reactant>
+    <product>he4</product>
+    <product>cm245</product>
+    <single_rate>6.26305e-11</single_rate>
+  </reaction>
+  <!--w163 -> he4 + hf159-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>w163</reactant>
+    <product>he4</product>
+    <product>hf159</product>
+    <single_rate>0.035941</single_rate>
+  </reaction>
+  <!--ra210 -> he4 + rn206-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra210</reactant>
+    <product>he4</product>
+    <product>rn206</product>
+    <single_rate>0.17773</single_rate>
+  </reaction>
+  <!--fl286 -> he4 + cn282-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fl286</reactant>
+    <product>he4</product>
+    <product>cn282</product>
+    <single_rate>3.43709</single_rate>
+  </reaction>
+  <!--bk236 -> he4 + am232-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bk236</reactant>
+    <product>he4</product>
+    <product>am232</product>
+    <single_rate>0.00535614</single_rate>
+  </reaction>
+  <!--th224 -> he4 + ra220-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th224</reactant>
+    <product>he4</product>
+    <product>ra220</product>
+    <single_rate>0.666488</single_rate>
+  </reaction>
+  <!--cf237 -> he4 + cm233-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf237</reactant>
+    <product>he4</product>
+    <product>cm233</product>
+    <single_rate>0.606504</single_rate>
+  </reaction>
+  <!--fr213 -> he4 + at209-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr213</reactant>
+    <product>he4</product>
+    <product>at209</product>
+    <single_rate>0.0201737</single_rate>
+  </reaction>
+  <!--hg172 -> he4 + pt168-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg172</reactant>
+    <product>he4</product>
+    <product>pt168</product>
+    <single_rate>3000.64</single_rate>
+  </reaction>
+  <!--pa227 -> he4 + ac223-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pa227</reactant>
+    <product>he4</product>
+    <product>ac223</product>
+    <single_rate>0.000256386</single_rate>
+  </reaction>
+  <!--am229 -> he4 + np225-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>am229</reactant>
+    <product>he4</product>
+    <product>np225</product>
+    <single_rate>0.770164</single_rate>
+  </reaction>
+  <!--md248 -> he4 + es244-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>md248</reactant>
+    <product>he4</product>
+    <product>es244</product>
+    <single_rate>0.0198042</single_rate>
+  </reaction>
+  <!--fl285 -> he4 + cn281-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fl285</reactant>
+    <product>he4</product>
+    <product>cn281</product>
+    <single_rate>6.93147</single_rate>
+  </reaction>
+  <!--fm248 -> he4 + cf244-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm248</reactant>
+    <product>he4</product>
+    <product>cf244</product>
+    <single_rate>0.0200711</single_rate>
+  </reaction>
+  <!--hs265 -> he4 + sg261-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hs265</reactant>
+    <product>he4</product>
+    <product>sg261</product>
+    <single_rate>364.814</single_rate>
+  </reaction>
+  <!--os167 -> he4 + w163-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>os167</reactant>
+    <product>he4</product>
+    <product>w163</product>
+    <single_rate>0.421341</single_rate>
+  </reaction>
+  <!--rn198 -> he4 + po194-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn198</reactant>
+    <product>he4</product>
+    <product>po194</product>
+    <single_rate>9.59742</single_rate>
+  </reaction>
+  <!--fr199 -> he4 + at195-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr199</reactant>
+    <product>he4</product>
+    <product>at195</product>
+    <single_rate>154.033</single_rate>
+  </reaction>
+  <!--ac215 -> he4 + fr211-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac215</reactant>
+    <product>he4</product>
+    <product>fr211</product>
+    <single_rate>4.07367</single_rate>
+  </reaction>
+  <!--hs273 -> he4 + sg269-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hs273</reactant>
+    <product>he4</product>
+    <product>sg269</product>
+    <single_rate>1.35911</single_rate>
+  </reaction>
+  <!--re160 -> he4 + ta156-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>re160</reactant>
+    <product>he4</product>
+    <product>ta156</product>
+    <single_rate>124.585</single_rate>
+  </reaction>
+  <!--ac222 -> he4 + fr218-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac222</reactant>
+    <product>he4</product>
+    <product>fr218</product>
+    <single_rate>0.140044</single_rate>
+  </reaction>
+  <!--mt270 -> he4 + bh266-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>mt270</reactant>
+    <product>he4</product>
+    <product>bh266</product>
+    <single_rate>1.44406</single_rate>
+  </reaction>
+  <!--ac213 -> he4 + fr209-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac213</reactant>
+    <product>he4</product>
+    <product>fr209</product>
+    <single_rate>0.939224</single_rate>
+  </reaction>
+  <!--ds269 -> he4 + hs265-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ds269</reactant>
+    <product>he4</product>
+    <product>hs265</product>
+    <single_rate>3850.82</single_rate>
+  </reaction>
+  <!--cm240 -> he4 + pu236-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cm240</reactant>
+    <product>he4</product>
+    <product>pu236</product>
+    <single_rate>2.6258e-07</single_rate>
+  </reaction>
+  <!--fm253 -> he4 + cf249-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm253</reactant>
+    <product>he4</product>
+    <product>cf249</product>
+    <single_rate>3.20901e-07</single_rate>
+  </reaction>
+  <!--ds267 -> he4 + hs263-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ds267</reactant>
+    <product>he4</product>
+    <product>hs263</product>
+    <single_rate>231049</single_rate>
+  </reaction>
+  <!--u230 -> he4 + th226-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u230</reactant>
+    <product>he4</product>
+    <product>th226</product>
+    <single_rate>3.96566e-07</single_rate>
+  </reaction>
+  <!--np224 -> he4 + pa220-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>np224</reactant>
+    <product>he4</product>
+    <product>pa220</product>
+    <single_rate>18240.7</single_rate>
+  </reaction>
+  <!--bh270 -> he4 + db266-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>bh270</reactant>
+    <product>he4</product>
+    <product>db266</product>
+    <single_rate>0.0115525</single_rate>
+  </reaction>
+  <!--lv290 -> he4 + fl286-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lv290</reactant>
+    <product>he4</product>
+    <product>fl286</product>
+    <single_rate>83.5117</single_rate>
+  </reaction>
+  <!--pu232 -> he4 + u228-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pu232</reactant>
+    <product>he4</product>
+    <product>u228</product>
+    <single_rate>3.83918e-05</single_rate>
+  </reaction>
+  <!--te107 -> he4 + sn103-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>te107</reactant>
+    <product>he4</product>
+    <product>sn103</product>
+    <single_rate>134.779</single_rate>
+  </reaction>
+  <!--ac208 -> he4 + fr204-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac208</reactant>
+    <product>he4</product>
+    <product>fr204</product>
+    <single_rate>7.4532</single_rate>
+  </reaction>
+  <!--u215 -> he4 + th211-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u215</reactant>
+    <product>he4</product>
+    <product>th211</product>
+    <single_rate>990.21</single_rate>
+  </reaction>
+  <!--rn196 -> he4 + po192-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn196</reactant>
+    <product>he4</product>
+    <product>po192</product>
+    <single_rate>157.533</single_rate>
+  </reaction>
+  <!--ra221 -> he4 + rn217-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ra221</reactant>
+    <product>he4</product>
+    <product>rn217</product>
+    <single_rate>0.0433217</single_rate>
+  </reaction>
+  <!--ac214 -> he4 + fr210-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>ac214</reactant>
+    <product>he4</product>
+    <product>fr210</product>
+    <single_rate>0.0752318</single_rate>
+  </reaction>
+  <!--no249 -> he4 + fm245-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>no249</reactant>
+    <product>he4</product>
+    <product>fm245</product>
+    <single_rate>18.3372</single_rate>
+  </reaction>
+  <!--cn283 -> he4 + ds279-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cn283</reactant>
+    <product>he4</product>
+    <product>ds279</product>
+    <single_rate>0.128082</single_rate>
+  </reaction>
+  <!--db259 -> he4 + lr255-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>db259</reactant>
+    <product>he4</product>
+    <product>lr255</product>
+    <single_rate>1.35911</single_rate>
+  </reaction>
+  <!--fr221 -> he4 + at217-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr221</reactant>
+    <product>he4</product>
+    <product>at217</product>
+    <single_rate>0.00240614</single_rate>
+  </reaction>
+  <!--am241 -> he4 + np237-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>am241</reactant>
+    <product>he4</product>
+    <product>np237</product>
+    <single_rate>5.07733e-11</single_rate>
+  </reaction>
+  <!--fm245 -> he4 + cf241-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm245</reactant>
+    <product>he4</product>
+    <product>cf241</product>
+    <single_rate>0.113599</single_rate>
+  </reaction>
+  <!--rg282 -> he4 + mt278-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rg282</reactant>
+    <product>he4</product>
+    <product>mt278</product>
+    <single_rate>0.00693147</single_rate>
+  </reaction>
+  <!--cf248 -> he4 + cm244-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>cf248</reactant>
+    <product>he4</product>
+    <product>cm244</product>
+    <single_rate>2.40549e-08</single_rate>
+  </reaction>
+  <!--fr220 -> he4 + at216-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr220</reactant>
+    <product>he4</product>
+    <product>at216</product>
+    <single_rate>0.0252088</single_rate>
+  </reaction>
+  <!--nh282 -> he4 + rg278-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>nh282</reactant>
+    <product>he4</product>
+    <product>rg278</product>
+    <single_rate>9.49517</single_rate>
+  </reaction>
+  <!--lr259 -> he4 + md255-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>lr259</reactant>
+    <product>he4</product>
+    <product>md255</product>
+    <single_rate>0.086922</single_rate>
+  </reaction>
+  <!--th223 -> he4 + ra219-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th223</reactant>
+    <product>he4</product>
+    <product>ra219</product>
+    <single_rate>1.15525</single_rate>
+  </reaction>
+  <!--pu229 -> he4 + u225-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pu229</reactant>
+    <product>he4</product>
+    <product>u225</product>
+    <single_rate>0.00417559</single_rate>
+  </reaction>
+  <!--mc290 -> he4 + nh286-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>mc290</reactant>
+    <product>he4</product>
+    <product>nh286</product>
+    <single_rate>1.06638</single_rate>
+  </reaction>
+  <!--tl179 -> he4 + au175-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>tl179</reactant>
+    <product>he4</product>
+    <product>au175</product>
+    <single_rate>0.976264</single_rate>
+  </reaction>
+  <!--hs269 -> he4 + sg265-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hs269</reactant>
+    <product>he4</product>
+    <product>sg265</product>
+    <single_rate>0.053319</single_rate>
+  </reaction>
+  <!--os165 -> he4 + w161-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>os165</reactant>
+    <product>he4</product>
+    <product>w161</product>
+    <single_rate>8.78637</single_rate>
+  </reaction>
+  <!--fm255 -> he4 + cf251-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fm255</reactant>
+    <product>he4</product>
+    <product>cf251</product>
+    <single_rate>9.59347e-06</single_rate>
+  </reaction>
+  <!--pt173 -> he4 + os169-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>pt173</reactant>
+    <product>he4</product>
+    <product>os169</product>
+    <single_rate>1.5568</single_rate>
+  </reaction>
+  <!--hg177 -> he4 + pt173-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>hg177</reactant>
+    <product>he4</product>
+    <product>pt173</product>
+    <single_rate>5.92433</single_rate>
+  </reaction>
+  <!--at205 -> he4 + bi201-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>at205</reactant>
+    <product>he4</product>
+    <product>bi201</product>
+    <single_rate>4.29459e-05</single_rate>
+  </reaction>
+  <!--fr212 -> he4 + at208-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>fr212</reactant>
+    <product>he4</product>
+    <product>at208</product>
+    <single_rate>0.000244707</single_rate>
+  </reaction>
+  <!--th214 -> he4 + ra210-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th214</reactant>
+    <product>he4</product>
+    <product>ra210</product>
+    <single_rate>6.93147</single_rate>
+  </reaction>
+  <!--th211 -> he4 + ra207-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>th211</reactant>
+    <product>he4</product>
+    <product>ra207</product>
+    <single_rate>18.7337</single_rate>
+  </reaction>
+  <!--i110 -> he4 + sb106-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>i110</reactant>
+    <product>he4</product>
+    <product>sb106</product>
+    <single_rate>0.175873</single_rate>
+  </reaction>
+  <!--po211 -> he4 + pb207-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>po211</reactant>
+    <product>he4</product>
+    <product>pb207</product>
+    <single_rate>1.34331</single_rate>
+  </reaction>
+  <!--rn222 -> he4 + po218-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>rn222</reactant>
+    <product>he4</product>
+    <product>po218</product>
+    <single_rate>2.09934e-06</single_rate>
+  </reaction>
+  <!--u228 -> he4 + th224-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>u228</reactant>
+    <product>he4</product>
+    <product>th224</product>
+    <single_rate>0.00120603</single_rate>
+  </reaction>
+  <!--no253 -> he4 + fm249-->
+  <reaction>
+    <source>NuDat3 json</source>
+    <reactant>no253</reactant>
+    <product>he4</product>
+    <product>fm249</product>
+    <single_rate>0.00394649</single_rate>
+  </reaction>
+</reaction_data>

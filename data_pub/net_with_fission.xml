@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- v2 includes more nuclides -->
+<nuclear_network
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xsi:schemaLocation="http://libnucnet.sourceforge.net/xsd_pub/2019-01-15/libnucnet__net       http://libnucnet.sourceforge.net/xsd_pub/2019-01-15/libnucnet__net.xsd"
+>
+
+   <!-- Nuclear data -->
+
+   <nuclear_data>
+        <xi:include href="my_net.xml" xpointer="xpointer(//nuclide)"/>
+   </nuclear_data>
+
+   <!-- Reaction data -->
+
+   <reaction_data>
+      <xi:include href="my_net.xml" xpointer="xpointer(//reaction)"/>
+      <xi:include href="my_fission_data_v2.xml" xpointer="xpointer(//reaction)"/>
+   </reaction_data>
+
+</nuclear_network>

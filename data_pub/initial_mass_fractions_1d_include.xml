@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<zone_data
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xsi:schemaLocation="http://libnucnet.sourceforge.net/xsd_pub/2014-12-13/zone_data/ http://libnucnet.sourceforge.net/xsd_pub/2014-12-13/zone_data.xsd"
+>
+
+  <xi:include
+    href="initial_mass_fractions_1d_a.xml"
+    xpointer="xpointer(//zone)"
+  />
+
+  <xi:include
+    href="initial_mass_fractions_1d_b.xml"
+    xpointer="xpointer(//zone)"
+  />
+
+  <!-- Include this zone from over the web. -->
+
+  <xi:include
+    href="http://libnucnet.sourceforge.net/data_pub/2014-12-11/initial_mass_fractions_1d_c.xml"
+    xpointer="xpointer(//zone)"
+  />
+
+</zone_data>
+

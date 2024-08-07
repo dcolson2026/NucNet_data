@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<zone_data
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://libnucnet.sourceforge.net/xsd_pub/2014-12-13/zone_data/ http://libnucnet.sourceforge.net/xsd_pub/2014-12-13/zone_data.xsd"
+>
+
+    <zone label1="Louis" label2="(Larry)" label3="Feinberg">
+      <mass_fractions>
+        <nuclide name="he4">
+          <z>2</z>
+          <a>4</a>
+          <x>1.</x>
+        </nuclide>
+      </mass_fractions>
+    </zone>
+
+    <zone label1="Moses" label2="(Moe)" label3="Horwitz">
+      <mass_fractions>
+        <nuclide name="n">
+          <z>0</z>
+          <a>1</a>
+          <x>0.5</x>
+        </nuclide>
+        <nuclide name="h1">
+          <z>1</z>
+          <a>1</a>
+          <x>0.5</x>
+        </nuclide>
+      </mass_fractions>
+    </zone>
+
+    <zone label1="Jerome" label2="(Curly)" label3="Horwitz">
+      <mass_fractions>
+        <nuclide name="h1">
+          <z>1</z>
+          <a>1</a>
+          <x>0.3</x>
+        </nuclide>
+        <nuclide name="he4">
+          <z>2</z>
+          <a>4</a>
+          <x>0.7</x>
+        </nuclide>
+      </mass_fractions>
+    </zone>
+
+</zone_data>
+

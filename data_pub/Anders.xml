@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zone_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://libnucnet.sourceforge.net/xsd_pub/2011-05-28/zone_data/ http://libnucnet.sourceforge.net/xsd_pub/2011-05-28/zone_data.xsd">
+  <zone>
+    <mass_fractions>
+      <nuclide name="h1">
+        <z>1</z>
+        <a>1</a>
+        <x>7.057277417371001e-01</x>
+      </nuclide>
+      <nuclide name="h2">
+        <z>1</z>
+        <a>2</a>
+        <x>4.800972235903283e-05</x>
+      </nuclide>
+      <nuclide name="he3">
+        <z>2</z>
+        <a>3</a>
+        <x>2.929149551726028e-05</x>
+      </nuclide>
+      <nuclide name="he4">
+        <z>2</z>
+        <a>4</a>
+        <x>2.752085243763315e-01</x>
+      </nuclide>
+      <nuclide name="li6">
+        <z>3</z>
+        <a>6</a>
+        <x>6.495730612117824e-10</x>
+      </nuclide>
+      <nuclide name="li7">
+        <z>3</z>
+        <a>7</a>
+        <x>9.352536746590515e-09</x>
+      </nuclide>
+      <nuclide name="be9">
+        <z>4</z>
+        <a>9</a>
+        <x>1.661875004735752e-10</x>
+      </nuclide>
+      <nuclide name="b10">
+        <z>5</z>
+        <a>10</a>
+        <x>1.067444828003786e-09</x>
+      </nuclide>
+      <nuclide name="b11">
+        <z>5</z>
+        <a>11</a>
+        <x>4.724581634467941e-09</x>
+      </nuclide>
+      <nuclide name="c12">
+        <z>6</z>
+        <a>12</a>
+        <x>3.032352748367153e-03</x>
+      </nuclide>
+      <nuclide name="c13">
+        <z>6</z>
+        <a>13</a>
+        <x>3.650054234145647e-05</x>
+      </nuclide>
+      <nuclide name="n14">
+        <z>7</z>
+        <a>14</a>
+        <x>1.104881281687331e-03</x>
+      </nuclide>
+      <nuclide name="n15">
+        <z>7</z>
+        <a>15</a>
+        <x>4.363370446224006e-06</x>
+      </nuclide>
+      <nuclide name="o16">
+        <z>8</z>
+        <a>16</a>
+        <x>9.591826511351554e-03</x>
+      </nuclide>
+      <nuclide name="o17">
+        <z>8</z>
+        <a>17</a>
+        <x>3.887320406815682e-06</x>
+      </nuclide>
+      <nuclide name="o18">
+        <z>8</z>
+        <a>18</a>
+        <x>2.167267129463611e-05</x>
+      </nuclide>
+      <nuclide name="f19">
+        <z>9</z>
+        <a>19</a>
+        <x>4.051484315198255e-07</x>
+      </nuclide>
+      <nuclide name="ne20">
+        <z>10</z>
+        <a>20</a>
+        <x>1.618873672801950e-03</x>
+      </nuclide>
+      <nuclide name="ne21">
+        <z>10</z>
+        <a>21</a>
+        <x>4.127369018610847e-06</x>
+      </nuclide>
+      <nuclide name="ne22">
+        <z>10</z>
+        <a>22</a>
+        <x>1.302181510560068e-04</x>
+      </nuclide>
+      <nuclide name="na23">
+        <z>11</z>
+        <a>23</a>
+        <x>3.339432848176773e-05</x>
+      </nuclide>
+      <nuclide name="mg24">
+        <z>12</z>
+        <a>24</a>
+        <x>5.148018279510201e-04</x>
+      </nuclide>
+      <nuclide name="mg25">
+        <z>12</z>
+        <a>25</a>
+        <x>6.766386054289402e-05</x>
+      </nuclide>
+      <nuclide name="mg26">
+        <z>12</z>
+        <a>26</a>
+        <x>7.760475668994348e-05</x>
+      </nuclide>
+      <nuclide name="al27">
+        <z>13</z>
+        <a>27</a>
+        <x>5.798350187756109e-05</x>
+      </nuclide>
+      <nuclide name="si28">
+        <z>14</z>
+        <a>28</a>
+        <x>6.532256449360419e-04</x>
+      </nuclide>
+      <nuclide name="si29">
+        <z>14</z>
+        <a>29</a>
+        <x>3.425688461055752e-05</x>
+      </nuclide>
+      <nuclide name="si30">
+        <z>14</z>
+        <a>30</a>
+        <x>2.352425805790333e-05</x>
+      </nuclide>
+      <nuclide name="p31">
+        <z>15</z>
+        <a>31</a>
+        <x>8.155076126739822e-06</x>
+      </nuclide>
+      <nuclide name="s32">
+        <z>16</z>
+        <a>32</a>
+        <x>3.958146130000768e-04</x>
+      </nuclide>
+      <nuclide name="s33">
+        <z>16</z>
+        <a>33</a>
+        <x>3.222064506898631e-06</x>
+      </nuclide>
+      <nuclide name="s34">
+        <z>16</z>
+        <a>34</a>
+        <x>1.866257805926998e-05</x>
+      </nuclide>
+      <nuclide name="s36">
+        <z>16</z>
+        <a>36</a>
+        <x>9.379349341796298e-08</x>
+      </nuclide>
+      <nuclide name="cl35">
+        <z>17</z>
+        <a>35</a>
+        <x>2.532019603866800e-06</x>
+      </nuclide>
+      <nuclide name="cl37">
+        <z>17</z>
+        <a>37</a>
+        <x>8.544870553269168e-07</x>
+      </nuclide>
+      <nuclide name="ar36">
+        <z>18</z>
+        <a>36</a>
+        <x>7.740239748084323e-05</x>
+      </nuclide>
+      <nuclide name="ar38">
+        <z>18</z>
+        <a>38</a>
+        <x>1.537929989161853e-05</x>
+      </nuclide>
+      <nuclide name="ar40">
+        <z>18</z>
+        <a>40</a>
+        <x>2.630669718303169e-08</x>
+      </nuclide>
+      <nuclide name="k39">
+        <z>19</z>
+        <a>39</a>
+        <x>3.468538023582728e-06</x>
+      </nuclide>
+      <nuclide name="k40">
+        <z>19</z>
+        <a>40</a>
+        <x>4.451902600205363e-10</x>
+      </nuclide>
+      <nuclide name="k41">
+        <z>19</z>
+        <a>41</a>
+        <x>2.631099731622507e-07</x>
+      </nuclide>
+      <nuclide name="ca40">
+        <z>20</z>
+        <a>40</a>
+        <x>5.989832589367215e-05</x>
+      </nuclide>
+      <nuclide name="ca42">
+        <z>20</z>
+        <a>42</a>
+        <x>4.196424098716305e-07</x>
+      </nuclide>
+      <nuclide name="ca43">
+        <z>20</z>
+        <a>43</a>
+        <x>8.973366178538933e-08</x>
+      </nuclide>
+      <nuclide name="ca44">
+        <z>20</z>
+        <a>44</a>
+        <x>1.419043953815459e-06</x>
+      </nuclide>
+      <nuclide name="ca46">
+        <z>20</z>
+        <a>46</a>
+        <x>2.792557085583364e-09</x>
+      </nuclide>
+      <nuclide name="ca48">
+        <z>20</z>
+        <a>48</a>
+        <x>1.384136990245667e-07</x>
+      </nuclide>
+      <nuclide name="sc45">
+        <z>21</z>
+        <a>45</a>
+        <x>3.892885285065940e-08</x>
+      </nuclide>
+      <nuclide name="ti46">
+        <z>22</z>
+        <a>46</a>
+        <x>2.234045668466691e-07</x>
+      </nuclide>
+      <nuclide name="ti47">
+        <z>22</z>
+        <a>47</a>
+        <x>2.080505618561881e-07</x>
+      </nuclide>
+      <nuclide name="ti48">
+        <z>22</z>
+        <a>48</a>
+        <x>2.150268955899190e-06</x>
+      </nuclide>
+      <nuclide name="ti49">
+        <z>22</z>
+        <a>49</a>
+        <x>1.636074205575471e-07</x>
+      </nuclide>
+      <nuclide name="ti50">
+        <z>22</z>
+        <a>50</a>
+        <x>1.644168573939481e-07</x>
+      </nuclide>
+      <nuclide name="v50">
+        <z>23</z>
+        <a>50</a>
+        <x>9.257933816336151e-10</x>
+      </nuclide>
+      <nuclide name="v51">
+        <z>23</z>
+        <a>51</a>
+        <x>3.766916677401038e-07</x>
+      </nuclide>
+      <nuclide name="cr50">
+        <z>24</z>
+        <a>50</a>
+        <x>7.424053483865192e-07</x>
+      </nuclide>
+      <nuclide name="cr52">
+        <z>24</z>
+        <a>52</a>
+        <x>1.487643725700442e-05</x>
+      </nuclide>
+      <nuclide name="cr53">
+        <z>24</z>
+        <a>53</a>
+        <x>1.720027982450934e-06</x>
+      </nuclide>
+      <nuclide name="cr54">
+        <z>24</z>
+        <a>54</a>
+        <x>4.357299669950998e-07</x>
+      </nuclide>
+      <nuclide name="mn55">
+        <z>25</z>
+        <a>55</a>
+        <x>1.328614682248788e-05</x>
+      </nuclide>
+      <nuclide name="fe54">
+        <z>26</z>
+        <a>54</a>
+        <x>7.130126732647088e-05</x>
+      </nuclide>
+      <nuclide name="fe56">
+        <z>26</z>
+        <a>56</a>
+        <x>1.168624432553908e-03</x>
+      </nuclide>
+      <nuclide name="fe57">
+        <z>26</z>
+        <a>57</a>
+        <x>2.854782542381689e-05</x>
+      </nuclide>
+      <nuclide name="fe58">
+        <z>26</z>
+        <a>58</a>
+        <x>3.697102750261453e-06</x>
+      </nuclide>
+      <nuclide name="co59">
+        <z>27</z>
+        <a>59</a>
+        <x>3.357898126007170e-06</x>
+      </nuclide>
+      <nuclide name="ni58">
+        <z>28</z>
+        <a>58</a>
+        <x>4.944141376341705e-05</x>
+      </nuclide>
+      <nuclide name="ni60">
+        <z>28</z>
+        <a>60</a>
+        <x>1.957825348044858e-05</x>
+      </nuclide>
+      <nuclide name="ni61">
+        <z>28</z>
+        <a>61</a>
+        <x>8.594448559498728e-07</x>
+      </nuclide>
+      <nuclide name="ni62">
+        <z>28</z>
+        <a>62</a>
+        <x>2.775862450832594e-06</x>
+      </nuclide>
+      <nuclide name="ni64">
+        <z>28</z>
+        <a>64</a>
+        <x>7.268742790880756e-07</x>
+      </nuclide>
+      <nuclide name="cu63">
+        <z>29</z>
+        <a>63</a>
+        <x>5.752819365708555e-07</x>
+      </nuclide>
+      <nuclide name="cu65">
+        <z>29</z>
+        <a>65</a>
+        <x>2.647111404042564e-07</x>
+      </nuclide>
+      <nuclide name="zn64">
+        <z>30</z>
+        <a>64</a>
+        <x>9.923695614275954e-07</x>
+      </nuclide>
+      <nuclide name="zn66">
+        <z>30</z>
+        <a>66</a>
+        <x>5.876511432271079e-07</x>
+      </nuclide>
+      <nuclide name="zn67">
+        <z>30</z>
+        <a>67</a>
+        <x>8.761900805029179e-08</x>
+      </nuclide>
+      <nuclide name="zn68">
+        <z>30</z>
+        <a>68</a>
+        <x>4.059325734550890e-07</x>
+      </nuclide>
+      <nuclide name="zn70">
+        <z>30</z>
+        <a>70</a>
+        <x>1.381101602109164e-08</x>
+      </nuclide>
+      <nuclide name="ga69">
+        <z>31</z>
+        <a>69</a>
+        <x>3.961940365171398e-08</x>
+      </nuclide>
+      <nuclide name="ga71">
+        <z>31</z>
+        <a>71</a>
+        <x>2.711866350954642e-08</x>
+      </nuclide>
+      <nuclide name="ge70">
+        <z>32</z>
+        <a>70</a>
+        <x>4.320369114290204e-08</x>
+      </nuclide>
+      <nuclide name="ge72">
+        <z>32</z>
+        <a>72</a>
+        <x>5.937219195001152e-08</x>
+      </nuclide>
+      <nuclide name="ge73">
+        <z>32</z>
+        <a>73</a>
+        <x>1.713577782660864e-08</x>
+      </nuclide>
+      <nuclide name="ge74">
+        <z>32</z>
+        <a>74</a>
+        <x>8.123710449329286e-08</x>
+      </nuclide>
+      <nuclide name="ge76">
+        <z>32</z>
+        <a>76</a>
+        <x>1.783998787427749e-08</x>
+      </nuclide>
+      <nuclide name="as75">
+        <z>33</z>
+        <a>75</a>
+        <x>1.244509135966499e-08</x>
+      </nuclide>
+      <nuclide name="se74">
+        <z>34</z>
+        <a>74</a>
+        <x>1.029502476297490e-09</x>
+      </nuclide>
+      <nuclide name="se76">
+        <z>34</z>
+        <a>76</a>
+        <x>1.076550992413297e-08</x>
+      </nuclide>
+      <nuclide name="se77">
+        <z>34</z>
+        <a>77</a>
+        <x>9.154224721672277e-09</x>
+      </nuclide>
+      <nuclide name="se78">
+        <z>34</z>
+        <a>78</a>
+        <x>2.900313364429244e-08</x>
+      </nuclide>
+      <nuclide name="se80">
+        <z>34</z>
+        <a>80</a>
+        <x>6.252899561197532e-08</x>
+      </nuclide>
+      <nuclide name="se82">
+        <z>34</z>
+        <a>82</a>
+        <x>1.182283679168174e-08</x>
+      </nuclide>
+      <nuclide name="br79">
+        <z>35</z>
+        <a>79</a>
+        <x>1.194981719539214e-08</x>
+      </nuclide>
+      <nuclide name="br81">
+        <z>35</z>
+        <a>81</a>
+        <x>1.192452229425461e-08</x>
+      </nuclide>
+      <nuclide name="kr78">
+        <z>36</z>
+        <a>78</a>
+        <x>3.018693501752886e-10</x>
+      </nuclide>
+      <nuclide name="kr80">
+        <z>36</z>
+        <a>80</a>
+        <x>2.021568498911435e-09</x>
+      </nuclide>
+      <nuclide name="kr82">
+        <z>36</z>
+        <a>82</a>
+        <x>1.068203675037912e-08</x>
+      </nuclide>
+      <nuclide name="kr83">
+        <z>36</z>
+        <a>83</a>
+        <x>1.083330025918155e-08</x>
+      </nuclide>
+      <nuclide name="kr84">
+        <z>36</z>
+        <a>84</a>
+        <x>5.460663257570077e-08</x>
+      </nuclide>
+      <nuclide name="kr86">
+        <z>36</z>
+        <a>86</a>
+        <x>1.705483414296854e-08</x>
+      </nuclide>
+      <nuclide name="rb85">
+        <z>37</z>
+        <a>85</a>
+        <x>1.100834097505326e-08</x>
+      </nuclide>
+      <nuclide name="rb87">
+        <z>37</z>
+        <a>87</a>
+        <x>4.335293105961347e-09</x>
+      </nuclide>
+      <nuclide name="sr84">
+        <z>38</z>
+        <a>84</a>
+        <x>2.804698638129378e-10</x>
+      </nuclide>
+      <nuclide name="sr86">
+        <z>38</z>
+        <a>86</a>
+        <x>5.046838674960079e-09</x>
+      </nuclide>
+      <nuclide name="sr87">
+        <z>38</z>
+        <a>87</a>
+        <x>3.609076494302847e-09</x>
+      </nuclide>
+      <nuclide name="sr88">
+        <z>38</z>
+        <a>88</a>
+        <x>4.320571473499305e-08</x>
+      </nuclide>
+      <nuclide name="y89">
+        <z>39</z>
+        <a>89</a>
+        <x>1.044578237375458e-08</x>
+      </nuclide>
+      <nuclide name="zr90">
+        <z>40</z>
+        <a>90</a>
+        <x>1.336329627095735e-08</x>
+      </nuclide>
+      <nuclide name="zr91">
+        <z>40</z>
+        <a>91</a>
+        <x>2.946350084499549e-09</x>
+      </nuclide>
+      <nuclide name="zr92">
+        <z>40</z>
+        <a>92</a>
+        <x>4.561176573119494e-09</x>
+      </nuclide>
+      <nuclide name="zr94">
+        <z>40</z>
+        <a>94</a>
+        <x>4.707886999717171e-09</x>
+      </nuclide>
+      <nuclide name="zr96">
+        <z>40</z>
+        <a>96</a>
+        <x>7.770593629449361e-10</x>
+      </nuclide>
+      <nuclide name="nb93">
+        <z>41</z>
+        <a>93</a>
+        <x>1.641993212441653e-09</x>
+      </nuclide>
+      <nuclide name="mo92">
+        <z>42</z>
+        <a>92</a>
+        <x>8.796554819587596e-10</x>
+      </nuclide>
+      <nuclide name="mo94">
+        <z>42</z>
+        <a>94</a>
+        <x>5.611420868349760e-10</x>
+      </nuclide>
+      <nuclide name="mo95">
+        <z>42</z>
+        <a>95</a>
+        <x>9.756243368745503e-10</x>
+      </nuclide>
+      <nuclide name="mo96">
+        <z>42</z>
+        <a>96</a>
+        <x>1.032031966411243e-09</x>
+      </nuclide>
+      <nuclide name="mo97">
+        <z>42</z>
+        <a>97</a>
+        <x>5.986797201230712e-10</x>
+      </nuclide>
+      <nuclide name="mo98">
+        <z>42</z>
+        <a>98</a>
+        <x>1.524523691558961e-09</x>
+      </nuclide>
+      <nuclide name="mo100">
+        <z>42</z>
+        <a>100</a>
+        <x>6.222545679832496e-10</x>
+      </nuclide>
+      <nuclide name="ru96">
+        <z>44</z>
+        <a>96</a>
+        <x>2.501159824479013e-10</x>
+      </nuclide>
+      <nuclide name="ru98">
+        <z>44</z>
+        <a>98</a>
+        <x>8.676151090172951e-11</x>
+      </nuclide>
+      <nuclide name="ru99">
+        <z>44</z>
+        <a>99</a>
+        <x>5.909900701772619e-10</x>
+      </nuclide>
+      <nuclide name="ru100">
+        <z>44</z>
+        <a>100</a>
+        <x>5.919006866182131e-10</x>
+      </nuclide>
+      <nuclide name="ru101">
+        <z>44</z>
+        <a>101</a>
+        <x>8.073120647054224e-10</x>
+      </nuclide>
+      <nuclide name="ru102">
+        <z>44</z>
+        <a>102</a>
+        <x>1.517086990624527e-09</x>
+      </nuclide>
+      <nuclide name="ru104">
+        <z>44</z>
+        <a>104</a>
+        <x>9.154730619695027e-10</x>
+      </nuclide>
+      <nuclide name="rh103">
+        <z>45</z>
+        <a>103</a>
+        <x>8.962489371049795e-10</x>
+      </nuclide>
+      <nuclide name="pd102">
+        <z>46</z>
+        <a>102</a>
+        <x>3.663713480759914e-11</x>
+      </nuclide>
+      <nuclide name="pd104">
+        <z>46</z>
+        <a>104</a>
+        <x>4.077538063369912e-10</x>
+      </nuclide>
+      <nuclide name="pd105">
+        <z>46</z>
+        <a>105</a>
+        <x>8.233490320266168e-10</x>
+      </nuclide>
+      <nuclide name="pd106">
+        <z>46</z>
+        <a>106</a>
+        <x>1.018878617819727e-09</x>
+      </nuclide>
+      <nuclide name="pd108">
+        <z>46</z>
+        <a>108</a>
+        <x>1.005320550810011e-09</x>
+      </nuclide>
+      <nuclide name="pd110">
+        <z>46</z>
+        <a>110</a>
+        <x>4.535375773959214e-10</x>
+      </nuclide>
+      <nuclide name="ag107">
+        <z>47</z>
+        <a>107</a>
+        <x>6.820517142723716e-10</x>
+      </nuclide>
+      <nuclide name="ag109">
+        <z>47</z>
+        <a>109</a>
+        <x>6.451717484138522e-10</x>
+      </nuclide>
+      <nuclide name="cd106">
+        <z>48</z>
+        <a>106</a>
+        <x>5.389331636362241e-11</x>
+      </nuclide>
+      <nuclide name="cd108">
+        <z>48</z>
+        <a>108</a>
+        <x>3.906544531680206e-11</x>
+      </nuclide>
+      <nuclide name="cd110">
+        <z>48</z>
+        <a>110</a>
+        <x>5.592702641507987e-10</x>
+      </nuclide>
+      <nuclide name="cd111">
+        <z>48</z>
+        <a>111</a>
+        <x>5.783932094107717e-10</x>
+      </nuclide>
+      <nuclide name="cd112">
+        <z>48</z>
+        <a>112</a>
+        <x>1.099215223832524e-09</x>
+      </nuclide>
+      <nuclide name="cd113">
+        <z>48</z>
+        <a>113</a>
+        <x>5.630897942225658e-10</x>
+      </nuclide>
+      <nuclide name="cd114">
+        <z>48</z>
+        <a>114</a>
+        <x>1.335115471841133e-09</x>
+      </nuclide>
+      <nuclide name="cd116">
+        <z>48</z>
+        <a>116</a>
+        <x>3.550392323663777e-10</x>
+      </nuclide>
+      <nuclide name="in113">
+        <z>49</z>
+        <a>113</a>
+        <x>2.258075824547345e-11</x>
+      </nuclide>
+      <nuclide name="in115">
+        <z>49</z>
+        <a>115</a>
+        <x>5.119687990236167e-10</x>
+      </nuclide>
+      <nuclide name="sn112">
+        <z>50</z>
+        <a>112</a>
+        <x>1.053886760994069e-10</x>
+      </nuclide>
+      <nuclide name="sn114">
+        <z>50</z>
+        <a>114</a>
+        <x>7.266719198789753e-11</x>
+      </nuclide>
+      <nuclide name="sn115">
+        <z>50</z>
+        <a>115</a>
+        <x>3.752498583752645e-11</x>
+      </nuclide>
+      <nuclide name="sn116">
+        <z>50</z>
+        <a>116</a>
+        <x>1.628485735234212e-09</x>
+      </nuclide>
+      <nuclide name="sn117">
+        <z>50</z>
+        <a>117</a>
+        <x>8.671345058956820e-10</x>
+      </nuclide>
+      <nuclide name="sn118">
+        <z>50</z>
+        <a>118</a>
+        <x>2.760938459161451e-09</x>
+      </nuclide>
+      <nuclide name="sn119">
+        <z>50</z>
+        <a>119</a>
+        <x>9.873105812000892e-10</x>
+      </nuclide>
+      <nuclide name="sn120">
+        <z>50</z>
+        <a>120</a>
+        <x>3.779058229947052e-09</x>
+      </nuclide>
+      <nuclide name="sn122">
+        <z>50</z>
+        <a>122</a>
+        <x>5.462180951638329e-10</x>
+      </nuclide>
+      <nuclide name="sn124">
+        <z>50</z>
+        <a>124</a>
+        <x>6.931814707728850e-10</x>
+      </nuclide>
+      <nuclide name="sb121">
+        <z>51</z>
+        <a>121</a>
+        <x>5.417408976624901e-10</x>
+      </nuclide>
+      <nuclide name="sb123">
+        <z>51</z>
+        <a>123</a>
+        <x>4.106880148689447e-10</x>
+      </nuclide>
+      <nuclide name="te120">
+        <z>52</z>
+        <a>120</a>
+        <x>1.305216898696572e-11</x>
+      </nuclide>
+      <nuclide name="te122">
+        <z>52</z>
+        <a>122</a>
+        <x>3.826612644085610e-10</x>
+      </nuclide>
+      <nuclide name="te123">
+        <z>52</z>
+        <a>123</a>
+        <x>1.331624775484154e-10</x>
+      </nuclide>
+      <nuclide name="te124">
+        <z>52</z>
+        <a>124</a>
+        <x>7.182740127013152e-10</x>
+      </nuclide>
+      <nuclide name="te125">
+        <z>52</z>
+        <a>125</a>
+        <x>1.081357023629428e-09</x>
+      </nuclide>
+      <nuclide name="te126">
+        <z>52</z>
+        <a>126</a>
+        <x>2.897126206885915e-09</x>
+      </nuclide>
+      <nuclide name="te128">
+        <z>52</z>
+        <a>128</a>
+        <x>4.940802449391552e-09</x>
+      </nuclide>
+      <nuclide name="te130">
+        <z>52</z>
+        <a>130</a>
+        <x>5.373142899634222e-09</x>
+      </nuclide>
+      <nuclide name="i127">
+        <z>53</z>
+        <a>127</a>
+        <x>2.891207200019733e-09</x>
+      </nuclide>
+      <nuclide name="xe124">
+        <z>54</z>
+        <a>124</a>
+        <x>1.790980180141707e-11</x>
+      </nuclide>
+      <nuclide name="xe126">
+        <z>54</z>
+        <a>126</a>
+        <x>1.622263189554379e-11</x>
+      </nuclide>
+      <nuclide name="xe128">
+        <z>54</z>
+        <a>128</a>
+        <x>3.334879765972017e-10</x>
+      </nuclide>
+      <nuclide name="xe129">
+        <z>54</z>
+        <a>129</a>
+        <x>4.176694075829031e-09</x>
+      </nuclide>
+      <nuclide name="xe130">
+        <z>54</z>
+        <a>130</a>
+        <x>6.741091153151870e-10</x>
+      </nuclide>
+      <nuclide name="xe131">
+        <z>54</z>
+        <a>131</a>
+        <x>3.379904689996821e-09</x>
+      </nuclide>
+      <nuclide name="xe132">
+        <z>54</z>
+        <a>132</a>
+        <x>4.140269418190987e-09</x>
+      </nuclide>
+      <nuclide name="xe134">
+        <z>54</z>
+        <a>134</a>
+        <x>1.555788189364949e-09</x>
+      </nuclide>
+      <nuclide name="xe136">
+        <z>54</z>
+        <a>136</a>
+        <x>1.283159744904646e-09</x>
+      </nuclide>
+      <nuclide name="cs133">
+        <z>55</z>
+        <a>133</a>
+        <x>1.251490528680458e-09</x>
+      </nuclide>
+      <nuclide name="ba130">
+        <z>56</z>
+        <a>130</a>
+        <x>1.565248482390385e-11</x>
+      </nuclide>
+      <nuclide name="ba132">
+        <z>56</z>
+        <a>132</a>
+        <x>1.512533908419772e-11</x>
+      </nuclide>
+      <nuclide name="ba134">
+        <z>56</z>
+        <a>134</a>
+        <x>3.694573260147700e-10</x>
+      </nuclide>
+      <nuclide name="ba135">
+        <z>56</z>
+        <a>135</a>
+        <x>1.010784249455717e-09</x>
+      </nuclide>
+      <nuclide name="ba136">
+        <z>56</z>
+        <a>136</a>
+        <x>1.214357613810563e-09</x>
+      </nuclide>
+      <nuclide name="ba137">
+        <z>56</z>
+        <a>137</a>
+        <x>1.746562333744204e-09</x>
+      </nuclide>
+      <nuclide name="ba138">
+        <z>56</z>
+        <a>138</a>
+        <x>1.124004226947304e-08</x>
+      </nuclide>
+      <nuclide name="la138">
+        <z>57</z>
+        <a>138</a>
+        <x>1.385806453720744e-12</x>
+      </nuclide>
+      <nuclide name="la139">
+        <z>57</z>
+        <a>139</a>
+        <x>1.568132101120064e-09</x>
+      </nuclide>
+      <nuclide name="ce136">
+        <z>58</z>
+        <a>136</a>
+        <x>7.430630158160950e-12</x>
+      </nuclide>
+      <nuclide name="ce138">
+        <z>58</z>
+        <a>138</a>
+        <x>9.913577653820943e-12</x>
+      </nuclide>
+      <nuclide name="ce140">
+        <z>58</z>
+        <a>140</a>
+        <x>3.558992590050537e-09</x>
+      </nuclide>
+      <nuclide name="ce142">
+        <z>58</z>
+        <a>142</a>
+        <x>4.525763711526952e-10</x>
+      </nuclide>
+      <nuclide name="pr141">
+        <z>59</z>
+        <a>141</a>
+        <x>5.956190370854300e-10</x>
+      </nuclide>
+      <nuclide name="nd142">
+        <z>60</z>
+        <a>142</a>
+        <x>8.081720913440985e-10</x>
+      </nuclide>
+      <nuclide name="nd143">
+        <z>60</z>
+        <a>143</a>
+        <x>3.653342571293526e-10</x>
+      </nuclide>
+      <nuclide name="nd144">
+        <z>60</z>
+        <a>144</a>
+        <x>7.175657554694643e-10</x>
+      </nuclide>
+      <nuclide name="nd145">
+        <z>60</z>
+        <a>145</a>
+        <x>2.519751576815098e-10</x>
+      </nuclide>
+      <nuclide name="nd146">
+        <z>60</z>
+        <a>146</a>
+        <x>5.244138903832817e-10</x>
+      </nuclide>
+      <nuclide name="nd148">
+        <z>60</z>
+        <a>148</a>
+        <x>1.785718840705101e-10</x>
+      </nuclide>
+      <nuclide name="nd150">
+        <z>60</z>
+        <a>150</a>
+        <x>1.771907824684009e-10</x>
+      </nuclide>
+      <nuclide name="sm144">
+        <z>62</z>
+        <a>144</a>
+        <x>2.913972611043510e-11</x>
+      </nuclide>
+      <nuclide name="sm147">
+        <z>62</z>
+        <a>147</a>
+        <x>1.439001630812971e-10</x>
+      </nuclide>
+      <nuclide name="sm148">
+        <z>62</z>
+        <a>148</a>
+        <x>1.093144447559517e-10</x>
+      </nuclide>
+      <nuclide name="sm149">
+        <z>62</z>
+        <a>149</a>
+        <x>1.341742735939166e-10</x>
+      </nuclide>
+      <nuclide name="sm150">
+        <z>62</z>
+        <a>150</a>
+        <x>7.246989175902480e-11</x>
+      </nuclide>
+      <nuclide name="sm152">
+        <z>62</z>
+        <a>152</a>
+        <x>2.649084406331291e-10</x>
+      </nuclide>
+      <nuclide name="sm154">
+        <z>62</z>
+        <a>154</a>
+        <x>2.282713058255300e-10</x>
+      </nuclide>
+      <nuclide name="eu151">
+        <z>63</z>
+        <a>151</a>
+        <x>1.776081483371702e-10</x>
+      </nuclide>
+      <nuclide name="eu153">
+        <z>63</z>
+        <a>153</a>
+        <x>1.966020896013418e-10</x>
+      </nuclide>
+      <nuclide name="gd152">
+        <z>64</z>
+        <a>152</a>
+        <x>2.537584482117057e-12</x>
+      </nuclide>
+      <nuclide name="gd154">
+        <z>64</z>
+        <a>154</a>
+        <x>2.800803223354199e-11</x>
+      </nuclide>
+      <nuclide name="gd155">
+        <z>64</z>
+        <a>155</a>
+        <x>1.913306322042805e-10</x>
+      </nuclide>
+      <nuclide name="gd156">
+        <z>64</z>
+        <a>156</a>
+        <x>2.667499094359413e-10</x>
+      </nuclide>
+      <nuclide name="gd157">
+        <z>64</z>
+        <a>157</a>
+        <x>2.049190530953618e-10</x>
+      </nuclide>
+      <nuclide name="gd158">
+        <z>64</z>
+        <a>158</a>
+        <x>3.277207391378448e-10</x>
+      </nuclide>
+      <nuclide name="gd160">
+        <z>64</z>
+        <a>160</a>
+        <x>2.918019795225515e-10</x>
+      </nuclide>
+      <nuclide name="tb159">
+        <z>65</z>
+        <a>159</a>
+        <x>2.425199236363009e-10</x>
+      </nuclide>
+      <nuclide name="dy156">
+        <z>66</z>
+        <a>156</a>
+        <x>8.720670116175004e-13</x>
+      </nuclide>
+      <nuclide name="dy158">
+        <z>66</z>
+        <a>158</a>
+        <x>1.510712675537870e-12</x>
+      </nuclide>
+      <nuclide name="dy160">
+        <z>66</z>
+        <a>160</a>
+        <x>3.731503815808495e-11</x>
+      </nuclide>
+      <nuclide name="dy161">
+        <z>66</z>
+        <a>161</a>
+        <x>3.033996916941092e-10</x>
+      </nuclide>
+      <nuclide name="dy162">
+        <z>66</z>
+        <a>162</a>
+        <x>4.138751724122736e-10</x>
+      </nuclide>
+      <nuclide name="dy163">
+        <z>66</z>
+        <a>163</a>
+        <x>4.048853645479952e-10</x>
+      </nuclide>
+      <nuclide name="dy164">
+        <z>66</z>
+        <a>164</a>
+        <x>4.604683803076047e-10</x>
+      </nuclide>
+      <nuclide name="ho165">
+        <z>67</z>
+        <a>165</a>
+        <x>3.710382573358657e-10</x>
+      </nuclide>
+      <nuclide name="er162">
+        <z>68</z>
+        <a>162</a>
+        <x>1.438318668482258e-12</x>
+      </nuclide>
+      <nuclide name="er164">
+        <z>68</z>
+        <a>164</a>
+        <x>1.675938969768219e-11</x>
+      </nuclide>
+      <nuclide name="er166">
+        <z>68</z>
+        <a>166</a>
+        <x>3.539717875383739e-10</x>
+      </nuclide>
+      <nuclide name="er167">
+        <z>68</z>
+        <a>167</a>
+        <x>2.433167130221331e-10</x>
+      </nuclide>
+      <nuclide name="er168">
+        <z>68</z>
+        <a>168</a>
+        <x>2.855693158822640e-10</x>
+      </nuclide>
+      <nuclide name="er170">
+        <z>68</z>
+        <a>170</a>
+        <x>1.608249814324187e-10</x>
+      </nuclide>
+      <nuclide name="tm169">
+        <z>69</z>
+        <a>169</a>
+        <x>1.615888874467721e-10</x>
+      </nuclide>
+      <nuclide name="yb168">
+        <z>70</z>
+        <a>168</a>
+        <x>1.368352971935848e-12</x>
+      </nuclide>
+      <nuclide name="yb170">
+        <z>70</z>
+        <a>170</a>
+        <x>3.250900694195416e-11</x>
+      </nuclide>
+      <nuclide name="yb171">
+        <z>70</z>
+        <a>171</a>
+        <x>1.531201545459269e-10</x>
+      </nuclide>
+      <nuclide name="yb172">
+        <z>70</z>
+        <a>172</a>
+        <x>2.362442586640796e-10</x>
+      </nuclide>
+      <nuclide name="yb173">
+        <z>70</z>
+        <a>173</a>
+        <x>1.750407158717108e-10</x>
+      </nuclide>
+      <nuclide name="yb174">
+        <z>70</z>
+        <a>174</a>
+        <x>3.468234484769077e-10</x>
+      </nuclide>
+      <nuclide name="yb176">
+        <z>70</z>
+        <a>176</a>
+        <x>1.402349319064689e-10</x>
+      </nuclide>
+      <nuclide name="lu175">
+        <z>71</z>
+        <a>175</a>
+        <x>1.580298948567216e-10</x>
+      </nuclide>
+      <nuclide name="lu176">
+        <z>71</z>
+        <a>176</a>
+        <x>4.233759372795300e-12</x>
+      </nuclide>
+      <nuclide name="hf174">
+        <z>72</z>
+        <a>174</a>
+        <x>1.095926886684645e-12</x>
+      </nuclide>
+      <nuclide name="hf176">
+        <z>72</z>
+        <a>176</a>
+        <x>3.570425885364701e-11</x>
+      </nuclide>
+      <nuclide name="hf177">
+        <z>72</z>
+        <a>177</a>
+        <x>1.284955682885410e-10</x>
+      </nuclide>
+      <nuclide name="hf178">
+        <z>72</z>
+        <a>178</a>
+        <x>1.891046809041778e-10</x>
+      </nuclide>
+      <nuclide name="hf179">
+        <z>72</z>
+        <a>179</a>
+        <x>9.508353337597703e-11</x>
+      </nuclide>
+      <nuclide name="hf180">
+        <z>72</z>
+        <a>180</a>
+        <x>2.463217472772717e-10</x>
+      </nuclide>
+      <nuclide name="ta180">
+        <z>73</z>
+        <a>180</a>
+        <x>1.129164386779360e-14</x>
+      </nuclide>
+      <nuclide name="ta181">
+        <z>73</z>
+        <a>181</a>
+        <x>9.477240609198541e-11</x>
+      </nuclide>
+      <nuclide name="w180">
+        <z>74</z>
+        <a>180</a>
+        <x>7.876832214226989e-13</x>
+      </nuclide>
+      <nuclide name="w182">
+        <z>74</z>
+        <a>182</a>
+        <x>1.611285202460691e-10</x>
+      </nuclide>
+      <nuclide name="w183">
+        <z>74</z>
+        <a>183</a>
+        <x>8.795037125519343e-11</x>
+      </nuclide>
+      <nuclide name="w184">
+        <z>74</z>
+        <a>184</a>
+        <x>1.898938818196688e-10</x>
+      </nuclide>
+      <nuclide name="w186">
+        <z>74</z>
+        <a>186</a>
+        <x>1.787843612400653e-10</x>
+      </nuclide>
+      <nuclide name="re185">
+        <z>75</z>
+        <a>185</a>
+        <x>9.031544451155254e-11</x>
+      </nuclide>
+      <nuclide name="re187">
+        <z>75</z>
+        <a>187</a>
+        <x>1.532567470120696e-10</x>
+      </nuclide>
+      <nuclide name="os184">
+        <z>76</z>
+        <a>184</a>
+        <x>5.678199407352840e-13</x>
+      </nuclide>
+      <nuclide name="os186">
+        <z>76</z>
+        <a>186</a>
+        <x>5.034191224391313e-11</x>
+      </nuclide>
+      <nuclide name="os187">
+        <z>76</z>
+        <a>187</a>
+        <x>5.108558233735654e-11</x>
+      </nuclide>
+      <nuclide name="os188">
+        <z>76</z>
+        <a>188</a>
+        <x>4.270386389642444e-10</x>
+      </nuclide>
+      <nuclide name="os189">
+        <z>76</z>
+        <a>189</a>
+        <x>5.211002583342652e-10</x>
+      </nuclide>
+      <nuclide name="os190">
+        <z>76</z>
+        <a>190</a>
+        <x>8.554735564712805e-10</x>
+      </nuclide>
+      <nuclide name="os192">
+        <z>76</z>
+        <a>192</a>
+        <x>1.345284022098421e-09</x>
+      </nuclide>
+      <nuclide name="ir191">
+        <z>77</z>
+        <a>191</a>
+        <x>1.193337550965275e-09</x>
+      </nuclide>
+      <nuclide name="ir193">
+        <z>77</z>
+        <a>193</a>
+        <x>2.021113190690959e-09</x>
+      </nuclide>
+      <nuclide name="pt190">
+        <z>78</z>
+        <a>190</a>
+        <x>8.170253067422342e-13</x>
+      </nuclide>
+      <nuclide name="pt192">
+        <z>78</z>
+        <a>192</a>
+        <x>5.099452069326142e-11</x>
+      </nuclide>
+      <nuclide name="pt194">
+        <z>78</z>
+        <a>194</a>
+        <x>2.164079971920282e-09</x>
+      </nuclide>
+      <nuclide name="pt195">
+        <z>78</z>
+        <a>195</a>
+        <x>2.234425091983754e-09</x>
+      </nuclide>
+      <nuclide name="pt196">
+        <z>78</z>
+        <a>196</a>
+        <x>1.675736610559119e-09</x>
+      </nuclide>
+      <nuclide name="pt198">
+        <z>78</z>
+        <a>198</a>
+        <x>4.823079979497484e-10</x>
+      </nuclide>
+      <nuclide name="au197">
+        <z>79</z>
+        <a>197</a>
+        <x>9.318388630054849e-10</x>
+      </nuclide>
+      <nuclide name="hg196">
+        <z>80</z>
+        <a>196</a>
+        <x>2.578056323937105e-12</x>
+      </nuclide>
+      <nuclide name="hg198">
+        <z>80</z>
+        <a>198</a>
+        <x>1.697844354153320e-10</x>
+      </nuclide>
+      <nuclide name="hg199">
+        <z>80</z>
+        <a>199</a>
+        <x>2.889335377335556e-10</x>
+      </nuclide>
+      <nuclide name="hg200">
+        <z>80</z>
+        <a>200</a>
+        <x>3.971299478592284e-10</x>
+      </nuclide>
+      <nuclide name="hg201">
+        <z>80</z>
+        <a>201</a>
+        <x>2.277755257632344e-10</x>
+      </nuclide>
+      <nuclide name="hg202">
+        <z>80</z>
+        <a>202</a>
+        <x>5.186213580227873e-10</x>
+      </nuclide>
+      <nuclide name="hg204">
+        <z>80</z>
+        <a>204</a>
+        <x>1.202317240869098e-10</x>
+      </nuclide>
+      <nuclide name="tl203">
+        <z>81</z>
+        <a>203</a>
+        <x>2.788231657488846e-10</x>
+      </nuclide>
+      <nuclide name="tl205">
+        <z>81</z>
+        <a>205</a>
+        <x>6.725534788952290e-10</x>
+      </nuclide>
+      <nuclide name="pb204">
+        <z>82</z>
+        <a>204</a>
+        <x>3.152857657386348e-10</x>
+      </nuclide>
+      <nuclide name="pb206">
+        <z>82</z>
+        <a>206</a>
+        <x>3.136871279867429e-09</x>
+      </nuclide>
+      <nuclide name="pb207">
+        <z>82</z>
+        <a>207</a>
+        <x>3.403428948054725e-09</x>
+      </nuclide>
+      <nuclide name="pb208">
+        <z>82</z>
+        <a>208</a>
+        <x>9.665080545045842e-09</x>
+      </nuclide>
+      <nuclide name="bi209">
+        <z>83</z>
+        <a>209</a>
+        <x>7.612753446351170e-10</x>
+      </nuclide>
+      <nuclide name="th232">
+        <z>90</z>
+        <a>232</a>
+        <x>1.965919716408868e-10</x>
+      </nuclide>
+      <nuclide name="u235">
+        <z>92</z>
+        <a>235</a>
+        <x>3.851907545223140e-13</x>
+      </nuclide>
+      <nuclide name="u238">
+        <z>92</z>
+        <a>238</a>
+        <x>5.376026518363901e-11</x>
+      </nuclide>
+    </mass_fractions>
+  </zone>
+</zone_data>

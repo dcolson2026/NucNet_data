@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- added R(T9) up until T9=275 to account for extended partf -->
+
+<nuclear_network
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xsi:schemaLocation="http://libnucnet.sourceforge.net/xsd_pub/2019-01-15/libnucnet__net       http://libnucnet.sourceforge.net/xsd_pub/2019-01-15/libnucnet__net.xsd"
+>
+
+   <!-- Nuclear data -->
+
+   <nuclear_data>
+        <xi:include href="my_net_extended_partf_UPDATED_masses.xml" xpointer="xpointer(//nuclide)"/>
+        <!-- ^updated masses from my_net_extended_partf.xml using FRDM 2012 -->
+   </nuclear_data>
+
+   <!-- Reaction data -->
+
+   <reaction_data>
+      <xi:include href="net_non_fission_reactions.xml" xpointer="xpointer(//reaction)"/>
+      <!-- extended partf, includes beta decays, all alpha decays from nudat -->
+      <!-- <xi:include href="my_fission_data_v3.xml" xpointer="xpointer(//reaction)"/> -->
+   </reaction_data>
+
+</nuclear_network>

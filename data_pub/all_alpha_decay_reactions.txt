@@ -1,0 +1,3186 @@
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+dy150
+2
+he4
+gd146
+0.0005899639314473005
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+er152
+2
+he4
+dy148
+0.06037059567484255
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+er154
+2
+he4
+dy150
+1.448189722456281e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+yb154
+2
+he4
+er150
+1.551763245258595
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+yb156
+2
+he4
+er152
+0.002696655453633206
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hf156
+2
+he4
+yb152
+29.568239074194206
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hf158
+2
+he4
+yb154
+0.30961747250182864
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hf160
+2
+he4
+yb156
+0.00036376881140895564
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hf162
+2
+he4
+yb158
+1.4152248997899404e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+w158
+2
+he4
+hf154
+550.586376338294
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+w160
+2
+he4
+hf156
+6.773692244437564
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+w162
+2
+he4
+hf158
+0.26352720813838465
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+w164
+2
+he4
+hf160
+0.004176624782068086
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+w166
+2
+he4
+hf162
+1.2613205196080211e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os162
+2
+he4
+w158
+331.76109902458325
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os166
+2
+he4
+w162
+2.3486887147710216
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os168
+2
+he4
+w164
+0.14481897224562798
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os170
+2
+he4
+w166
+0.008929465446137095
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os172
+2
+he4
+w168
+0.00040815531950033867
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os174
+2
+he4
+w170
+3.897853040680338e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt166
+2
+he4
+os162
+2295.226032513108
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt168
+2
+he4
+os164
+339.48880774321714
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt172
+2
+he4
+os168
+6.931471805599452
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt174
+2
+he4
+os170
+0.6037059567484255
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt176
+2
+he4
+os172
+0.043734630438003616
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt178
+2
+he4
+os174
+0.002575285965273984
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt180
+2
+he4
+os176
+3.722420755250837e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt182
+2
+he4
+os178
+1.662744274452743e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg172
+2
+he4
+pt168
+3025.697183870492
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg174
+2
+he4
+pt170
+347.3965179213825
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg176
+2
+he4
+pt172
+30.961747250182857
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg178
+2
+he4
+pt174
+2.3486887147710216
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg180
+2
+he4
+pt176
+0.12907004487348084
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg182
+2
+he4
+pt178
+0.008929465446137095
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg184
+2
+he4
+pt180
+0.00025166652998708514
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg186
+2
+he4
+pt182
+1.3830104480981878e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pb178
+2
+he4
+hg174
+3025.697183870492
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pb180
+2
+he4
+hg176
+170.14745640024398
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pb184
+2
+he4
+hg180
+1.1241530963879927
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pb186
+2
+he4
+hg182
+0.058996393144730014
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pb188
+2
+he4
+hg184
+0.002575285965273984
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pb190
+2
+he4
+hg186
+3.988645701468418e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po186
+2
+he4
+pb182
+20456.223547063004
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po190
+2
+he4
+pb186
+282.3744909756479
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po194
+2
+he4
+pb190
+1.7816625897494114
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po196
+2
+he4
+pb192
+0.12326093593162821
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po198
+2
+he4
+pb194
+0.0037224207552508334
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po200
+2
+he4
+pb196
+0.00011241530963879925
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po202
+2
+he4
+pb198
+5.021407432222168e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po212
+2
+he4
+pb208
+2348688.7147710226
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po214
+2
+he4
+pb210
+4273.910870876406
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po216
+2
+he4
+pb212
+4.795406869165102
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po218
+2
+he4
+pb214
+0.0037224207552508334
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn194
+2
+he4
+po190
+892.9465446137091
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn196
+2
+he4
+po192
+148.1922394482522
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn200
+2
+he4
+po196
+0.5899639314473003
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn202
+2
+he4
+po198
+0.05634111805522303
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn204
+2
+he4
+po200
+0.006773692244437569
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn206
+2
+he4
+po202
+0.0012613205196080211
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn208
+2
+he4
+po204
+0.000295682390741942
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn210
+2
+he4
+po206
+7.777239281356335e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn212
+2
+he4
+po208
+0.0004795406869165102
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn214
+2
+he4
+po210
+2575285.9652739866
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn216
+2
+he4
+po212
+15517.63245258594
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn218
+2
+he4
+po214
+20.45622354706302
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn220
+2
+he4
+po216
+0.012326093593162822
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn222
+2
+he4
+po218
+2.0932710204238157e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra202
+2
+he4
+rn198
+170.14745640024398
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra204
+2
+he4
+rn200
+11.50337985784544
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra208
+2
+he4
+rn204
+0.5505863763382941
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra214
+2
+he4
+rn210
+0.282374490975648
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra216
+2
+he4
+rn212
+3809127.073168612
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra218
+2
+he4
+rn214
+27594.686282985367
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra220
+2
+he4
+rn216
+38.97853040680338
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra222
+2
+he4
+rn218
+0.02045622354706302
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra224
+2
+he4
+rn220
+2.1919238442934133e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th208
+2
+he4
+ra204
+288.9518378142257
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th212
+2
+he4
+ra208
+21.91923844293413
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th214
+2
+he4
+ra210
+7.95839445590255
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th216
+2
+he4
+ra212
+26.966554536332076
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th218
+2
+he4
+ra214
+5899639.3144729985
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th220
+2
+he4
+ra216
+70929.26524861543
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th222
+2
+he4
+ra218
+309.61747250182856
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th224
+2
+he4
+ra220
+0.6619504184564093
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th226
+2
+he4
+ra222
+0.0003722420755250833
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+u216
+2
+he4
+th212
+100.19025017617537
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+u218
+2
+he4
+th214
+1261.3205196080212
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+u222
+2
+he4
+th218
+148192.2394482522
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+u224
+2
+he4
+th220
+1741.1069978876471
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+u226
+2
+he4
+th222
+2.575285965273985
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pu228
+2
+he4
+u224
+0.33176109902458306
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pu230
+2
+he4
+u226
+0.006773692244437569
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pu232
+2
+he4
+u228
+3.988645701468418e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pu234
+2
+he4
+u230
+1.3207647243239546e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cm234
+2
+he4
+pu230
+0.003637688114089556
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cm236
+2
+he4
+pu232
+0.00030961747250182856
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cm238
+2
+he4
+pu234
+3.3948880774321754e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cf238
+2
+he4
+cm234
+0.06619504184564093
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cf240
+2
+he4
+cm236
+0.01701474564002439
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cf242
+2
+he4
+cm238
+0.0026352720813838464
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cf244
+2
+he4
+cm240
+0.0005899639314473005
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cf246
+2
+he4
+cm242
+5.380535003089644e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fm244
+2
+he4
+cf240
+0.8929465446137093
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fm248
+2
+he4
+cf244
+0.019090858603361238
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fm252
+2
+he4
+cf248
+7.600207702021034e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fm254
+2
+he4
+cf250
+5.899639314472998e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fm256
+2
+he4
+cf252
+5.899639314472998e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+no254
+2
+he4
+fm250
+0.012326093593162822
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+no256
+2
+he4
+fm252
+0.2403396702874077
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+no258
+2
+he4
+fm254
+0.00576534712831724
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rf256
+2
+he4
+no252
+0.33176109902458306
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rf258
+2
+he4
+no254
+6.619504184564093
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rf260
+2
+he4
+no256
+0.6619504184564093
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+sg260
+2
+he4
+rf256
+56.34111805522303
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hs264
+2
+he4
+sg260
+646.8825873428777
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hs268
+2
+he4
+sg264
+0.4907106244351641
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hs270
+2
+he4
+sg266
+0.07777239281356339
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ds270
+2
+he4
+hs266
+3394.8880774321715
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fl286
+2
+he4
+cn282
+1.9990583050382682
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fl288
+2
+he4
+cn284
+0.9137459415845225
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+lv290
+2
+he4
+fl286
+87.26205997203952
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+lv292
+2
+he4
+fl288
+28.895183781422574
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+og294
+2
+he4
+lv290
+603.7059567484255
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+dy151
+2
+he4
+gd147
+3.6376881140895523e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+er153
+2
+he4
+dy149
+0.010019025017617532
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+yb155
+2
+he4
+er151
+0.3473965179213824
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+yb157
+2
+he4
+er153
+8.929465446137091e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hf157
+2
+he4
+yb153
+5.634111805522305
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hf159
+2
+he4
+yb155
+0.047954068691651044
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+w159
+2
+he4
+hf155
+69.31471805599453
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+w161
+2
+he4
+hf157
+1.2326093593162821
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+w163
+2
+he4
+hf159
+0.037224207552508326
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+w167
+2
+he4
+hf163
+1.4152248997899406e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os161
+2
+he4
+w157
+1073.5578726035735
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os163
+2
+he4
+w159
+126.1320519608021
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os165
+2
+he4
+w161
+8.726205997203952
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os167
+2
+he4
+w163
+0.42739108708764056
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os169
+2
+he4
+w165
+0.027594686282985396
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os171
+2
+he4
+w167
+0.001516440801377879
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+os173
+2
+he4
+w169
+0.0001290700448734808
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt167
+2
+he4
+os163
+872.6205997203953
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt171
+2
+he4
+os167
+13.830104480981886
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt173
+2
+he4
+os169
+1.551763245258595
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt175
+2
+he4
+os171
+0.18231628426993532
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt177
+2
+he4
+os173
+0.0037224207552508334
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt179
+2
+he4
+os175
+7.958394455902549e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pt181
+2
+he4
+os177
+9.790964164903308e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg171
+2
+he4
+pt167
+9790.96416490331
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg173
+2
+he4
+pt169
+872.6205997203953
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg177
+2
+he4
+pt173
+4.57957800700894
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg179
+2
+he4
+pt175
+0.5021407432222165
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg181
+2
+he4
+pt177
+0.052580590736747895
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg183
+2
+he4
+pt179
+0.008726205997203952
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hg185
+2
+he4
+pt181
+0.0008527573298195514
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pb179
+2
+he4
+hg175
+178.1662589749412
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pb185
+2
+he4
+hg181
+0.038091270731686104
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pb187
+2
+he4
+hg183
+0.004373463043800359
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pb189
+2
+he4
+hg185
+7.092926524861541e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po187
+2
+he4
+pb183
+490.7106244351643
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po189
+2
+he4
+pb185
+182.31628426993527
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po195
+2
+he4
+pb191
+0.1415224899789942
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po197
+2
+he4
+pb193
+0.00576534712831724
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po199
+2
+he4
+pb195
+0.0001587908454551961
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po201
+2
+he4
+pb197
+8.333462031425566e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po211
+2
+he4
+pb207
+1.351529286852324
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po213
+2
+he4
+pb209
+186562.97607209056
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po215
+2
+he4
+pb211
+389.78530406803384
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+po219
+2
+he4
+pb215
+0.0003168293898988004
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn193
+2
+he4
+po189
+603.7059567484255
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn195
+2
+he4
+po191
+97.90964164903299
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn197
+2
+he4
+po193
+12.907004487348082
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn203
+2
+he4
+po199
+0.010491207119583484
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn205
+2
+he4
+po201
+0.0010019025017617537
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn207
+2
+he4
+po203
+0.0002635272081383847
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn209
+2
+he4
+po205
+6.931471805599453e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn211
+2
+he4
+po207
+3.6376881140895523e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn213
+2
+he4
+po209
+35.5488422331686
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn215
+2
+he4
+po211
+302569.71838704887
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn217
+2
+he4
+po213
+1290.700448734808
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn219
+2
+he4
+po215
+0.17411069978876476
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rn221
+2
+he4
+po217
+0.00010019025017617536
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra201
+2
+he4
+rn197
+34.73965179213823
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra203
+2
+he4
+rn199
+19.090858603361237
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra207
+2
+he4
+rn203
+0.42739108708764056
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra209
+2
+he4
+rn205
+0.14819223944825213
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra213
+2
+he4
+rn209
+0.0033948880774321718
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra215
+2
+he4
+rn211
+417.6624782068086
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra217
+2
+he4
+rn213
+427391.08708764066
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra219
+2
+he4
+rn215
+69.31471805599453
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra221
+2
+he4
+rn217
+0.024593790037217133
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ra223
+2
+he4
+rn219
+7.092926524861542e-07
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th215
+2
+he4
+ra211
+0.5765347128317241
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th217
+2
+he4
+ra213
+2823.744909756479
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th219
+2
+he4
+ra215
+677369.2244437567
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th221
+2
+he4
+ra217
+389.78530406803384
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th223
+2
+he4
+ra219
+1.150337985784544
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+th225
+2
+he4
+ra221
+0.0011771327996076815
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+u219
+2
+he4
+th215
+12613.205196080211
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+u221
+2
+he4
+th217
+1049120.7119583478
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+u225
+2
+he4
+th221
+11.241530963879926
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+u227
+2
+he4
+th223
+0.010491207119583484
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+u229
+2
+he4
+th225
+3.988645701468418e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pu231
+2
+he4
+u227
+0.00018231628426993528
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pu233
+2
+he4
+u229
+6.931471805599452e-07
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cm233
+2
+he4
+pu229
+0.005138371036779438
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cm237
+2
+he4
+pu233
+1.049120711958348e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cf237
+2
+he4
+cm233
+0.6037059567484255
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cf243
+2
+he4
+cm239
+0.00015164408013778794
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cf245
+2
+he4
+cm241
+9.350298187484209e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fm243
+2
+he4
+cf239
+2.759468628298539
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fm247
+2
+he4
+cf243
+0.01415224899789942
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+no251
+2
+he4
+fm247
+0.7258142007653101
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+no253
+2
+he4
+fm249
+0.004081553195003386
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+no259
+2
+he4
+fm255
+0.00015164408013778794
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rf255
+2
+he4
+no251
+0.1999058305038268
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rf261
+2
+he4
+no257
+0.08726205997203951
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+rf263
+2
+he4
+no259
+0.0003168293898988004
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+sg259
+2
+he4
+rf255
+1.6627442744527432
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+sg261
+2
+he4
+rf257
+3.7224207552508335
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+sg263
+2
+he4
+rf259
+0.6468825873428774
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hs265
+2
+he4
+sg261
+355.48842233168597
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+hs269
+2
+he4
+sg265
+0.043734630438003616
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ds267
+2
+he4
+hs263
+69314.71805599453
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ds271
+2
+he4
+hs267
+7.777239281356338
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ds273
+2
+he4
+hs269
+2889.518378142257
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ds277
+2
+he4
+hs273
+115.03379857845447
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cn281
+2
+he4
+ds277
+3.8091270731686095
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+cn285
+2
+he4
+ds281
+0.02142029566144072
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+tb149
+2
+he4
+eu145
+7.777239281356334e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+tm153
+2
+he4
+ho149
+0.42739108708764056
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+tm155
+2
+he4
+ho151
+0.00028895183781422573
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+lu155
+2
+he4
+tm151
+9.137459415845226
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ta163
+2
+he4
+lu159
+0.00013207647243239533
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+re163
+2
+he4
+ta159
+0.5765347128317241
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+re165
+2
+he4
+ta161
+0.03897853040680338
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+re169
+2
+he4
+ta165
+4.579578007008943e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ir167
+2
+he4
+re163
+10.25239809001358
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ir169
+2
+he4
+re165
+1.0491207119583486
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ir175
+2
+he4
+re171
+0.0006619504184564093
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ir177
+2
+he4
+re173
+1.4152248997899406e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+au173
+2
+he4
+ir169
+23.486887147710213
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+au175
+2
+he4
+ir171
+3.0256971838704914
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+au177
+2
+he4
+ir173
+0.19090858603361238
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+au179
+2
+he4
+ir175
+0.02142029566144072
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+au181
+2
+he4
+ir177
+0.001383010448098188
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+au183
+2
+he4
+ir179
+8.929465446137091e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+au185
+2
+he4
+ir181
+7.258142007653095e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+tl177
+2
+he4
+au173
+28.237449097564806
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+tl179
+2
+he4
+au175
+1.5879084545519615
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+tl183
+2
+he4
+au179
+0.001999058305038268
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+bi187
+2
+he4
+tl183
+18.656297607209066
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+bi189
+2
+he4
+tl185
+1.0491207119583486
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+bi211
+2
+he4
+tl207
+0.005380535003089648
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+bi213
+2
+he4
+tl209
+5.258059073674789e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at197
+2
+he4
+bi193
+1.7014745640024391
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at199
+2
+he4
+bi195
+0.08929465446137093
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at201
+2
+he4
+bi197
+0.005899639314473005
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at203
+2
+he4
+bi199
+0.0004907106244351643
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at205
+2
+he4
+bi201
+3.4739651792138254e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at207
+2
+he4
+bi203
+1.0735578726035747e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at209
+2
+he4
+bi205
+1.481922394482522e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at211
+2
+he4
+bi207
+1.1241530963879925e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at213
+2
+he4
+bi209
+5505863.763382946
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at215
+2
+he4
+bi211
+6931.471805599453
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at217
+2
+he4
+bi213
+21.42029566144072
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at219
+2
+he4
+bi215
+0.01150337985784544
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr199
+2
+he4
+at195
+104.9120711958349
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr201
+2
+he4
+at197
+10.985642478430714
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr203
+2
+he4
+at199
+1.2613205196080217
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr205
+2
+he4
+at201
+0.18231628426993532
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr207
+2
+he4
+at203
+0.04475334084719767
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr209
+2
+he4
+at205
+0.012326093593162822
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr211
+2
+he4
+at207
+0.00324209294432029
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr213
+2
+he4
+at209
+0.01999058305038268
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr215
+2
+he4
+at211
+8143769.276531088
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr219
+2
+he4
+at215
+34.73965179213823
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr221
+2
+he4
+at217
+0.0024033967028740774
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac207
+2
+he4
+fr203
+22.429803094785402
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac211
+2
+he4
+fr207
+3.2420929443202913
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac215
+2
+he4
+fr211
+4.081553195003386
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac217
+2
+he4
+fr213
+10019025.017617537
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac219
+2
+he4
+fr215
+58996.39314472999
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac221
+2
+he4
+fr217
+13.207647243239538
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac223
+2
+he4
+fr219
+0.00550586376338294
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac225
+2
+he4
+fr221
+8.143769276531089e-07
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pa213
+2
+he4
+ac209
+97.90964164903299
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pa215
+2
+he4
+ac211
+49.071062443516425
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pa217
+2
+he4
+ac213
+199.90583050382676
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pa221
+2
+he4
+ac217
+117713.27996076828
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pa223
+2
+he4
+ac219
+135.15292868523244
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pa225
+2
+he4
+ac221
+0.4081553195003386
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pa227
+2
+he4
+ac223
+0.0002575285965273984
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+np225
+2
+he4
+pa221
+115.03379857845447
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+np227
+2
+he4
+pa223
+1.351529286852324
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+np229
+2
+he4
+pa225
+0.001953554182544231
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+np231
+2
+he4
+pa227
+5.021407432222168e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+am229
+2
+he4
+np225
+0.3473965179213824
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+am233
+2
+he4
+np229
+0.0001662744274452743
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+am235
+2
+he4
+np231
+4.579578007008943e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+md247
+2
+he4
+es243
+0.5765347128317241
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+md251
+2
+he4
+es247
+0.00027594686282985396
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+md253
+2
+he4
+es249
+5.7653471283172405e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+md255
+2
+he4
+es251
+3.0256971838704888e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+md257
+2
+he4
+es253
+5.380535003089644e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+lr253
+2
+he4
+md249
+0.9790964164903301
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+lr257
+2
+he4
+md253
+0.1150337985784544
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+bh261
+2
+he4
+db257
+51.38371036779438
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ho152
+2
+he4
+tb148
+0.000525805907367479
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+tm154
+2
+he4
+ho150
+0.04686250082175311
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+tm156
+2
+he4
+ho152
+5.258059073674789e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+lu158
+2
+he4
+tm154
+0.0005899639314473005
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ta158
+2
+he4
+lu154
+13.515292868523241
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+re160
+2
+he4
+ta156
+126.1320519608021
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+re162
+2
+he4
+ta158
+6.177680749388118
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+re164
+2
+he4
+ta160
+0.02403396702874077
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+re166
+2
+he4
+ta162
+0.01587908454551962
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+re168
+2
+he4
+ta164
+7.958394455902541e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ir166
+2
+he4
+re162
+61.776807493881186
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ir168
+2
+he4
+re164
+3.0256971838704914
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ir172
+2
+he4
+re168
+0.003168293898988004
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ir174
+2
+he4
+re170
+0.00046862500821753106
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+au170
+2
+he4
+ir166
+263.5272081383847
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+au176
+2
+he4
+ir172
+0.5021407432222165
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+bi186
+2
+he4
+tl182
+46.862500821753116
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+bi190
+2
+he4
+tl186
+0.08527573298195516
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+bi192
+2
+he4
+tl188
+0.0025166652998708516
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+bi194
+2
+he4
+tl190
+3.394888077432175e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+bi212
+2
+he4
+tl208
+6.931471805599453e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at192
+2
+he4
+bi188
+60.37059567484255
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at200
+2
+he4
+bi196
+0.008333462031425567
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at202
+2
+he4
+bi198
+0.0004795406869165102
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at204
+2
+he4
+bi200
+4.7954068691651016e-05
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at206
+2
+he4
+bi202
+3.3948880774321754e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at212
+2
+he4
+bi208
+2.191923844293413
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+at218
+2
+he4
+bi214
+0.457957800700894
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr200
+2
+he4
+at196
+14.481897224562802
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr204
+2
+he4
+at200
+0.380912707316861
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr206
+2
+he4
+at202
+0.038091270731686104
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr208
+2
+he4
+at204
+0.010491207119583484
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr210
+2
+he4
+at206
+0.002575285965273984
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr212
+2
+he4
+at208
+0.00025166652998708514
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr214
+2
+he4
+at210
+135.15292868523244
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr218
+2
+he4
+at214
+693.1471805599452
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fr220
+2
+he4
+at216
+0.025166652998708516
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac206
+2
+he4
+fr202
+27.594686282985396
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac216
+2
+he4
+fr212
+1587.908454551961
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac218
+2
+he4
+fr214
+693147.1805599453
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac220
+2
+he4
+fr216
+26.352720813838467
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+ac222
+2
+he4
+fr218
+0.13830104480981886
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pa212
+2
+he4
+ac208
+91.37459415845227
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pa220
+2
+he4
+ac216
+892946.54461371
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+pa224
+2
+he4
+ac220
+0.8143769276531083
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+es248
+2
+he4
+bk244
+1.2045517448223667e-06
+
+single_rate
+Nuclear properties for astrophysical and radioactive-ion-beam applications (II)
+1
+fl289
+2
+he4
+cn285
+0.2889518378142257
+

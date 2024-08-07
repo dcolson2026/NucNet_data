@@ -1,0 +1,106 @@
+single_rate
+single rate fission example
+1
+ac273
+4
+mo128
+ag143
+n
+n
+20.0
+
+single_rate
+single rate fission example
+1
+ac273
+5
+mo126
+ag144
+n
+n
+n
+30.0
+
+single_rate
+single rate fission example
+1
+ac273
+3
+mo127
+ag145
+n
+40.0
+
+single_rate
+single rate fission example
+1
+ac273
+3
+nb125
+cd147
+n
+10.0
+
+rate_table
+rate table fission example
+2
+n
+th284
+4
+cu92
+zn96
+ga96
+n
+10
+0.1 300.01
+0.2 450.01
+0.3 600.01
+0.5 900.01
+1.0 960.01
+2.0 1050.01
+3.0 990.01
+5.0 960.01
+7.0 930.01
+10.0 900.01
+
+rate_table
+rate table fission example
+2
+n
+th284
+3
+cu93
+zn95
+ga97
+10
+0.1 400.01
+0.2 600.01
+0.3 800.01
+0.5 1200.01
+1.0 1280.01
+2.0 1400.01
+3.0 1320.01
+5.0 1280.01
+7.0 1240.01
+10.0 1200.01
+
+rate_table
+rate table fission example
+2
+n
+th284
+2
+zr131
+sn154
+10
+0.1 300.01
+0.2 450.01
+0.3 600.01
+0.5 900.01
+1.0 960.01
+2.0 1050.01
+3.0 990.01
+5.0 960.01
+7.0 930.01
+10.0 900.01
+

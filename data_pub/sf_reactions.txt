@@ -1,0 +1,419 @@
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+90  232
+1.8281795815313493e-29
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+100  250
+2.7670617697881632e-08
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+92  234
+1.4521746597567678e-24
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+100  252
+1.7458979462782027e-10
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+92  236
+8.750217618907115e-25
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+100  254
+3.48352437799046e-08
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+92  238
+2.704075754120851e-24
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+100  256
+6.637718862328177e-05
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+94  236
+1.452174659756768e-17
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+102  252
+0.07621120950260264
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+94  238
+4.592179485211444e-19
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+102  254
+2.4100100526449245e-05
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+94  240
+1.9143390307852134e-19
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+102  256
+0.00129425202784227
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+94  242
+3.2510141076907597e-19
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+104  254
+27670.617697881607
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+94  244
+3.3267399542058213e-19
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+104  256
+112.72463924774439
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+96  240
+1.153503333995926e-14
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+104  258
+49.20608971520148
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+96  242
+3.104694369895773e-15
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+104  260
+34.83524377990455
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+96  244
+1.667319594645735e-15
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+104  262
+0.3326739954205822
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+96  246
+1.207866271299027e-15
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+106  258
+219.79552909688775
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+96  248
+5.2725275065092055e-15
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+106  260
+98.17905647571945
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+96  250
+1.9589297150520427e-12
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+106  262
+45.921794852114445
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+98  242
+4.699145086512309e-07
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+106  264
+18.70763354411783
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+98  246
+1.2078662712990271e-11
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+106  266
+1.5922778514149443
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+98  248
+6.792331196550206e-13
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+108  264
+348.3524377990455
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+98  250
+1.2942520278422698e-12
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+110  270
+8.75021761890708
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+98  252
+2.582372297225737e-10
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+112  282
+875.0217618907079
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+98  254
+1.3243990303361514e-07
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+112  284
+6.950544914679772
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+100  246
+0.0875021761890708
+
+single_rate
+exp from Semi-empirical formula for spontaneous fission half life time
+1
+102  262
+138.61775283233132
+
+single_rate
+manual add from nudat3
+1
+98  238
+31.21
+
+single_rate
+manual add from nudat3
+1
+98  256
+9.39e-4
+
+single_rate
+manual add from nudat3
+1
+100  241
+740.62
+
+single_rate
+manual add from nudat3
+1
+100  242
+866.43
+
+single_rate
+manual add from nudat3
+1
+100  244
+215.49768
+
+single_rate
+manual add from nudat3
+1
+100  258
+1873.37
+
+single_rate
+manual add from nudat3
+1
+100  259
+0.462
+
+single_rate
+manual add from nudat3
+1
+101  259
+1.196e-4
+
+single_rate
+manual add from nudat3
+1
+102  250
+150684
+
+single_rate
+manual add from nudat3
+1
+102  258
+563.5
+
+single_rate
+manual add from nudat3
+1
+102  260
+6.478
+
+single_rate
+manual add from nudat3
+1
+103  261
+2.75e-4
+
+single_rate
+manual add from nudat3
+1
+103  264
+3.929e-5
+
+single_rate
+manual add from nudat3
+1
+103  266
+1.75e-5
+
+single_rate
+manual add from nudat3
+1
+104  253
+67.3
+
+single_rate
+manual add from nudat3
+1
+104  263
+8.476e-4
+
+single_rate
+manual add from nudat3
+1
+104  265
+0.01155
+
+single_rate
+manual add from nudat3
+1
+104  267
+1.48e-4
+
+single_rate
+manual add from nudat3
+1
+105  266
+4.81e-4
+
+single_rate
+manual add from nudat3
+1
+105  267
+1.46e-4
+
+single_rate
+manual add from nudat3
+1
+105  270
+1.28e-5
+
+single_rate
+manual add from nudat3
+1
+106  258
+256.72
+
+single_rate
+manual add from nudat3
+1
+106  262
+57.15
+
+single_rate
+manual add from nudat3
+1
+106  264
+11.55
+
+single_rate
+manual add from nudat3
+1
+106  266
+2.04
+
+single_rate
+manual add from nudat3
+1
+106  267
+6.85e-3

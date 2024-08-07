@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<zone_data>
+  <zone>
+    <optional_properties>
+      <property name="tend">1000000000000.0</property>
+      <property name="tau_0">0.11</property>
+      <!-- was 0.195 (realistic). changing to 0.8 as of 07/19 -->
+      <property name="tau_1">1.e5000</property>
+      <!-- tau_1 is 1 -->
+      <property name="munuekT">-inf</property>
+      <property name="t9_0">6.</property>
+      <!-- was 10 with new network. got TERRIBLE results -->
+      <property name="steps">20</property>
+      <property name="rho_0">1.e15</property>
+      <!-- rho_0 was 1.4985e6  -->
+      <property name="rho_1">100</property>
+      <!-- was 1.5e3^. integrand fail when 0? -->
+      <property name="iterative solver method">gmres</property>
+      <property name="t9 for iterative solver">1.5</property>
+      <!-- was 2 -->
+    </optional_properties>
+    <mass_fractions>
+      <!-- initial mass fractions -->
+      <nuclide name="n">
+        <z>0</z>
+        <a>1</a>
+        <x>0.9</x>
+        <!-- high neutron density like in NSM -->
+      </nuclide>
+      <nuclide name="h1">
+        <z>1</z>
+        <a>1</a>
+        <x>0.1</x>
+      </nuclide>
+    </mass_fractions>
+  </zone>
+</zone_data>
+<!-- 
+The properties are
+
+dt = timestep (that is, the amount of time in seconds that passes in a single timestep of the calculation).
+
+time = the current time (in seconds) in the calculation. It starts by default at time = 0 although you can set that to a different value in the input file.
+
+tend = the end time of the calculation. If the default initial time is chosen (i.e., time = 0), then the calculation runs from time = 0 to time = tend.
+
+steps = the frequency of timesteps to save the results. Suppose steps = 5. In this case, the calculation will save the abundances and other properties every fifth timestep. At the end of the calculation, the code then dumps the stored data to another xml file (in this blog post called my_output.xml). By increasing steps, you save data less frequently, which leads to a smaller output file. For example, if steps = 10, the code will save data every tenth timestep. 
+
+munuekT is chemical potential of the electron-type neutrinos divided by kT. The value -infinity means that they escape the system. When the neutrinos are trapped, their chemical potential can be different from -infinity, which affects weak rates (either neutrinos are captured by nuclei or the neutrino degeneracy hinders decays). In short, we keep track of this quantity to compute weak interaction rates
+
+FYI rho is in g/cc
+-->
